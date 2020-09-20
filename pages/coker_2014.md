@@ -17,3 +17,6 @@ title: Coker 2014
 ##
 ## 命名
 ## 命名方式：Doc Daneeka，Major Major，Colonel Cathcart --- MILO THE MAYOR，MILO THE MILITANT
+## 命名方式：Doc Daneek
+## 命名方式：Doc Daneeka，Major Major，Colonel Cathcart，Colonel Corn
+## Milo Minderbinder--- MILO THE MAYOR，MILO THE MILITANT
