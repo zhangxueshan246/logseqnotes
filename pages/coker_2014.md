@@ -15,7 +15,6 @@ title: Coker 2014
 ##
 ## 斯诺登的死是人的死，其他人的死是飞机的死，人是看不见的，比如医院里的绷带人。
 ##
-## 命名
 ## 命名方式：Doc Daneeka，Major Major，Colonel Cathcart --- MILO THE MAYOR，MILO THE MILITANT
 ## 命名方式：Doc Daneek
 ## 命名方式：Doc Daneeka，Major Major，Colonel Cathcart，Colonel Corn
