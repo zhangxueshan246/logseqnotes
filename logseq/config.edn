@@ -11,8 +11,8 @@
  
  ;; zxs publish test
  :all-pages-public? true
- ;; :default-home {:page "Changelog"
- ;;                :sidebar "Contents"}
+ :default-home {:page "雪杉非狐的 logseq 笔记"
+                :sidebar "Contents"}
  
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
