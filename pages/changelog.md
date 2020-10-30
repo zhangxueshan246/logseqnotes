@@ -1,5 +1,6 @@
 ---
 title: Changelog
+public: true
 ---
 
 ##
