@@ -11,6 +11,8 @@
  
  ;; zxs publish test
  :all-pages-public? true
+ :default-home {:page "Changelog"
+                :sidebar "Contents"}
  
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
