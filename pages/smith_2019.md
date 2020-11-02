@@ -3,4 +3,4 @@ title: Smith 2019
 ---
 
 ## Smith, P., 2018. Drawing Vladek, Staging Shylock: Art Spiegelman’s Maus in American Holocaust Discourse. _Journal of Graphic Novels and Comics_, 10(2), pp.197-209.
-##
+## 美国叙述的主流：大屠杀幸存者是完美受害者
