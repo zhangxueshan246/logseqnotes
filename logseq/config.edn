@@ -33,7 +33,17 @@
  ;; Example for Markdown users: "## [[Work]]\n###\n## [[Family]]\n###\n
  ;; Example for Org mode users: "** [[Work]]\n***\n** [[Family]]\n***\n
  :default-templates
- {:journals ""}
+ {:journals "
+    ### 本日计划
+    #### 9:00 [[Maus 鼠族]]
+    #### 11:00 运动
+    #### 14:00 [[问题与方法]]
+    ### 本日实际
+    #### 9:00-10:15 [[Maus 鼠族]]
+    #### 12:00-12:45 [[Maus 鼠族]]
+    #### 14:00-16:30 [[问题与方法]]
+    ####
+  "}
 
  ;; The app will show those queries in today's journal page,
  ;; the "NOW" query asks the tasks which need to be finished "now",
