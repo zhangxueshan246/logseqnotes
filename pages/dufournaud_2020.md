@@ -2,4 +2,5 @@
 title: Dufournaud 2020
 ---
 
-## 
+## Dufournaud, Daniel. "Winner of the 2018 Siegel/McDaniel Award: Upward Mobility and Zuckerman's (Negative) Dialectics in I Married a Communist." _Philip Roth Studies _16.2 (2020): 16-38.
+##
