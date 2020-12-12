@@ -6,4 +6,5 @@ title: Ahuja 2020
 Editor	Neel Ahuja
 Publisher	Springer Nature
 ISBN	3030482448, 9783030482442
-## Modeling Long Novels: Network Analysis and A Brief History of Seven Killings by Lindsay Thomas pp.653-667
+## Modeling Long Novels: Network Analysis and A Brief History of Seven Killings by Lindsay Thomas pp.653-667.
+##
