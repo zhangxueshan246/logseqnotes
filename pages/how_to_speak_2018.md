@@ -2,6 +2,7 @@
 title: How to Speak 2018
 ---
 
+## https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/
 ## 开头：说计划、承诺，听众可以得到什么。
 ## 方法：
 ### 重复：总有人会走神
