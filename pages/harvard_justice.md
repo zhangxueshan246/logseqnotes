@@ -11,4 +11,4 @@ title: Harvard Justice
 ## L5 自由主义 [[2021-01-20]]
 ### 个人值得尊重
 ### Nozick, Robert 1974. _Anarchy, State and Utopia_
-#### 国家收税是拿走个人的劳动成果，
+#### 国家收税是拿走个人的劳动成果，相当于国家拥有个人的劳动，相当于半奴隶制。
