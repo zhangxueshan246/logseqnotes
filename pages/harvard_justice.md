@@ -10,4 +10,5 @@ title: Harvard Justice
 ### John Stuart Mill [[功利主义]]
 ## L5 自由主义 [[2021-01-20]]
 ### 个人值得尊重
-### Nozick, Robert 1974
+### Nozick, Robert 1974. _Anarchy, State and Utopia_
+###
