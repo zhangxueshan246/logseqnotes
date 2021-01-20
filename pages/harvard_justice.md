@@ -8,3 +8,4 @@ title: Harvard Justice
 ## L3 Jeremy Bentham 人命能不能用金钱来衡量
 ## L4 什么是 greater good？[[2021-01-19]]
 ### John Stuart Mill [[功利主义]]
+## L5 [[2021-01-20]]
