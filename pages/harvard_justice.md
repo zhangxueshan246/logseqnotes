@@ -13,6 +13,5 @@ title: Harvard Justice
 ### Nozick, Robert 1974. _Anarchy, State and Utopia_
 #### 国家收税是拿走个人的劳动成果，相当于国家拥有个人的劳动，相当于半奴隶制。
 ## L6 生活在社会之中的人是不是完全自主？ [[2021-01-22]]
-### John Locke
 ## L7 [[2021-01-23]]
 ###
