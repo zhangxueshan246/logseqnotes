@@ -42,4 +42,4 @@ title: Harvard Justice
 ## L15 收入分配 [[2021-02-03]]
 ### 差别原则
 ## L16 应得不等于权利
-###
+### life is not fair，但是
