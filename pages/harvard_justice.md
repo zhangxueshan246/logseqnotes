@@ -43,3 +43,4 @@ title: Harvard Justice
 ### 差别原则
 ## L16 应得不等于权利
 ### life is not fair，这是既成事实，社会如何处理才体现是否公平。
+###
