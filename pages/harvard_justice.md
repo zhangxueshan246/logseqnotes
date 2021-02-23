@@ -53,4 +53,4 @@ title: Harvard Justice
 ## L20 [[2021-02-23]]
 ### 如果公正基于某一种评价标准，那么至少评价标准不同的人感觉不自由
 ## L21 历史责任
-### Alasdair MacIntyre：叙事
+### Alasdair MacIntyre：人是通过叙事建立的，不能忘记过去的故事
