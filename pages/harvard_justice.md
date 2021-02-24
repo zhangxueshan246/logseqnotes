@@ -56,3 +56,5 @@ title: Harvard Justice
 ### Alasdair MacIntyre：人或者团体是通过叙事建立的，不能忘记过去的故事
 ### 爱国主义
 ### [[追寻美德]]
+## L22 [[2021-02-24]]
+###
