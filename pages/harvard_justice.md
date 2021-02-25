@@ -6,7 +6,7 @@ title: Harvard Justice
 ## L1 后果论 vs 绝对论 康德
 ## L2 功利主义 Parker男孩，最高法院判决写得真是漂亮。
 ## L3 Jeremy Bentham 人命能不能用金钱来衡量
-## L4 什么是 greater good？[[2021-01-19]]
+## L4 什么是 greater good？
 ### John Stuart Mill [[功利主义]]
 ## L5 自由主义 [[2021-01-20]]
 ### 个人值得尊重
