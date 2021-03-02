@@ -1,9 +1,17 @@
----
-title: Collins 2015
----
-
-## Collins, C., 2015. “Through That Gap the Future Might Pour”: Dreaming the Post-Cold War World in The Golden Notebook. In Doris Lessing’s The Golden Notebook After Fifty (pp. 55-72). Palgrave Macmillan, New York.
-## 梦境与精神分析：苏克大娘，红色共产主义之梦
-## 分析视角与意识形态依恋之间的分歧
-## 英国共产党：其政治内容是叛逆的，但形式上是纪律性的
-## 混乱是世界上唯一可见的压迫性社会形式的替代品
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSAzVVlIMCtqK3JQTTRTWmk2
+eDRsU1g3Q09pbFpzenBobVBaZGFZSjNaN2t3ClhrdkNyLytBWXlCYXlOWllwSGxD
+MVVaR2szVEo2Wlh3Nm1tU0dZTVNLYzgKLS0tICttTzNacEo0bm16YmJ1WC9WcFNL
+R3Bia245bVpFbTl4ZWdHL3orV2EzbEEKfNE+8jaCi11V5i8JTlEageSE8fH8VWTC
+f22BthZ1Ajuk9MkaRKjJloVJ6vMAOSiyhP/870O5Eqkza5b9+oYzft5EoRqZ1uWI
+0drXQoSRU6hPERX/s+pF4deWsMCRc8K5/mh1IpnqVFl/HMrHex7enPLLWEYhuFki
+OWv9A9N/SBAXvtb+rrtZ2xUaQYQ5GkOiDnbAjIDlEGIhWtVWG5L8J9l/f9/xTmdP
+tWpK4C6SnJe2aAYiJ6b3rCm/iNV1Dz3bpzj8ZvQb+H84w9uJhH+zhSPp5vrPm4yl
+aIS6xQP/PNzR2/+OUOQv67gkeAc6KjtjuL9J9iaOHiTFoyoxhLeoaB+2xoSygf72
+x5WrRBssMTd31Ytqe8RkpSOfnVnk+jzJSCUEAuALMT2PzrexhkpEpLFH6AUqRuyq
+uP7NY3DuVoq7/jgfDelr7YANchlgOa62IpAgayZl/dE3AnBdJILLnJttmGaFmujp
+ejNjMVbyz4xHTQ63ihBgaIaeRl8Z8wgjwj6TsQDJgK9Nk01G60pQdUW3RKU/WRKt
+L1TVBTgGylw6Rkh3tjwsCzAnwCvY2b0WyyFCIYLCEBV3ByfDGDSdCdW2jLvofwd7
+uPCKla6AcOvsmNSuq4GUw794zWGE/Wbi9avaNslrSJhFxOOz0dDkkgi7Y3AkxbbM
+niEaN7Pxmj11rjFCZiCSsgILPKDVi+bjRYXwyv7Pu3R0j3JiBwJXEMidMr95/g==
+-----END AGE ENCRYPTED FILE-----
