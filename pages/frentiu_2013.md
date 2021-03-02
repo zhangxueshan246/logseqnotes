@@ -1,17 +1,31 @@
----
-title: Frentiu 2013
----
-
-## Frentiu, R., 2013. Kenzaburō Ōe, The Silent Cry (Man’en Gannen No Futtobōru): The Game of Sacred Violence Between Myth, Logos and History in the Japanese Cultural Matrix. _Journal for the Study of Religions and Ideologies_, 12(36), pp.22-50.
-## 宗教暴力的神话
-## 明治维新 1868年起 日本社会剧烈变革 1860 万延元年
-## 1960年日美安全条约续签，从村庄到城市的大量移民，家庭概念的变革：从回家到成家（建房子）
-## 童年受到帝国主义意识形态的影响，沉迷于神话般的中心化叙述。
-## 山村生活环境保留了边缘主义的对抗性立场。日本的文化与主要的东京文化大不相同。
-## 对团结的追求不可避免地导致暴力。
-## 私小说是二十世纪日本文学的特有体裁，取材作者自身经验，自我暴露的叙述法。
-## 山洞 化粪池 死亡与再生
-## 冥想 内观 出现于20世纪的日本
-## 两只眼睛是太阳和月亮，失明的人是受伤的不完美的宇宙。
-## 恢复曾祖父的故事，就是恢复一个古老的神话，而永恒存在就意味着无休止的循环。
-##
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBkRFNLQkp6Z2FNK2VQNHV6
+ZndwbzRiRlRRRFgwMWc2d1RqdnQ4cFJxVlZrCk1PdEJocFRHZ1kvSFF5aUZjYnNZ
+VWZaZ0QxTEdxQk94UUIrbERDVmRCY3cKLS0tIGZRYXhxUVJLeDk1Rjd0VHlTS3Qz
+NkxNeUJHV2hGSnd3WXo3TGhjc0pqV3MKa+kiARK272Dj9Fv3HP7py2+0/0Myr+BC
+2WJOqZ9stxqBCRdL2h0xatlysDBT52anI3YZfPpD6WMBT3Fi01/3mgKe/Z+vf1Wi
+dIFzXZiewXtBnd/o4savLt3RjBtaE/YrFOsYal+2OkJ0apS3c6IYdKlJbrnvT1Gw
+NvZGSV/fC+xPbEqgiknTut9d23GVxfm4y512kUAvV7OAkoT/JIWMD0BmlHhdMwys
+dPNW7R1RJ5tscysszkg0xgRAnzgQ9X9vV8UXKUpM99zgwWbT8e00RDV1MROIMz/Z
+WgiuCRMCYkpHqjicAQvHUn3yeGiw8kCO0gVa/1ZM2OIqp7+MpOU3adeX5eBMsIdH
+Dw8Aj3fbfZaXJky6dsLEONW4veGpMXoSRrSButxnc4Qb77GtS/1St7k39T6/hgPD
+C0gsMBpHrUMDG4xnHQmsC62DtYKDq5BcF/DX02S3nBcrz2CEJFO3ElZ+TMlnwL4p
+tX11+JeAYsdyhwjI74IUoVpZN9Xkb5D2vVfhW7iz5vlbQW8x8ffXT7dfDxZR+uAJ
+pj9sJ871o+iTmzZKxRoOb9OXKizE4dXT9zk7IasYDm4OZZmWJeBS1gHZKw26jeGa
+VYX/kOVXldW/q+iWc8z/vyvcnwWZuvrbHqotax32BB8k+R9hrLUIJwcH5PLYuDpB
+zYA5RluBbBc5bYN5M8gQ+/+OuzjnLqsTu8x2KGmcXVZHdFiSXxgeVazU868TVqyW
+JsYT1CdUvbQQxJivr7/4cdyTXVt+qDbIDtRbah7nwY50iW1MBMACPRzYAbYCdKGf
+2xr5zk+wkaosMWDa7z+2kwIZtW1EovQ1qFPjxBdfCpG7rjEcJK6i2JReBgL42jxM
+hpD/3dETGQtQ4dIrdLCOKFCD2i2el8OXpWrbLVC+ZYMn+b0vhhpafOj1FJfOkop+
+HTBHSFZOwn7JKPVocUw+yGLjEY7MVNxqRyY5ApepykY9ngmgjVOplsGdgpORz1lu
+06oVWXhGbFjRXQq0YDzBqrbvJrrOy0ZpSyDJIewdxAJFQuptd3Nap4EcRGqsH4/u
+7tRenA1qSizr4FvRkPJpYIIuu0AFw70VQkBP5loe4YgymdCct9HZn4+yLcMAZQGH
+ns9gCRrwosNXmgRJoZX8HmGjLvBFnODCHYzpr6cZyHJXlKQoqYFxtlW95I/FrsTl
+lt6BUbYEIWHjLTLVqMkh/u49si2SIX8BLo2LQ41RjD/ezd4hOzyTq16jS15lg5VI
+HkI6BJ6YC0CTD9bNWum/Z0F2P9eyqSl1dn9AWNqj+s43m5LQuiFX0t0jyHXlqKZK
+YsGmitkqKQLuvUIUItfI2UC4k0ace8lx7/2IoJjDrnVoz7g6o8OOt3PzXqeYqQUa
+Mb9AmCkAyJjd4DLCEFYjY+8PHc0x3rmvHdgGfg8WUPw+GkukUae6ufPIfTCs2Eec
++evbfeytWgn6yck5HMQE6KombA4rpvxqEViybdiS864Ak4VRhDyRKM7lFPD5d2xx
+tkFslceaqnIN0V/ECJAWRLMKSG2zSR4hNOiraaQaV58ES/Z51cVNYWqwjMsa6v6I
+lQo6YBeLzp+NxlMpKLY=
+-----END AGE ENCRYPTED FILE-----
