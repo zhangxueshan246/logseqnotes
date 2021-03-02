@@ -1,15 +1,16 @@
----
-title: Colmer 1978
----
-
-## Colmer, J. and Reich, S., 1978. Coleridge to'Catch-22': Images of Society. Springer.
-## 
-##
-##
-## 在朝鲜战争期间写的
-##
-## 社会抗议小说：Milo-资本主义
-## 海勒说：在朝鲜战争期间写的，但针对的是冷战
-## 社会抗议小说：Milo-资本主义
-##
-## 小说的时间是尤瑟林的心理时间而不是物理时间，尤瑟林三次进入医院，可将全书分为三部分。
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBBbFQ1MUY3VE1mbnpWSnNF
+RHF5YjlsTFdnUlo1WGY3WTEwWllQWnhqVW0wCjlZT0dIWVI0N3N5c0RISlkwdzJN
+c25sQUdyQlFOd2w3STJOWk5zbnl0WkEKLS0tIDBBcnN5Z2FZNjdFSFJjSG0wZjkv
+QUs0TlNFbzBxM1pWSnhyOVhBNlMzbGcKjpeETxNbZwDdBKgQByq97CJ5xXSuEiJZ
+4S4UQLWowH32HoiC10HJERvuMESRF4/UeE8ZdIJXJEyCJPyfM7ip3uUpS1FKd6bs
+gnUxrQHgzZIihteL3eOVWj1Hnw97f+eXqO0W/Y0y5hiQJyZtSQzzYsZRV5ADX90L
+dACqLA4/D66khxs656ue4ShA8QfWug+c30TST2gquRl0WrTGGmjMa3vn40/8lInC
+JKW26CeqyURSwAoc1YsPEOGYFO4iW7/LNe6K8TrHjpiRvJcuJ2+jPZnfBiPXifzi
+Yq+Il3ms3GT0tP2Xhjvvcy8h95ExZ++jBY2sqvqHMY1ECEEmSGOnYM2IgTQL9GoO
+hcZwIdLqxkfR6zKqekb6IIfXuG3lJjDanNVSoe/0X85Oq5aOffTlNUCs44Mf5Lhn
+htLVjC7NkEJp8+BClV6V4DC7wL80op5qqZEzr/ykKWc04yn8t9cGLPO1z3P12hfB
+71hHIU3qpggc8Z9TXAEwsJtW8m/LhznF+us7nA0qKJfu6mddRf84I/UXDg1cGegH
+0hp+9HJ2G1Xow+Rj31L9GPbbkFejzKXsRD00+/WK77CF5d4ImTZpgiHmqn7YqLy1
+pgyk6EyXL2a+ca+rRYChMrEhgNQ=
+-----END AGE ENCRYPTED FILE-----
