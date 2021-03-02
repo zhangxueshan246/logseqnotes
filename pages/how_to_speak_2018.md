@@ -1,42 +1,19 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBvYW9CdDd0N01kQkpySXNV
-dUxVbFNEMFRYV1ArU2FJdWVHdVRxd0JOY1JVCnd3WC9HL1dXTlNKMExLQi9rZmVS
-UnZzQjkvdlZXTnVwQkJRZzFMaFcrVTAKLS0tIE9aMytHRmJYNEd6QXpGNVlCbFNX
-SUVjR2F4ZFdkVkowODBlL25Hd1NDcGMKZ5DQeAkT8sJV6hgbMMRKX/JRxrX186kz
-d24sDGsLGpuAWH6LGInpCvuMX7kxs8eQ3Q0wfKrMfF6edCX/w+9goD9TrsE/Qzvd
-Fui5XImewPL3MM7SACL90YGrpZ4r7pDeElwZthPTX1PEMucZK/AnPh2ok25HkkBS
-H921ygCww4maVrRW7M59vej53R5+iX2n6sqyHmaEK66ebqd+Rt8EoSEn4tKTXZo0
-zA/V3+H5+C1cIxxFDgm/yBDaLD94sVDcXFugQ+SOXv29/YWKtQjsreG5YNGb+tNd
-dGxDGkzq0y2AQYMBRooEANr80VogA8vloAPBsPpFqllewZuNwLJj1zq8HVYil4EO
-s9A0Jmpw4KPwtuh2yZGQCHJaFPTYujpIHeXOz32WpKxlvlgEjF3CItfXxvW9w7Bz
-YL3XeifRsOFCC5EGk5iTwp5UludY+CrM2XznMSpVrEKkNpn6JR8y2pwRzRzATkQw
-gcJ1cSkIpdCjzgasLSYYul0zVt96ua8MuaRm0/7mumuCJkrwDJ60I9/Io4McfyGr
-fgVCFEhjkY3tdsINkhXDPx/WHV9/raJtSrM5gf45KUdx1opa4hfzYH+L1Gyf9One
-toSIy7pEsTfUNuKnXu1oh12cinD0c3clDDqL4GRQQHX/X7AsYztum1ZOG9thiDLv
-r7bT9wcLDx1KB0n0bYyiRfQCP3/0eLS+H83o/4fS3RT+DwaJz0nJIYoTtaGpVnpS
-i+R2/jlFMMGV/3VJ8M5zWpObeaRrdA12Bjm6eQbM4J3PXPsc98Ap0QT3Wa59u+/Y
-rKifQVxCOkbOp1FXmL3t/gTckA6+dfUYOQWc8lsPyMlXoxSNjVBZljzUs/ICR/A4
-D5Z9+tbTR/GRJwD+c3D9Lp3bmSgHPtpwvH9Dab0rn+/Qmm7u8j0f5TBbv2LDxBkX
-PkI270GuYxk4MBB9Z1MA8fTjsK5UD8vnVKbrTqj8kbhtQxTtT7IcfQ3HSfViaNIB
-u7ZQ7fPQlHqi+4WG5scGTqjbNoaoScvPILhQtqmVjtc13qSdYlda3I6qUjQs5J6g
-ZPCCnR0D8NAiTyD7ldpsjL9Ceo3sm8FiiTpip7fA5SDVZk8Z5YCl0boahKKPUftg
-ioMuncjFFPO2nUn2vRIUgFWb480m9tjx8vHSChZeaVd6nNXGomKd+yybhOVciuF4
-UDCbcwI3DpCRP/BZuAUbWnd1LsAD0w+y9B5p54JkecMSXuc2ToQ9oUHVYAy7yJOx
-uKAyk8noiYaUEbeye4buCGoND5GlAWYZCu1U975ENxkO4dDgpl3tPF1oYFGkct8t
-cAuXHnoca5mqFNRiFTe4MZmoGvVL5MUq1aGY9DOQwrEJNbZUWgZPzLpfZ6rVrvcR
-RFuieiL0ZfVR/kSZzbZr9JOkULTsEUH/Hwabo3xTTE+hkWBugXXjETHqOAmWRZwp
-XcMG4HSWfeVP2k1NfOD2k9pc66h3Sk7vBHAh4whMLSC8SJ7PVJesXXv9BBK5+Vmg
-EqLC1E3Ebay4/WDfwwfaRy4nOuYx9xeFdwejYP/H20TAWCw4U05pu4jxC1DHkFMg
-QzIuIcoxEUo+F6CUobqcnoC/Z0mVo3mNbyYvhXc9hcZRFVP2XVgawPnd/FWXvP1e
-sbyVx5pfVijejZrtCtLqGIjLGrzviu+2aR0ou/z2IbJDoPH8tHzZzFmGDKa4XJMk
-oK27gkKfns8s/09RwfJVhfSfncMgTCq4u1ySNKOFcD77z+lac9K3iOSO5+7uWqXm
-PVWP5R7BLmghjfA7FooHg1dDZt3ESpBcatPsb+Cuj+eZ5EUQC0gek6yuh076BN2E
-/wY05PRgBYJR3ATBaFHJiO9n8FqIBiZTcaGHKDFq5O7vglnL2XjE1vMF4Kkq8uSK
-F4zFDiJDDQVvHFqa/0KKIxIEk3v9MJlvU0JG4JeHW4+aEzuslGJT28a37hhPgHhE
-EVJBml0gCTv4xbVuwM4S3HNrmdWKHXKPr9YO3PnGyvY7P5T+Yx8N7m4lwW7qDkI3
-24zG3le6TfmZYBA71WoOVMaQsa5F6s8z5MAHrTWV66Fbt3HbPcbyHGkXU5HNNuF0
-Jdmuuue201t1/kgozZHT2korUSud8470qJp5BQf4LtDEhnCmdcGU6U2f5T9NSSqy
-s2f3FrREx5gmez3Fr8Pew7M7NQ2qLOGpRICoXxLjKFq0b9SHP4gOtuTyKqXhDiaN
-1iOYi0MgLNWHvRwKmNPvz/vYoy6/ON2AJRD6ad4KRSMMIEUF2cvHPdwMDeqL5snC
-auWXFSmWEAWEnfO0ZnAfWyUmYgv/
------END AGE ENCRYPTED FILE-----
+---
+title: How to Speak 2018
+---
+
+## https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/
+## 开头：说计划、承诺，听众可以得到什么。
+## 方法：
+### 重复：总有人会走神
+### 划定范围：以免与其他人的观点混淆。
+### 停顿：让走神的人有机会回来。
+### 提问：提问之后等待7秒
+### 黑板和道具，可以画图，有缓冲时间。
+### 幻灯片，不需要有标题花纹圆点等分散注意力的东西，要有空白。
+### 不要面向幻灯片，要保持与观众的视线接触。不要用激光笔，可以直接在幻灯片上画箭头。
+### 要有热情
+### 教人如何思考：讲故事，分析故事中存在的问题
+### 5分钟内说明白你的目标问题和方法，以及已经做了什么：步骤（做过没做过都行）。
+### 符号，口号，惊喜，突出的观点，故事。
+### 结语：自己的贡献。最后可以讲个笑话。不要说谢谢，可以致敬观众。
