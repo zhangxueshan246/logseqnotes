@@ -1,17 +1,44 @@
----
-title: Lupin
----
-
-## 参考资料
-#### [Handuo同学的教程](https://cn.logseq.com/t/topic/314) 初看起来非常复杂，找到下面的原始出处看了一下。
-#### [Lupin的Github代码库](https://github.com/akhater/Lupin) 实际看不懂，还是要靠Handuo。
-## 电脑白痴问题一箩筐
-### 问题1：知道自己有python，之前破解Digital Paper用过的，然而不会用pip命令，确切地说不知道装过没有。
-解决：去下载了最新的 [Python 3.9.2](https://www.python.org/downloads/release/python-392/)，据说自带pip。但是仍然不行，最后上网搜了一下，说是pip命令要在python环境外面而不是里面用，一激动进入python之后就找不到了，得在cmd下面用。然后会用了之后说pip要更新，但是好在连命令都在提示了给出来了，更新之后没啥可见的变化。
-### 问题2：第二大命令git没有……
-解决：这次学乖了，先去搜了一下git是什么，找到一个 [git安装包](https://git-scm.com/download/win) ，装上试了一下。有一个叫做Git GUI的东西，可以clone，设置源和目的地都非常容易。然后还有一个叫做Git Bash的，打开像是个terminal，这里可以用`git pull origin master`命令，用于更新。
-### 问题3：main.py
-**未解决**：首先从C盘无法cd拖拽文件夹直接进入，网上搜了一下需要先打d:进入D盘才行。然后`python main.py`一句运行了好久好久，最后说连接失败。论坛上说是telegram api要命令行翻墙，然而不会，目前死在了这一步，按照网上说的换了各种端口都不行。不过logseq右侧栏现在已经出现了日历，这个已经好用。
-###
-## [[2021-03-02]]
-##
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBLNCtBR0x0cFJzbTJLRWwv
+bkVzMFM5UWNmUTM4bzB2NzB4a0RKMzExUWx3CkFUa2YrWEFsOEFFOHBHTlhQT0xL
+UFFsb0d1azhCTDExS3llSHJPZTFxbW8KLT4gMGtRfS1ncmVhc2UKSCsyTTNpYkJI
+dzBDTzEySGJQTG5XREo5U21GL3h3Ci0tLSA4VmtJZUxSaWprUTRwUmZGK2VERjk5
+ajRBNVE4VFg3Unk0cU5WU01TNjVjCqyKntpIfSLidUqlO9hR2JIh7zhevdvPrN7K
+tk9CzddLJ5QyR01X6uOmLuOc3fZVga4fCrxZm6zj/nlsvP6brsJNKDWQdjLw/fx8
+UYn7dCu0TMcho7tkk3h2h8qgamLuYqUfFqkEMHHIeYXbGTMKlkoYVeDABucMKf1k
+zK6ncXwczcSKKmLxtKHT8Bwei3tdnps9KISLfCC1VTYYgkkJuXGKogkEf5a2D4iz
+ry/V9vO1XNbxTv6P/mhCC12O32wJsjyOZMCNTix4HAlG0WLXdvyPA66JpPLAGGig
+RLTzqt0z0v/b7T0uT3UeK2RhGMi6f6cFsQO8yiuhpfrPNaiP/Yh9F8rwdbw1Szp0
+3ZDgWt32Y65qVZ0awHUchuClBp589sANWQ3L/ei49FWgqMot8vqBGkJTwyE+xF7k
+yy9/pYbH9yK/JXIpcENnwLO9zBsx2sWjQXo8ZRIEV0sYtpocaxdzcavlqvTGvGvj
+gmZPb/aurPvbf97kkX5b9Pyy/TLFK6hfshFyzbenZmiDLIo5NhJELG2+G8Z7/I3r
+qkos7qJM+6glMJ9sH939xYp9eq4Pof5NXDrV6+BSYWn7IlWDcQg0fqDJxD3lQzUC
+kFbsQU01eUanJfYSnYGtT8iXzqS62A00RWBVqZP6JFIpXYLmQM939u4RUOtnM9Rr
+W2MvENKJo3hOzof5tbCURZeeAevyKctPTF73h0TuZUukDDdMRapCeB3exUBNF34C
++BptnHv7s9OzMFh33dXmU7gLu3g+BaZevl+2P/H8LswLH4W3TIJzX8gV8Ci1Ncdb
+qs4R/WqEkX2niPJtOcv1PXUZWlmx8DOajpkAqJL2LioNp4ttRZlucWHLzqcHLv4a
+z6Yjjt7l1hwLgjAJ58VjbV45temqusfUEQoJXYB4Lh4oatQd3WiBbhv4IvFJim8I
+Qfg/776ct1qkeBfNfYunDlDTCC3QJDzjKxamYa7ldjMV1dout11qOqD5lDoiHMXU
+bAO7AxWjE1881lCPb7wF+Gqi35x+nufYXWORDfgVvzstp+vMYAkoqXLyuX22nNce
+AO8dFLR+aZDI0KdTkF9z2fwuMuh+CL0wynzg6+Qe7XUyKMTtxIWA6XezbFdzR4UW
+E5RSq3CaHUSncFVVtBjmc61M90UYaJuFgxacfhtL0kxra821msJbq3d44TAzfvSa
+sju2kazu0q3rpzSEp1fv6/5AxOAkQZklDpkK+EDy7Ag6mmC1Lo9hj154WPNQJNeJ
+3NbIc0BeoDeI1LaADedtLZkjAIKrQuV+wMQ0Up3CeatFajJNySIZqlBlAMwG3JaL
+6URW5Z1wxrI5WYTPg5saZTZSEnNqIO8IuX8zmj/xDJecr4va5VwSmrI6jMjh8ENR
+U8dd1+UttFlXZc7fTWcU5FUUol+D4HwXAIAYXYOF9L4jK8oh0C1MiTc8QVNFu/Uj
+5ZCZhHa/Z9q/YORcx7LrkMJ4vASfOvXw55OpY5nrZTCgpzJ/pGysfWX/r2XLzNhE
+KbM/P0rRjIpwEap4JFWbZ2Ko1rDY5MzyjD/+BskjWt+dO+jhEzsH8ImSytZKHLbY
+88zDEjI/+CmOQvVL2FfaI6UnEaeoBnJy2nBgQUCh6Ks44FPsasiF9ewM6MqPrT/b
+3UaHF5aYRxnDCe7d0brX8sVESSlUJLWPI2WnjJtm3vBW5Wnx6uAM5laZNMKI70BT
+aWogBRSLfwJNW17m+IsdaANVN06vGYb2HYhfY0iokhtNGmNryE0/6QWi5ehpOGMc
+ZbEnBZ5PRu6cm38ZZzhmOG44RdQ3/tl2K7ipc3khlvLTzX54kVMqFJmfOA64YiEf
+0ehjlCNAVCm++ma6FyvsL0dQ41//JpwKis4KBRDQP3yFGeWWja+zWEtTljkFBPHo
+bmzAyW3M/Js62TPE1655Yu9609CSfknINLwWlWZjC8oRKrPaFv2npjbhHLMX9UG3
+CqtFrT3T2kD8YxvXAxM83l652f6tdMNHXHIyqy3bbotfZgJaqfYvHjrp7m7tanDZ
+dUybevgbSp2QW2cMTNB7S1yGkXVHxdPdZStppOuuRZJT8DVRJf/rSLzNv06D7TgB
+aTZP5AZpYnsqK4enuWtLcmbGQrAGZ4/kZG8+l4O3WTnKWFgXH2MGFMv8UlKSrQJO
+dunQJ/R6UagGHoTtrUtVees4jmTDo6HX5zfQ19ztJKrkFkIjw1XyCHEiYvxO41UG
+VwkWcARrFpd4ovCUCsBrSTIq9l0no9phdL3ozEfS/H6ndA4WEB602Zhrrme/7vYL
+W7L5bV4e88J60wfZO54GqHlrQA+DXk5U9VfRq3eLJzDZKk6n9TNae+kyVD8ISSVX
+nT/4GcMPDRxX0mbyuiIIA2encICGdTQLRpdlWTUo9E9lND85+5wbNFBj9wmK
+-----END AGE ENCRYPTED FILE-----
