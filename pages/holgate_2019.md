@@ -1,25 +1,8 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBuR3Qyc0gvY1FGTE0zNS9M
-UjdSa3IxVHhua0ZwaDJIRURJcWVwYWJITWpBCjZzMTdPSUhReVlKRVhRZTVmbzB0
-aEttOHpJcmRNYnpTVXhaaWtmN3BYTncKLS0tIFkycXNWU1MwMldWVzZiVGc5S3U0
-S200NnRkNlNVMFFhRWtqOFBSc0JKSlEKK9Smabm5WMWwzBEVd/63uF7LooNw+lG+
-hk1fg70ENKT5wK7CxhfIPZZ5W0oueDgBMuok/zSk8xpkMJnjbEkhzBFgcxrgeZww
-PoSyz/0Z7H8L98kSJh3vFW6ogmaAaL8ULo1+inpKnv+W2ppKVbjJ7nU3XHM4NUiF
-dStc12Dxz5FUOtviphSIbW+3y1U3lVRqQWD/E+JsQ/O6TaaHQZW2JrmSHUx5XpL+
-qfzD+5UpO7PdrSH/6dCFiGJmABjC+4aKpHzHUITNFvJ0tyXGzaLjseoqjCPcLOgy
-NtI+xrLL2y0xTxPS6/guyKzqa8Tw4dbIOBZbsr7HVNXdMRF3YxeCDFq8NFhLwFY1
-R9pKU/mM6ovSTDPa8z0qrqzpQHGGYnVu6yfntIXu+lcmz6M/IyQmdpyxDrjITPIg
-HtRnY5GVtsQD58+lAOn+94cDVbw61tx275iv/RZT8jTsCp+DYYjuMju4MNipEYbQ
-VEHFlH1vordsNJ2UYWW9921WZ0AsYr6FF5g+BoAmX9rBv27EJOlJw5YQ8429Oucm
-92S1sqj0g4MBEXhZ/VjfvMry5rwQVacHBJLwPBj3ADWVg2uAXIKaeBAurnBu6zyo
-EqW7PjcaJVkl2bu8Env68O5LQu2fyvMo03YMaP0hx30ApqfYiBseTB3CQW1W5pTq
-98aPGAIRFmz/0cAlYeTviPefJH+OFJUXJnf7LclCFeOQOAvRyLTQay0WPRMTjZNk
-76cAEne5V5SqQuzeP95MdTaHjez/g9ixra0FD+ChunYyIhrT/qOZwnL9LTFtBugd
-GyGjCZlHb79xZYJmMG+IUcmgRwE1E0UFOWnPcPGMkMHzd8SB/GGXBD4h3DkpwUQt
-Ckb7qqJMH9LwipHa5Y/ZBIeDNv8XC3lEEkQJCTsdMMqQW3MnVGUeWD60j2DIW+kj
-/TxEnWembcTllO2GKSs7yUTQ1NtRnCddHtsUctKQqCp+fI2zptt+WNNNCzp/+JqO
-D4fUo80RG9Xg1VjXLMsW8+2RtSAWh8navDpQ1jLrqAHeAmEqao5xrmUNWj3USvkN
-2A+T3O4l8MdcgmVf5uwrTMO0MZvcVytBXkCx5sIbP7yN0JaiajTCQmJ0yiReNbLg
-1yel9ducMi7dU7m59JZ67OjevYpUPRf9WSGh/MohFmtEaXtQqYN27SdePf6O/haM
-yPuRF+nlDft8nlCPF01XgpBqGx8oeCnIg2XgVEbwJkXc9gqI3CZLQntnLgzF
------END AGE ENCRYPTED FILE-----
+---
+title: Holgate 2019
+---
+
+## Holgate, Ben. "Intersecting Imperialisms: The Rise and Fall of Empires in Richard Flanagan’s The Narrow Road to the Deep North." _Journal of World Literature_ 4, no. 3 (2019): 437-457.
+## [[深入北方的小路]]
+## 二战中日本俘虏澳大利亚士兵21000余名，死亡三分之一，而泰缅铁路死亡超过40%。欧洲战俘死亡率3%。
+## 吉卜林《衰退》1897
