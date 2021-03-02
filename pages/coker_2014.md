@@ -1,34 +1,19 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB2cGRNOTZ0N2RGVVZKYjkr
-SnoxRE5BbGpiMWhRbFAyeXVQQWJEdnJSQ1drCmpzcmUyRDY1Y1ZueG9ScDgvK2lJ
-VDJBLzZteG44Z29JejJtVU5udld3ZlkKLS0tIG5TVlY5RDNTdmxnRGF6dEVnZkJ2
-NXdlcmFXdWcwZGRzKy8yTW9mQ2ZmT1UKOTtXiN112KKDxHdhi1HYVQBeBLi8ZSwC
-KMbaNtuJWeOz2dK7wspU5xGTYfvc9E3vJdeUUVWzQetlGD4kFn/mvFadRIpd1xuO
-RM7aCTAIWs4TkZf1CLCs1hI350hp/kFSTA1ebWN2flV3YodM/55zs9pg/pELj1ir
-0pzDRIznWen6QpuBYo/q5B7BVbXGkiqsHeaszKpEOI7KZNdVobEvfNvzwFAsg3mI
-bfJAeJYZ9M8mp2gD1+xnlisZijIk4O8krXJy/zVqdFUtx1vlYzoRBhG63nLk3SEs
-AIbXY2BHxpXuNGQr5fvMUAbf37O7bzdZJguZxasv58xbqey/K/Q9GDQXLCq+DNiK
-OZeu2KHIvvqIEMld9NmQk/PrKEQ58Bjid1FsrcBVorgpdamDyBqHqhJp0rzZ3fDL
-z8+sKNIxEk2jdkI1sMdh4tZ2fHN9vr6W7V4OSPf93oofM0t/kz+0JCRo89M0svVb
-ErYo75TwLMK7ziZZT0BRtl3/htHQbUCdCuINGHlL9xeg9haknRDe7Vp0Ami+3naw
-Cj6XedhnPTbk/OJYkBYoOhgNd6j5UgZecq9T5/S/Lu+GkVOiQocSrsuk9qjQszu4
-6hZ4OrqEbW7bUjbv16zBkSd8UaoND8s+oiJV1PxduBVCoJdIKsq2vT/kDds6Ft8j
-r20StFy9jTQr7GAyzZjwLEPSJTLJjMzfymPDp3AmzycSO5h/uABlkioFPhfwNuYD
-kdZoWlS3vVF504t0hNL8hxKhAw674GfIl7IIGDSiB6t6yKKWwYHUxsS2jvDFAuaS
-JOTkrBfBs+w4XGw0Vwu/FuIyhPoKKEQtp7hF8J9SjCrwpoWFto7radg0uP1xAfaC
-w8k+rt0YTMm7iBPHgZNsq4U7pT7kCkAgVR9MyF5E7JtYKnQmozB836/jn9V2+8cP
-BqkSQlJqV0Mvk8JfEQIS4SWFF+xBLc593912rzka7/VhDCSXeL0GJUEacxa9p0CT
-Ig+kRt59BWNMjf2loWeCCZP/IzyiRnEwkSo0kvseOryYOWrW6wRmbuyGsPbt8Kva
-P74fSTCkm3AWWT7VlbyGOmylLWMP+EIqgFgLPg1+bR65lRGDtEi56Wtq8YACenBD
-OhPDRJLclYjBowhij5SPejDZPyX3xCmI8eTkwm6/FKHm4J9XRy4X4id++v0C8H1B
-08MSbxsZT6FuSHfN9OI6rw6Pao4x6ucbzlF5jZJglp05YsDwtTNwYcr/iuqDWTIT
-fr15e5ZwKin25IN0cB1DyOg1Ip9l7tC8m8jffMr8KX2clR2Eh7Ry5fTKtArAD6mv
-Y0S7w+pRzFZPa4dremEn+alPagfu/0Mtf0lvcU2dv8U1sSut2rkSJ3CCraFe+mTq
-lycVz4cTn2Nm2i+BKJT0dbfM8Urncraa1qqzv1oqkD3q6ET9bA5bJQS6Ys6y0hFf
-HOcxlKB/4TD+yM/GMJtnsOTtds+8EbGQ6qpkxD5n246qBCSFqPgRc4V4ninJdBL8
-C75aVb891Gdjm8NNt8BcOOKWVafnRa8Rrk3/b6AaYvnyMf3lG1Oxbd7Vad2d3b3D
-+y+6P3Tw5A25G8vjrk7vkwD9AKtSvvJmaivgsjnZrHUIG32aYdsL7dJ5lBDD6eTU
-2hXdcc/i+ujwOOdCAy1wcqjfVrWhC5vJIiIE+8YB5YztoS4RS4l4QPA09XEu9E2T
-qaF3agwgPOJtxbVWe8q4sRAx+bV1Kmcvy2hl07EJc5I6J1IV5BYpIIVXXkw/WwK7
-HZWmUTEultTu2/V6T21f8/H5bZnSAqJ9vu2TBDNbHZ8hNS8+
------END AGE ENCRYPTED FILE-----
+---
+title: Coker 2014
+---
+
+## Coker, C., 2014. Men at war: what fiction tells us about conflict, from the Iliad to Catch-22. Oxford University Press, USA.
+## 
+##
+## 《第二十二条军规》是作者唯一著名的作品，他作为小说家的水平有限正是这部作品的特点。
+##
+## 1942年，海勒19岁入伍，作为轰炸机飞行员进行了60次战斗飞行。
+##
+## 反越战而不是二战：直升机和IBM
+##
+## 小说的核心命题：战争是荒谬的。
+##
+## 斯诺登的死是人的死，其他人的死是飞机的死，人是看不见的，比如医院里的绷带人。
+##
+## 命名方式：Doc Daneeka，Major Major，Colonel Cathcart
+## Milo Minderbinder--- MILO THE MAYOR，MILO THE MILITANT
