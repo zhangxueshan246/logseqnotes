@@ -1,7 +1,9 @@
----
-title: Peterson 2014
----
-
-## [Essay Writing Guide](http://t.cn/Ai3sdt7S) 
-
-## 适合写课程论文，毕业论文不大行。
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBvbkR6WVBpT3FDd0NFWnBl
+NjlnaFNDNzJjKzlTMGExenhtWXUrclQvT2tzCnp5WWhUaXlwNFJqV2toQ09Pd0hC
+cldLWmxCc1hsWGIxYkpML2kwRkptNFEKLS0tIG54dVJ4WFpRSG1DZ1V0TGZBbjJr
+TE9qTHNEUGc2Q3EzUDBLOURoZFByLzgKmzcEI9apIxrfrZvRZ4vYxx/vte7OrF+Z
+fBViEyLf2IIqVxMZ948zY+C+vA/Dbfu9iDCwDC7xeVjMR80c8csllb1FiiOPomTa
+DFIGKNsUoZLfpx4sBS0aSHUR7l4N39keQDG8zrnzZXzItZ4ABXRGCLbxOhL6oZRR
+A8pm6AqyclmTJYpc8VyI7K91QkWGtTTFRaYSsL5btVOIv5aGwKu4Yfej/A==
+-----END AGE ENCRYPTED FILE-----
