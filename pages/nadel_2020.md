@@ -1,11 +1,31 @@
----
-title: Nadel 2020
----
-
-## Nadel, Ira. "I Married a Communist: The Book! The Movie! The Commie Threat!." _Philip Roth Studies_ 16.2 (2020): 3-15.
-## 50年代末菲利普罗斯给新共和周刊写电影评论来挣钱。
-## 1949年，美国共产党的十一位领导人因主张推翻美国政府而被定罪，10月底此案法官登上时代杂志封面：[Judge Harold Medina | Oct. 24, 1949](http://content.time.com/time/covers/0,16641,19491024,00.html)
-## 1950年有一部电影 [The Woman on Pier 13](https://en.wikipedia.org/wiki/The_Woman_on_Pier_13) 1949年10月点映的时候原名 I Married a Communist，电影公司RKO的老板是大亨Howard Hughes，他是在前任经理反对政府黑名单（[众议院非美活动调查委员会](https://en.wikipedia.org/wiki/House_Un-American_Activities_Committee)）控制好莱坞而卖出公司之后接手的，这部电影是好莱坞第一部反共电影。票房冷淡。
-## 1951年电影 [I Was a Communist for the FBI](https://en.wikipedia.org/wiki/I_Was_a_Communist_for_the_FBI) 票房火爆，奥斯卡提名。
-## 1949-1954有50部反共电影。
-## 电影与书的平行关系。
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBqZFBodDRrc0I3aWJIN1JD
+c2F0N1p4UldoZUxIWllOdHFHNkZMQUExbVJrCkd6bGpUdVN1Rk1EbW9NY2lQSXdW
+S3lkdDJrdlNvQzhQMlB4MndiNGdFQ0EKLS0tIHRvMUNKcXM0Lzg4T0tiM01UcnBj
+cWM3WlNaZUJLUkRFZStxU3c1bUtkaDgK2oVv8lj8dr9Mj+gXlN8j1JKISI7Ts6K4
+nFzQ6i+jJvJ3+pgvrkiBnBoo6oQVi/hIq36mAOvLl09irNzkUI8zQfFDAQbC95FU
+zS0mF3BUR7S3nczCf6BW2YxsUh4i5EbPlx/M3VH5u20y5TvymWba+SIi5rCtuDfX
+2PN9bJbMFZP3ehJMn/fAWYmwDhGbzix3BIKIpXoy5cK70zhcp3ygBs0I+puLZTY9
+f9EZ9t45lQmDDIws6HmQ33wLGquuu2XpbqEVWi3T/k8nugtBWaEiDNGKSs3BT/bB
+AsOUkQYx/6ejLMaAivSQHtjZHdtM8v45bMP+9D8sfCSQ4UqqVT88Sr7ryjvVZ/7M
+M3wWCkqHQH9S0S2ULwwMscjwaK30aO7wDmz3SnWO7Dfso4KjZwvGcH64MUWEF591
+ueF9Idym7xH8GcQK9lcKTS3JGxdMQ16TNfqsvIa2wI/+U6COcUJgJ8NsCGYJHAFK
+h5PfdxIqdUSt7RDIlSNu6PAHElbAHwqvv+O+FOCiyMzmm9H+Ues9qq/8DueNgViN
+UVD9Sg4NVO4Wy9b9fUjBn0elVLakXLPmXdVR9YQDkhZESgA9PQNyzSKSaa0ktzk7
+tz079V4UAeAT6bEnybfpj95gW8N/+lXxzgLJlfijOKqPzbF8XLb2x0RwSOiPyPyg
+Mx7Ei/FdFc9y8ZDKjIT06RZiJthWLSiwD9FHAlJbUBdopdGsWhoTcdsibt432DVw
+YXHMUaP4Re76EN3JkMScwY0M4yL3cGIJPH06xROqlk8oJBSR0pAe01lp3MkuLVId
+tOLdZuEJQ6sbntNkDdqZp1x1FbcjmM9jp3R2pe9ZUZKZPfa1eEEfvNmxbtQt5Nr5
+9jvz19617BxVQaIQjA9gscx7it7/V65PIJn1hcjRoP5JCWw9lgeDsC56dC38aA/C
+r7ICCuZAMIRBqzj2mMGkwCfiKeF5wHRD/n3wy4ybBDuGQPoWtOQpska1d401SVIk
+S/TYLnHXY4yd0shvUFjn8pG5uyLCAZrRJvyodN0T2gcZcH8KlIPI9IZ5xNFkRd8k
+lwkr7if5ob8M9LZqWjdkDUbHqTcZX9eIN9uglGK7NXrN6BJhU+AjW/dy1tZfsBiG
+s1Ied+UnuVWXxAWZ7n290REjUZj/DQCBBwzROEIyz59gCfxXpi4gjxkKZgrF/bWy
+TT0Ws9KOqGjRbPvvC6rC+t4WyhQvhKK7s/Uq+Prg1Ec8DsW9ht1fY0V7r+ylX+pm
+uEtVEwf77KgXB+bm4DzYBjDkaNA60E3xxKqVTeJuKEzZKTcJPEeoCnBsDCWcPEzf
+4UUeTrg7Bf5y502PO3NVZu+ixt47wP7AL3Zl1kFmfR2z81JUyxRQeK7qQyvwSNAR
+pcMCAO4lx/xSNPhFNmmwNIiC7jleOihdw2PQfHvg3+lWPj9txsFt/pCcoyUn5//u
+nyxUMunpn5GaFeFvfrgki7y3RR7BHIfzFgD/SIFeVsLuPcFvB1GakifIYZ2wDJod
+46xFh2LDpz3UiJAfrTNvmfoea1i8ofKv/p3IZtwysfHSgP6rioxrCziJ7x2K5UeY
+sVkdJiCDBTk=
+-----END AGE ENCRYPTED FILE-----
