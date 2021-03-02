@@ -1,22 +1,7 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSA1dWgxNGRMd3dVMWtHeDBv
-eUYzNVZGRWt1ZEhneXBBa1BFYnlnYnhDYVRFCnB2Y1JxOVRKdHFhYXNlcWp1YjRK
-Y0cxYW9HRGRVUysyZVowbEkwVUl3Y1UKLS0tIDRYc0JzZHhoa1VkRWkrTEZzRXJL
-dk9xZVphb2E5NlFSeDZpWHZ6OHZYZEEKQRgtTMi7WE0OnV2why3M5TSEjJFneB8g
-QxUFWcnZjbLtfw7j12ON/Cn0FZilQQJlnW1hRKlujV4JOp6JtxYeEsDOzp9vLiP0
-+viVlhncr3vU8xbOl0ovxd2uPRDeiLgwZPLr1ZuYYJx+YDi2b2REyvTn+d4XDEE6
-7jfREw+2Ygh78bmy8ThdQ+vDX9vX698AZzMX7NPQRKBB+VMW+9kVoip/r5HzdPJy
-mFyF9V+WRaoiqrzfzJ0HqLeKliQQIdSlCcZGXsbAkmzsokqJOpJUBdqIo5XGW9H8
-8SVOcJKqA2mJg8rujxKBWCPVO3qjNCfXrMP5fwXsf6qoQaQOEvrnqsa5HdRkXHSl
-5EOesZHTtQaIkwo9/ymzF29p5XUO1ie5E8qf/Gzs48shyiu9oWRABDZCg0tV5bSe
-onej4VRemgI9ZLndCrCghoV3qfc9ejuoGjrPi0VXIa3HPGX2H4PAJxcy/fHA//8R
-OLVEtX/SNQ0AmnimjfrqciOimKopyBM8FktdW5AysRU+7Bzbv4H+z2P79aROa4d4
-WJFHSyDvPk0+dbXxLykV22Lg3xSODxRFmYbgAib8j9fVkh6M44U9oHph/iGBMsPV
-2QBDWWhwJvyH0vZHhW0HOTW2XngaZdsVIkib9Kp6v8q3IQbajoPTlCBs/rcKPDj7
-2q7aI6Obz+sAUvqTz660SENgxtSWH2StwWSXkDDcyex1f8yaHFYDNHkA9HP1nhRh
-MdDEhWQEOIPsBkN7NfQtzgDL2I1oJcY9O2S4b55+bUqMdjytLvQJ/okhU8xjL4GC
-lmMkunWfUmS53wCs6dgTWp8c5g0tFx8QqzpwEPkMet2eCvbWg5HSLEasAE6gfhEi
-LthcSBDcRV32uw5gK1BPyFv0prXwiLhMNz3FHYr8xsIDXyxU+x/VUGyFqTegytyw
-3zkk5L665ZD2SBJtyklCg7kIJrhl44KstYat3iCU5oRu8qbHDtYueGdVLQUHx7i5
-HfDNRSb+5lunzgh6tJfF
------END AGE ENCRYPTED FILE-----
+---
+title: Joseph 2016
+---
+
+## Joseph, C.L., 2016. “Shipwreck of Faith”: The Religious Vision and Ideas of Wole Soyinka. Toronto Journal of Theology, 32(1), pp.51-69.
+## 虔诚的英国国教圣公会家庭，约鲁巴宗教传统
+## 宗教怀疑主义和开放包容的世界观
