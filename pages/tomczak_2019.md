@@ -1,37 +1,12 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSArQXkyci9KSDN2a0oyN1Z0
-ZVdzSndYL1U0QkVqUVdaeXdsSmd6K2cyMWhrCkJ6UUpzb1IwcGE0dVMvRnpyZjRo
-ZEtBdFE2b1JiVFZZcUdqaTVRcnFYdHMKLS0tIHpnS25VU29oQ0xzNFNJdG9Eb0RT
-YXRSbUhXNjVxM2QxaFMvSDk0cmIzUFEKUv+iMjaa5pzk9h7Ppt5/JRCozjyqOVTg
-vVsMB1NmivGIuZsq7TTgIdUZM/p66wNdTwuE+8oqkrWdINdYG4yKXzDD9XzhQlIp
-AmQmqQnOKBuH7OLKJ6LrvQQGyx4gIctqNtYBN7wsLwDeSHbTMbdetgoQdDX0250M
-1Sqk/oMhaThGA/0ZyGOWWnpCtKj7JoJIaxLLbWZGkNHQAzvdzz6SOK4mI4hbeKVS
-PIJsvxgzQXnCSr2lf4bJBg1wcoWnuM+IoJPKLdpz3pS83vwoRddo4+yWPMQORXz6
-XjJ/53eXv/Gq+fLTIaKBToRxAqPph7PEaUUSUiD626hUuL0wID+Us5YIPTU426Gk
-Du+kbJIywtmSvhUpYUTvJjL8Ds2eiigcZI014GmTxXTumz2jdilQH2SzKp60vSxw
-0QV5hsCIhbnSfIzAGieTByQZQQG7tB/y8+M0onq9tGY+Yw2lwVM1VzkeZmZsxWGE
-w8Q/SZ2dMkBj6I5+lduKvu8IhvEjnpiCs7nMsWKDRK6X4EhyYyM1JvNY9cc3T6hi
-gIzpYL+Rg1oord9inmxx7R7MouNrTn9z5wHHD97Aw+l/LqyklU5Qj/YmbGCvmvhI
-OGpOY2G9diisixz273hhCuS0PJ12I8wKEWcl83q9VIj+E1EmG9c5Ud8pB+Mddbo8
-Rq1ZRu6i0ljwpfCcnGzwb3QgrFmiXJehluM0ei0mxFEIzZx96j0UFbbfkOd3ufmx
-1cAQzxul0Ehela7+RjNjUpyx+CqVTGAaE518AgRenYjuwC3GCKwr+DmPc6HsCZ2z
-dyC8zHAdibBiWI22yawkS03n/aZnZx1NqV6PwiNAQgF4toZp4+ch5XJ0DcJbqxzA
-Jp+Yb4rJ+CXMHfWs88O0FLygV4v62R9CKXv3sssn9GrmbO950/Qr0R8chGSZD6Mb
-Qo5VyoGVGiadaUDP0VhdlsbKBaykELAFE+Oh89ywT7skqykHXYf4AIjbs5DPhFc9
-uHA3UjKIv7pooJAf0P/Eec3GIKzdiLGflpoO3hbenSHbe1kQDjzw0BccFr41jLqu
-6fKIsUgIG8ci1Hk8fnQC1WNeTjBHSmVAyIqKZ0yAQ/u2zEp98VQg+b4PTMIyp0+5
-oRvncYC7iJ5HNkVRNuaFIh0prJQEBDa04RXX8UI8nGAM4YzMOeSo6IQ0PVxV117N
-8IZy+4jxpkcHTL5zZy9oF1/oOXlvAmD2z8CGJ55NV2i3SqNd3gf+WooRcOXeL2Fb
-wwWnJ8DZEk62Rt5xyIigvd2rNF2r1yN6sumIUhoEdkJxWJDmpEI9ydNFBSSL9wAF
-Kn/uqcox4q6yXMM178GbtOGFGGagXgPVYjeXNc6IrERAR8coEN3dY1yXUZczEDcR
-Kw7od7gsx3eMprJnMCN3fyQfJp6PC0tOQOvIJ0k3kXQrf1ND515aGBPtRdbJ9NXm
-byyLlNQcjD/QLinG0DyBznjJB8k2f1ryuVKnf+tZWCH2Iab5vYETc83kodEGc0X0
-NkSbmxWF4Kv5+wWoPzD2K6QQD9drmObjCUG43LwQthNyU6VpALxf3vteEHkdXVsA
-+dmEk27dGC5dYDRTJ4+8I/b7DoeG/SxuI1XVZToNmx10xZHyn72Qr07kaMKo5vFs
-Ov1mGhryklXMgcVATpvI9a72PDgp2/csiGtUAN+3BZQL/8x89VvPOfZZuc1qC77U
-RlCR2vQ59aIi4B9dQTv1/CwV23Kz/LO3oR3MlNPm1ftSxm/m9afdJ19uyYYgD4oJ
-xJXs7xkH/ma6Bkur3PZk3d59gGFjRxsJq+Piv3weakBl60YGPVE9VBo1wpvvLHTY
-uQyEGajiiT0WTxRH+UvPiY1/jQJzF/tfwVXDtPQl/9ZaXLLLpPU0rSEFdrPCztSb
-oiI85ZxrpHXZQRE/JfxJz8VBwL+xFIqZf72zZcC4Q4nigPrnMedQnRc++VvioulO
-aBNDp2Ne9K/G6sYgYyYULw99OV0xBvN643c=
------END AGE ENCRYPTED FILE-----
+---
+title: Tomczak 2019
+---
+
+## Tomczak, Anna Maria. "Bridging the Narrative Gap: The Ghost Narrator in Marlon James's A Brief History of Seven Killings (2014)." _HJEAS: Hungarian Journal of English and American Studies_ 25, no. 1 (2019): 107-239.
+## Sir Arthur Jennings 一个鬼魂的叙事声音
+## 处于口头文化与书面文化、过去与现在、加勒比与欧洲传统、殖民前与后之间
+## 牙买加的宗教与海地的区别，海地强迫奴隶信基督教，牙买加的英国殖民者不让奴隶信基督教
+## 鬼魂duppy是非洲宗教的内容，然而这个鬼生前是个英国人，而且是帝国时期的爵士。他的语言，典雅的英语，明显与其他人不同，各种方言。
+## 书中有很多鬼魂出现，但能说话的只有亚瑟爵士。
+## 蜘蛛阿南西是骗子。
+##
