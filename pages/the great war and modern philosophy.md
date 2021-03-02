@@ -1,19 +1,8 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBFZzFsdVVsRW9XOXF3ZUQw
-UGdMUjBJT0luenNDOGNIc0pCN2FvWWpBSm4wCnZ6RmVLYVBSeCtvVGl2eTlPdkJY
-MzEvekswTk9QblFoYy8rVW9ZTFpVc2sKLS0tIG5wRFNobHdlb045Wlk5aFVmeUV4
-V0cyVDFCNWlQemxzYW5NNkJhNFM3aWMKWXXTef1wQr2b+yHxdiQbV76/Ymdnh5kA
-FEckHgW0EfSA4WJ4nJcCXsS1/rpv9viZi/Ou7hTrf8wz4Hk3an1NW+Fr8zDFhJJw
-i5RICfZa6O6C79Iarj/QL+ghyLtHpwqh2zo3YzCpx4Go+jjcMySo57Qlq7vopdWv
-NxyicrCmzGc+eDZ+mEGbj0YJ802Q4tbQ2LuCUVYMC8uN8wO6/frHr5VQGUMU/k63
-xtU65jZL43lhYaYJK1X/Vp2rWa6sFBWyS6N48TYw4eXzcngbypoDXHsg5aBJ+1Eq
-QawPoUqdSw9qWoj/99QS+T3wmujNfAlscDQyNMofiow6MFKOzy+pxJnWsyjikvvl
-sTmq9J0ue7cABUaLrhyHutoW2xi/wQR0NaACdzFn1MJTpRoCRVdb2L51GCHFgbim
-NsnpooN6bq+oCcgM5RwPAM4LRuteD7mzqANWByHWLrhtKn7jwmrDcEi/Tf++Lkc1
-ZDlhKDSKo05FL9a9XmORRsiOutY2V7T93x3zQJueuZtW7AG6P7QqPOWaUJf0dmyV
-n4opkGCN6aP+3Tt41OxGq79GUXRQTSM/rAhj1SEaLPpLMyBNNQ0fWnJBXBsBpWUN
-neu0+bunslly3quq6EFs4jWrwtkrbDlGy8yBTWWDQC7wUFtY1noOekkzrrrsKXC7
-jPhdpCuGMkVqdXMjzIiA0BXQNXjOlCCO3bBRlDxN09WU8rxBRvRgHRNYzewE07zr
-hRyrU+FgoZU6KlJWfXokVZRW7fbuHyhG7HZhugfB9GHwm9mW0RvTdA50xwplOtGy
-PWRXpY5Z8Nki/x+/5Ybay7yMu3RWkXlZIQaTMwsm4bwA2pKZxdM5Xks=
------END AGE ENCRYPTED FILE-----
+---
+title: The Great War and Modern Philosophy
+---
+
+## [edX课程主页](https://learning.edx.org/course/course-v1:KULeuvenX+GRAPHx+1T2017/home) 
+
+## 1. War of Absolutes
+### 1.1 Clausewitz, On War
