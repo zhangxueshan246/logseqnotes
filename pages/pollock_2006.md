@@ -1,6 +1,10 @@
----
-title: Pollock 2006
----
-
-## Pollock, Sheldon. _The language of the gods in the world of men: Sanskrit, culture, and power in premodern India_. Univ of California Press, 2006.
-##
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBoTXRMUHBNdUg3cUROb2hj
+TFV0ZUVFVEdJbXNxdEdhVTlWKzgzOHVDazBNCitvcVBwSG5ObmNhdDdsU2grSFZv
+L2dTM1VuKzA0TEkvaFcyVHQrRmtqYmMKLS0tIEwrRngveWR2VHloVXIvSzRSMW9Y
+UXpwdzltaDNXYTNGaG02SVh4b21mcjQKvqu54d+ra35HveZfhW/hFRmgz4Hmq6id
+D6pZcnYONQZ5ggvsDIIQ+mgVedUCGue9n04ZFiCjHsuyasVFddbn1jYynI3diKd7
+AqBGKG+mzK61/Z/Il0qjPpLeb2sU3FMgZdJqSpyqJuRBXK+PR9D2D7afcHzAFz2G
+FjLc0ERJ+0QLDNYWl96ejymJt04LLmhEByOZfAuf9NxRuY41k5HzoGdmXFcHkag9
+JUu5UIlQxTqqtaRjnhn92QJS0NL099opi0mcmzYPnhDk9uYyPsoy4XSQnATPeQ==
+-----END AGE ENCRYPTED FILE-----
