@@ -1,23 +1,9 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBpS1ZESmdZTjhmNS9zc3VI
-NGhKcjFLbEdXOUY5MkFFOFo3ZDdScjdIVDA0CnBKOXNoK1hCcTFpOHdDbWdQUm4x
-WDRBaU1FNXMxOVpYRExhQitSZ0pxSm8KLS0tIFZIcVhOQmZNSU5NZGxXOVNoYzNt
-QndpQk9Yc3A4aSs3ZFFmWDduNW1nY2MK+7g8Jd8WNR6PlldmYtc4nTVS+WprSyqj
-LSlPZskXg/4YIb3ohMw7MRP/vqCEpdLfYQl//NNvkIZSCGFRhAfOfZXN8h3mVYrn
-pX2VJHTRg9Tc15qx6GqgPX7AhdYoLsjIN9ad7+Y18o0aldPeErhu+XsH6gM7sZ1m
-6xn37OOR+mgFdzG9OIuN/oK0vj0jtS168Ws2tOcH6Xe6UOAi9p3l34rVAV77tBqC
-VYCAYnQ5p47pKoJnZDkYf5zcNk3yBiA15AsVY8XWu86OJpUlBdWEa13wiZrDJ5lQ
-u8L92ODNN0+0muQFW2fxLxHpB5P/06B2qq0uV+vbq8o4r1s/6f0g8nlP6BVffTPm
-sMFOaT3P6DjuqeteTSrPQ1Wgv2EF385irezleMCfH/HhFIBbDEHgNChAiS2UstLA
-FUpUlc9rnNEx6YjPTk8+i++KOhUyx7Fap6P7q83qdr99Ud/YVxdLUX6aMDaC+jrU
-VJtH5gOocO618gDK12pmxdPmbBfasUnD4hVjHVJ+Zq9s7xJil+n2mhNET+6wr6Zz
-7ME8Ao87EmIoKXk9aD77uj5RC7MGwyT1vDYy5yUBl1QXdHNnmk4Yr9c5/x3Nwzip
-AmlFmwuQll/uUuxodAnqjeRhIX7YSow/pBrS3dP74FjoL4/V5JgRm5h8iqsPAvO/
-h4TXI3bDBKwsRO9LCkdo+eS2OlX+TKvF8ijNA6Nbb0Uoguj1lG8w0Pwy6ET/kq3u
-Zw3mcQAARXisOJu/wxUDfVK2NLaoHaSuWDQdzSKWIwqmCPXUxQYRg4X0L0GZ4jbE
-1BP/7x/1B5GLwEC/ezQ+6d85yzl7BZTI1jgBkDRFXozjIjXmcff1qoB/sCPBBlaw
-pAlo0JeIgQVmXrCDkPBXpLwMV9l0tNj+NxTslwHRjHmkaL+07uun8kdyqq8Dv+/2
-eYwlxnr0/ccab0Lpe/ezfaBO8UijGMgHZZy5j/omo6FV1ojpif2LXHOcn1bxlPsV
-7DPexca/zpHNKdghxQ71mlAlf++1dM80n4HVPGt34r1Ocb84/47u+IU/wmg+pAq+
-l7SzwsrSjh61pY7wRCbzjkgJreXSCNbOqYMLtplRJW3ZvaWQLmdVdg==
------END AGE ENCRYPTED FILE-----
+---
+title: Dufournaud 2020
+---
+
+## Dufournaud, Daniel. "Winner of the 2018 Siegel/McDaniel Award: Upward Mobility and Zuckerman's (Negative) Dialectics in I Married a Communist." _Philip Roth Studies _16.2 (2020): 16-38.
+## 阿多诺
+## 对私人家族的背叛象征与世界或者社会的进一步接触。
+## Ira与林肯相似。
+##
