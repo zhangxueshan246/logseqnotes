@@ -1,32 +1,8 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBtemZXQU5CZjB5YUM2OUIy
-Sm5DWWkycW5wRHI0NG0xM2ZPRkZnNU1zZ21NCjA5ajNzTnRLeXUxM1lzYk50b0tN
-Y201Z2owUitOTDIxWlFvWFB3emIxTFEKLS0tIDA3eGkrM1JDRGxFV1ArMVlId3Rl
-K0xIaDdlTzcxdnl5b1g4YWEzM1g1NlUKyUe7gl18Jj5aVQBmLZHzuPfvSHlCHTOk
-bFmKGKdQy+NbSPNEiPjtt9c/Ix6Z949Vw0uUlCiXzHdQLkY932imdMB119VJ4a6W
-HjByArwBjSd14/5GtKMZaQBb05QMRvzZtXLRDekJHxImIjh8I80/tsZDnpfhRBT7
-BXs2NHX8QTrniha+FDX7IdTo69Dryr7yXlIUJBvtFWXGGihGi7vPAah07QMvll7x
-N92+xK1TjeIHPUBdXSH1Y9SVRw/GzcfjTWYnFhOGQWDeDWJdarvw8K+TRuvmQ9DJ
-tFjiKRwKyjYF4J0mvgBGgyxt3NR4miabg23tyiVgtCGDG8yZsJoegxXk+ta0HVzh
-CWeDwrdjpdjcH2ncHAz6eNBA5/bicm3991IQM3kV59HnUpmsZGNXoqfjbn9Y+PtR
-Sz5y7elzLKHrCnfiEXMFYsL/J5UpbP7Acx17X2h+oOupmy2obcIgvtjoJ+JdR3Um
-gSs3Cu6tookcEfYJLhRz688F4BeHQzKebuY/JcGaCyafmpjebii84yQ4dlPrywCz
-7gcFbLcbEajNHXsx5HIkFLv9QRXvFzBT1ixhfDnAi2/m3IP24IdYTXOlAeWaDXUz
-EjAvIgc2JYKs/8GDUOkjExGO/CvZH3iJEMT6qfArV4VU9Li6Z1yUQu+0ytJdAW5h
-ieRsMr+1Ukl/4NNQ3qsTxsJlzfrzXCxT1QTcm+HxKEtgSmAQ4F1ZB385sg9JfYe7
-8sZymeJ53sl+iO+k9sZ1RXX3esKiO84rj0C9pr98UWy89J7/5jpxg/N9iVLuQMKy
-ZsdhUy4zodyWrqLHDtYvti/DvJyPuQ7Pvf4zHPR2wUm+S5SAz4HIO8G2ZyjscoCH
-/k+UjsRmLhLBcKA7IyFPvyChilqIPCE5tvBlb+s3lQhn7K7dUKwn9q6LY3OqhK8E
-ErndTDgpPhyX3Fi4Oof9Y8vgqcx7cdtkCfJZclZ04nUK6UPK5gQnJYho0vDWr2UK
-5EoP4hVU/ZuxTqGTiQaVHACIeoVYw2Y7W1Y0uJ5kas4rOetqfFLhvrFvwzcMrig3
-D17iH7sL31CqHJlrh/AG2SZe6DoxJWaCDu3dNeSn9c8db4Fwcz7i/0i76hU/J1ZI
-9AWi/IEuG6tg0VLSSZF2d1btkz8FRkJiDrlKnbrmrocbb+ObqVYNY04u8wd9iQGX
-0/CSSXzU+zGRMxweUXXNeMy86iTyTiZYtspf8ZW3xJ+2knuA5FkEX9JU8VQXV5Hs
-Q+LEDfUoBGUXcb1xvDpDo9KgPbSkcGOpVxYG8t5KMll8pSGCuF1EW+v7xaq9Caop
-Tt88e2kUFwrr5oo03EeSnL/9URqrcxz5lPi1e1Blu06cz5SDOwXIF9eWimqn6NmC
-RZMiDb0gNZdUpp++6YD1xBTAgQh6txvFdjoDP6v1x1DvBde1YD1WT7cR0TzetBOF
-ztCu2qrqQW5eCu00Jt5BCBY1nwLvLo5nvbKltJSrvcIYMhlzvfqaG5OtekA1ureT
-TYKHl89qqmnCf4vo7f7bWCswmCq1Lp5eLXr1thnrG2wszt5RoUlXpRZMKC7WGEWS
-lA0iyzKS5p45rAiBX7lT8EE1uHC3iQG7uiWm6VHah4RTx1G+YIddUHi6lEPWRMIH
-rMVd+Yi+jNF3nfyQb6UVyhtL
------END AGE ENCRYPTED FILE-----
+---
+title: Annus 2015
+---
+
+## Annus, Amar, and Mari Sarv. "The Ball Game Motif in the Gilgamesh Tradition and International Folklore." _Mesopotamia in the Ancient World: Impact, Continuities, Parallels. Proceedings of the Seventh Symposium of the Melammu Project Held in Obergurgl, Austria, November 4-8, 2013_. Vol. 7. ISD LLC, 2015.
+## 球棍和冥界或者说地下世界的联系，不仅出现在 [[波波尔乌]]，出现在 [[吉尔伽美什]]，还出现在爱沙尼亚的歌谣里面。
+## 大流士和亚历山大曾经互赠球和棍，这时候大概是一个王权的象征，和波斯王子常玩的马球可能有关系。
+##
