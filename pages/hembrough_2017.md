@@ -1,13 +1,19 @@
----
-title: Hembrough 2017
----
-
-## Hembrough, Tara. "From an Obscured Gaze to a Seeing Eye? Iris as Victim, Villain, and Avenger in the Role of Writer-as-Assassin in Margaret Atwood’s The Blind Assassin." SAGE Open 7.1 (2017): 2158244016688933.
-## [[盲刺客]]
-## Iris 第一人称不可靠的女性叙述者
-## 回忆录、剪报、中篇小说、科幻小说。都是虚构
-## 不可靠
-### 边缘：与现实脱节，老人，小孩，无知
-### 年老：身体健康有问题，那么记忆怎么样？
-## 没有风景的房间
-### avilion 成长时所在的庄园。特里斯坦和伊索尔德
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBVUDV5d2dQZngzMVQ4aFFk
+QVZkWTdld3pDZ2JQUjVkNjArNkRDT0hWSkFFCmYvcndiZThnWktjbm1CNTAzcjNm
+bS9TcTk3K3UvWnVRcVNVMGhvcGNxRzAKLS0tIDh6K3ZIVlJpMXQxdnlabzhOaEhU
+YVpHbDNOWFBYbXJJVk5TU08rMnlPcDgKYgAj2Osxv8pH7TRhNTwEYESCBZ1bJOWz
+5XQtLwfNWilXLI6b3RQfU24hOcAc2HnPeWAqn/BvJPnTFKnND+mtjrDNheBgQ/QP
+8jdw82bh19gJ9cPCDxtcjE80J/EOUY5vgD+Zo3OyXBZFBa4cRRpfi2Fl70QeMSQo
+25zdlaOXhDRR4zXao+6mDF+f55lfcZjlUSQm2M06+MeNitvLSO32KMRWWko0cVNx
+caG47haNGiCkpBePJm1YWw1w8G31crjeQ3VML0S19pOx7qV86JMK9CYHk02+y2Yy
+iA7r3BOIrX9udHWZH+8mafyY5GT13TbRUeKrg475dAjBQdZxC1XO+dFf2Xwg9MfE
+xoH0jpKdeSZ1FMStwQxp2hQhQnaCuUDHwbbGfkeALNQyB6YNH7gMAIym1ZCuldpU
+gqrqWTcHNfg+wTpTa+OihA8eUAp/82GQ4jOob8dvikiU54LJOeNwKawFK8I60ySY
+n9VSITEfEk0BY2rVRbfpLMXWs5Vmi/TnP5YkcklcpfH+fLDow8WVZJI4x7Cxj6Iv
+GK3N2JHoTPZxCSQMOoSMnqNZQSbY2t3qCYeswsJdjiWLTGVVuaviIR9dFcJuQBmV
+jpNYFsPHup/fseLe5kp9DcX46qeLOtNp3LOmHyeb7JJIDhq8G9jh66CvWuAR+AwF
+61a2B6ijfhZ/KPX4vK/dmmSdgvej7RY1SRwvx2qWBhK3cSWWQpxenfcVUG/JPFwH
+7bV/x/kEpTUC7CW6gUVi9LWiojyqcB1TNUeFh7BNFjR7yd2msZyo6NNZ2WISIu8z
+5Txpzp9W4eEF6GMLfY43wbtKMS8/Foq4hUFycEcjl2tg
+-----END AGE ENCRYPTED FILE-----
