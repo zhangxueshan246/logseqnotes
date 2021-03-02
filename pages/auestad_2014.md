@@ -1,33 +1,11 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBQOVprRVZBbXVCVXJQQ3hC
-TW9GWmFqZmZUUDd6ZEcrRjNaVi9JS0NISlRnCnQvdC8wLzlZOEluSmtSYlVsd2g0
-Y2NzOXBUOTlBVW4zbkdDdlpCNk1IYzQKLS0tIHZuc1JTQTBZbTBLU1h1T0VsUVRj
-VUtaa0s1VFBNTmRNemduOG9ycDkxMmMKrpY25bES/0Y6DEHPIaLA1Q7SdmC0Zhvx
-cn9dDsj6f2GEFSqAz/bzSTDxvSQweQpgP/WpJLh402tALRhQh47RtzU8IqeNuZtQ
-516ASSQ6OVcmICJCi9UdcpwfCbVIWJLmI58oIZP+LpDkUxAZPYayIJFT0wGyxjPJ
-q2f9C24wN1fqUnOBRzb/bgKNntXKz/PGkPtc6JMQ7G6NE1OFRVycNNYAi5MZAd/d
-uw4yVNgvCHeQLA6havqzIQ2XSaP9j1y8fXxv83CVhd0PLJpBuEA20iiUYItQomcT
-tcyPG19gG0p73YSzHKRToIJB0R8YQr702oKsQKoZxr++ZRLF8BRDxvnAIb554MrU
-lCRMWyQG46rwQ0MY6D0hj6FvcngkyI4FeNQzYzh/YRkKWaMjIkPCXDQ8CO+h7lWB
-wpOgDVkiXGJw8paRDPd17ZoslRHJlHH5fkNFg8Jdmahe4IGHxQPF1NFeQ7FLnVh6
-bDz+4k1nKp1ZyxYC3Vf6z/Xz3fsuR8dSMwCkWbCL+wbstFflyzOx67mG3PwQ4AR5
-21GGWeItOLmCBBzOlAacj6GCQOxPRWuyi/+lZeNrtrAWfYu4JIVIgu25DoxAD4Kr
-KHJmLkhTUlf7kOR6XNbOkNnY8mqc3Mt9TKmp+YjtsywNL1/ZhaZP4NGH7/H09mUh
-vdkr0rlIJSLoh4t7fufIhMcdfMS1u29Uot1g5ly20RHFhOPXZ+pVDmBMHxLurrUT
-dAwRAPdEtEq5jj81jXBVvjClVR+jWTFZ6yzfmglN1JutQnDUWorYWRIO/3E7PBEX
-13enQssZSGMlHXpz+1isI+JxzmpKtHZMahU+NowkbaqX2tdvVTIwuJKkoaWOhOJG
-sub6U5FLw7atANEDkMtMnAzxQYX1gSYtuBssvhmFHAeWAJ0uOhjp16BC+od8cmct
-aZlDDeDESNiVQmuMppJGrEGRuqGqZczQ2pikuKMP5tUoDfb2r5YqEzcOZ0/bkLl4
-xeFAWq5YeudsHzzQAOFLOUUuFcrEngPhRf/ZqACetf80IoEUgMfklAaZRs3DMqiB
-DI5XCh0ZLAQ9+hxDits/klUm1o4q9RX0cZLDYm/cgwLp6fIS2nUIPJjgxAc4LwRL
-lRNjYiE6shmxM/yQaEpOEuR6WpY2yXAGGjoNygV3zmt/u4iQkfB0Q63rZi8wItqO
-8GijA2BMgxvx1RyJvUh5VA0PBCC010xKN4XguWiZG4aZicWnNl+V8KSga/qJ1LWn
-kY2Jvp+z65snDLIB7LXQYZv/lddsQ1ScMiD1Og5U1LZaVGOk7+ZSVCQ0eu90htap
-6vlrZokJv1TBGjBSWa6pTpzRGmZI4ont0xHhiKSAdrR/iId3Gk5XhdKgoy+hUJIJ
-XJnXRkJIsVnw/KYGceWEI1F1ziqhaGeuWOnD03dSyI+IXTIg/iuvj0iyiUx02UO9
-w63g3mEcKv3ZDRAQIdEE7VVTNiGacGgzoOSOAI4lCvKu6m7CVMtvWMx/amcuP+Dk
-ki7l5hvpDLlUiDPcBwxkpF535m/qwD9c7KpzJpjI7SBKKDDttN1n76/CwOSg6Z4g
-v+TyQI/3e0L2uS5UgbpuPBJEjNXJICsAl8TQTwxVm+nUQ8Sm7uxT+VP/2QZU2ido
-NE6VnpZkVZb8+EwMXa35vO2+epSAGbnud2JMvethx/Ztqb54G6YLqkXyrZMuMsP4
-2FGw7XY437J+1JfLEMKDYlNx27U4anEiTF+taQeSUjmvoBXwCIx/hOksSVl09XE=
------END AGE ENCRYPTED FILE-----
+---
+title: Auestad 2014
+---
+
+## Auestad, R.A., 2014. Between History and Heritage: Forests and Mountains as a Figurative Space for Revitalizing the Past in the Works of Ōe Kenzaburō. _シリーズ 北欧シンポジウム_ 2012, p.75.
+## 1860, 1945, 1960
+## 哥哥清醒，弟弟感性
+## 日本投降，从民族军国主义转向民主和亲美，创伤使人不相信历史，历史具有话语性。
+## 历史一方面是现实生活的经验，然而还借鉴了记忆和神话、幻想和欲望。
+## 森林具有唤起记忆的心理作用，是记忆的载体，然而记忆的内容是不同的。
+## 森林是日本边际记忆的象征，这种记忆处于日本主流社会的边缘。
