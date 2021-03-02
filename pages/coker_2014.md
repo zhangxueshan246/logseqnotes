@@ -1,19 +1,22 @@
----
-title: Coker 2014
----
-
-## Coker, C., 2014. Men at war: what fiction tells us about conflict, from the Iliad to Catch-22. Oxford University Press, USA.
-## 
-##
-## 《第二十二条军规》是作者唯一著名的作品，他作为小说家的水平有限正是这部作品的特点。
-##
-## 1942年，海勒19岁入伍，作为轰炸机飞行员进行了60次战斗飞行。
-##
-## 反越战而不是二战：直升机和IBM
-##
-## 小说的核心命题：战争是荒谬的。
-##
-## 斯诺登的死是人的死，其他人的死是飞机的死，人是看不见的，比如医院里的绷带人。
-##
-## 命名方式：Doc Daneeka，Major Major，Colonel Cathcart
-## Milo Minderbinder--- MILO THE MAYOR，MILO THE MILITANT
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB1bEltS3ZXT0Z5MzJMUklJ
+SnA2UldqdTZHTEZwYSs4V25PWXFLc3ZCYVhzCmFKRkhPZ00xTFlTbjBoRDRXckZQ
+cEpUdE9vak41VUdJckFqRkd5bUFmR1UKLS0tIDZFVkYwYVRLLzFXdENUVmZ4a2lJ
+UVFKZWFDTnVDSktUck1DNUpLdHNYaG8KGDT01izCxz//o2qnT0qtShGQSBMVnwLK
+wiiEJj84WBJt5aSPkoynRjYk8cFHwHEjmYKm/sXd9c+OBiyNqU643Ui3XJEnItai
+wuN0bZEx9dC/0/J1xjK5qraquLGDTam6o2fay7JZdq79s51dHqATKO2V/RxWPkDb
+D6XmI45WXsKsyOlCStELYe2+WAOd5FLPprTEhjCsXrAkh1HkHaz4wLbknjgzrz97
+Qi4HnZStsnKGsK1varOZEn6ANNQiPseeJV4RKl3wnQYVynUFIZGu5oAYIDVgoQvK
+wguDcZJbR2yRbLb/xPuS0dqiMyio7vFyvK44LAp84WXDdwFo9Jd9nQb3NU7ktE51
+0mbktYcD1OjOjBu3RS4TRABknSyTbw0fgB1XlcC8+S/8CRVZNfxo1ch+vsM0cEx3
+2ZjfuTXhP1TztrUGaVvWJX2NQifcEyXLUQ14UhNWxnSieZz8Wv0Dmx+VSKhPV4MW
+YKY6Oo+wuXr1SvmSsRpx0QzE0fPKtXUo90MRZsBwmLuH3EAPzXsS4lI/6hx28Sl/
+2+TgQgjOpoTQnRQ9AuJr+LoOR+umuZYIiKYsmQrvHJbktUiSBkrMLkivjD8utv71
+UNKiD+G+yYa5lnSQWdg6XvX8fMgbaU5ua//QC5g8ifgk9WjSpQojEYfRv0CIX+Na
+KQD8yQnIhz2B4GCaIf5gm2Xl3T0dIN5JiFrk2gc2qN2Dqmq8G+EUwsF+m5cOYWy/
+mzsk+/r3gQQ6uyYEqsMVQZNALHn/ReJ82ojm0jFlQl/+w1t4P2wa6HseDovSGzTa
+9DtpA3eTI7I7FVpikHEMet7WMAezKj11M/rnivGwRJCVCCpoWs61N/I2dFiGPQYa
+6MHu6BKrmbo5HypJpNFjTI3XTy6UUOWdVsAIqpDcL4h+Nu6Adag6k5AwL93G9tju
+QC9rWs2xOntvstWfdQWSUIOItaCYB+pgJU/DISEunBl/LHCvSYdp37f6lkB15g6A
+dSRA1AIc10jgUmsJGlw=
+-----END AGE ENCRYPTED FILE-----
