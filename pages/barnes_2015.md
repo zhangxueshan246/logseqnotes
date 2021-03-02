@@ -1,10 +1,18 @@
----
-title: Barnes 2015
----
-
-## Barnes, S., 2015. “So Why Write Novels?” The Golden Notebook, Mikhail Bakhtin, and the Politics of Authorship. In Doris Lessing’s The Golden Notebook After Fifty (pp. 135-152). Palgrave Macmillan, New York.
-## critical fiction 批判性的小说，文本的目的在于重塑文学形式。
-## 巴赫金的叙事理论 The Dialogic Imagination《对话的想象？》《长篇小说的话语》
-## 弗吉尼亚·伍尔夫（Virginia Woolf）的达洛维夫人（Mrs. Dalloway）
-## 思想和信念也是对话性的和可变的
-##
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBCWUxGdE1mYUhCYVV5cTkw
+SnpxY1pqU1JRaHRtcldNd2J2a3QyQW81ZkdVCmYvYzRJVlIva2hzd1Z3UTlZOEs3
+cEhsWkFSYmRIbHZrTm50NlZ5MHRoblUKLS0tIHBZOS9zdCtyV3UvSmVkNmkwOHJl
+dHZXOGRBenlFeTZxQjROT1dMU1JneGsK6/KUXqoWgO1xybs8xc2QGc1dJRPZxuDQ
+5KKZqsIpFNa6ha+dV/2myhs7fOOdUxdF68aveLD+NLXt3CaQt2VrBilDEo3n6TFK
++dEXXModoLhP0ZwVhuBtNE/dwMerTGJ7NXl+AtnHxY7TDMbVZaL63gQ9yI/vJF8Y
+RrnO/UVwmRaJeTD7yGjTWtOGOZNKtYf53dybzFrBgcYhV6/8zwMTWsV7NW52XCVx
+LjP7YMS50K9k7b/GPBwO/5akBWwTnRcZgsXNx20hg87DicExe31rPZM5VX/r8xjE
+Q+gUIROiEtzARF7xCzDXF+GEwNDGGRKiRLampZMIiVTjqiDuxq5w0jq1kPMaBP43
+R7Hcj8isCqFnLAinwrHhHdm/7cUsqPxzTgozzQxru81dRPC4iFGCenl07mepB9Jl
+JyhFzaOQY4YwRwyWYPb9HtA0Cm+zpwzj67Ou8tKcUEZEHJGwfJTHs+TdaPKE0UiC
+qQeBdYW9vVZIWOcwoHXyib4rskPfXscKdNIJRDnqoIiav5dP1kQ7yMvBbQqKL8ic
+mJssv+79xqtRRZ10Nyq97IN6nSU6WU42fmCTa6+5VcHa5AdIcl4lWKdRHBL/zEzl
+M7ycRIhDUBQ8CiwThJeO1lJEZlud04W6bRUG8pxSREclXjCbC8/77jQOjrf+oUjw
+gEqXvmn0hBmFomc/zfR/FsZYZQu513nI2oOeTYSi5N0CQvaQiKf4hKPzVrej2WH8
+v8kvT3vUlqhBh8YGQ5BanIFFh8Ht7r2VYvN5kJzg2jsCwvo00/7CMq+mQCKVBQKL
+-----END AGE ENCRYPTED FILE-----
