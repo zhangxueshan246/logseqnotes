@@ -1,19 +1,6 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBtWnR4NWNZUm9peFBMZ1NM
-TUdxWkd5a2xsZzNLeUsvWnNyTGJsWEpFWGd3CkN4ellseE4zVHB6WnBPVEt4eXZH
-bUdtY1MrNE1KaUc2eFhMd2czSEtaYUkKLS0tIFBvdE5zMUdWSEI3RmpxR3ZqYit6
-ekM5cVhIM3REcUUzRnJnbmdJQ3BtV1kKXH55vKesRIh1qszVGLD7KE9avx1zeQKD
-L31+abUZOGm0vfaso8gIdWoVnLXyLwyMfQYXKwpa+Fxh3kK+NZ104mCUz3jeeUMJ
-CcZFp1EsbnGVQhy3ku3ICHLuoR4SqhYvsDdIsT9Uk+kpbBJ/FBs+pSr5v8yqolG2
-xChf0hBx6NOs4aFMN2VA97fYiIXXFJb4LXXUVbNFY0FKkaoBrD6IHSinPFQJmTWY
-D04yAtdW1fBLH/C0IcmMNS6qJIdQrYMEJm717+ltGESF+OPx+mvZmvzkIjyqqPz8
-q+4DMkPME7gnioJY6TI2qNZsEWZ+3lQsDq43VXPQmFVadberD16skBwCkl8zgLxo
-aEtR5tY0umBzcwkuA4OAjoUk4MP3S64flORvhT+Vuf0KAb/oUYd25XLT9uX6uCRO
-Y5ptjG0JN7ffvdqgNXjtMz7hxmHfzw4yfLWALeTyotZuGSLR0wKYbWuaeCeqPiWH
-aNSAbWoI+0SH4pR/g1qknoiwHB7lnV81AFpn7Xqf4TYHFOUnGbINWQ3sHPtMg+jO
-u9948UL/Qvc4mgYehaTnVo4gmPrFvSqw/b0SciTnjNB0r3gdPbA2XRfGRJDGi2pF
-LD8tm0UNBj2f7GB3w8llJaJ/BHvMdebMzdkdIUZ+pSfwe3JcgibUDTnmNdK3INzA
-NocOxsyrjgUvMMMAbik8Rfy4QcBQVcRqIyqDQb0yXemYgOTxdOF3uphEa37Sxijn
-o3pbINwWkZHVDMN/Hm3ip4GlNfmZpQzR0PKLdZ6sS3J/MEVKw0jE6Tivoz0aFfPM
-k1ZraSKzodmsTYYsGkBuqJlhZ1Y=
------END AGE ENCRYPTED FILE-----
+---
+title: Pollock 2006
+---
+
+## Pollock, Sheldon. _The language of the gods in the world of men: Sanskrit, culture, and power in premodern India_. Univ of California Press, 2006.
+##
