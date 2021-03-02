@@ -1,25 +1,10 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBXdUFwZjVENC81ZHhseTNk
-NUd6dWFIY0hnbkRuUUthYVB3Rjl3TUhSM3pvCjFGVEExVjJuSlBjN3ZTclZ5ZEl4
-amtpbHBKZXRCYmc4cjczZTI5V3ZTbmcKLS0tIFBDMWY2ek1RMG5qaHQyVzViZU9I
-ejcxKzR1dUJuQW5HN0hFWDd3ZW43MTgK2YV5VLG/U9xrGE8tV4XNsTsEevN7Te6G
-bnDYNUzjKkOw6mpA4KdfFZi73mbu81j1xddsiJWq4wekYtPQ6rpr/xFcg3T6OL6s
-YtXPWXh2HkPi85JGEz050fz0nN7iJHh6BLSLVX/4cux+I14N7xMI1C00oWPnvSks
-EhnHT4lTXH8yEOiRNPyxYuzgcrmUkl+qMD2NgrVihEdqrc7/BcI29L7ynfqrd+RE
-OwUdGJx2gsxBUShy+fppMTG+pUvSZxgGSCAPQ+fGQ7fHZp1Qo+1G+qI8q0YGVl+S
-7sN8hRfNQfPQLDqYCDYJTyHApa28Wq8OiTl/Xsn2BCTMB7sQkjSdzkyxGFI+z4EZ
-9ST5HDi7tKS3GdHC7dCIXi4MisISiIWQ7K3CEAS5oBxRHl4Q64NvhHVzRhIfiVgo
-xE7/VEbJtswaNKNPSIYvhwMTmC6XCheh3scsGCYfTn1RUomq+nQ+wjbGvPNscK5Y
-sdxX0A1+EJW4NKodtpZkftU793bYKJ6JFnTVTrJOP0Mnvfh4c4QFbc9+py5WD+R/
-glqRFuU0YuIkGn9iarYKiFHgyOj9+wzmg8KrTPEpRiqLMAn3K8dusBSdtK6ZZsao
-p+S+w7a3+5UmeIs2n7RvrcLOCTTEp0PE8jogrejzNgHBMjV8OLsavW3VtmTcZElr
-LrEpXo3dJjyE1LhfxAtRHH0D0hDWtz3gtnSRd5Xmx6FZNjyW7Y88WN864x2HkKCf
-0UE34c1pWNcXbykIMvcgAE2N59KS0nPIQX7yhK3F2u9ZKDYmxbFws/ib6l5AepTk
-ahiL3qnQTiikkB+i09BIcNsUoU5QKxQ/YbLD3ngLGSpKslDeka1mK8Mgu/0l1EhY
-mgA4YZ1JdIIUq0+ho59pbSiyhNdwJ3NiXcIYnXzoqi+74eZw/BcVNPAo19Ek1Ine
-khoSSsluz61Uf44c6/7clrjS6cVTLpqtuw65wlC/t91DVL+UAyGFBdPHZiFe5Pcj
-v59O3AHbKxORI/yhgd706RgoOpODveMYsIh6AXlyzCXN0+n8UZIIhgOmVOvHCYFF
-XZiXh2oxlx1DmYSe1nueyizr4Jl6z3gNBlhCrkSS+tPuqNRzJEHms7/daBIx8jmL
-F+dZDXKUb3EKLgNwz2aO9+43uZQgjrqB+nDABSITF2CBchNgwDr8DCpELH4rykv1
-h2lon+X5tlJfYEkxUsKtgWpjUPUb2e3OugNKE3ekvyZ6
------END AGE ENCRYPTED FILE-----
+---
+title: Smith 2019
+---
+
+## Smith, P., 2018. Drawing Vladek, Staging Shylock: Art Spiegelman’s Maus in American Holocaust Discourse. _Journal of Graphic Novels and Comics_, 10(2), pp.197-209.
+## [[Maus 鼠族]]
+## 美国叙述的主流：大屠杀幸存者是完美受害者，
+鼠族：大屠杀经历没有让Vladek成为圣人。
+## [[威尼斯商人]]
+## 夏洛克与Vladek，局外人：口音，
