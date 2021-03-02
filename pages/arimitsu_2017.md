@@ -1,8 +1,13 @@
----
-title: Arimitsu 2017
----
-
-## Arimitsu, Yasue. "Richard Flanagan’s The Narrow Road to the Deep North and Matsuo Basho’s Oku no Hosomichi." _Coolabah_ 21 (2017): 6-23.
-## [[深入北方的小路]]
-## 松尾芭蕉 《奥之细道》
-## 殖民者是东方人，被殖民者是西方人
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBwMGd2U0RzeVhZUnRGMUJW
+RGNDWmhVbjR0VXVtZlpsZW90ZElZTm1RampBClF6L01qWDZUSTNreFZNZmczemIx
+cC9Vb255RUNHWnE2Unh3VjN5NDhGcTAKLS0tIEJROVZVNThWVktRY3dLWVZtVjFl
+TEdjRFNkZ2NwczRqMitLd29XQi82YlUKSnnbj2/jyeh+mgUjPastM49VsT21CLPr
+wR90iVOss99qBihRQVVOAM8/6pZOUScdp6J8vO4T+wjk29lMNHJu0U3jcTbwW77i
+FpOU/3FAf9+Ao4+dYF2mgfTZWNrccIH4P3PtVHrm/X7X8BHrwVG6wRJTGlSsCxnb
+85HssxI8H/D5kSIi45oX7JwA0Vrs8XXqzOHfY0A9vM/MrE1YTNqble5nJxM6HjpT
+Z+PsB7GdKMceRHCbZsA4RSIAQ4hsAwbsqWFREU216k8/yrcIOp5Yqfdz88ZIKNnw
+KiWAJz9mpt25y3Ng1+NKXxzoBr/XhRJiFQM5PpeNZH/YRZNnWNaKKUnmjQ6J30oN
+uD8QXiX20R/dfNe5z3q+T8dyQeoePVDQizJRcRWD3DBWnUUcAMxgVIYb4/ELg2WQ
+wCtOJ6ID4sX8Yg==
+-----END AGE ENCRYPTED FILE-----
