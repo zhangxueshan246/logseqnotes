@@ -1,17 +1,7 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB6bEVnR1BWamNGKzdYbzF4
-RC9WSVA0WWJDNGxReWkwNStjRHFGMXBveEVZCmRyUUdRV2V0UUR4Vzg1Q3NlTi9H
-UWpYTEdrM2VzTGoxOHVWTEV1bVpJNWsKLS0tIGFRRmR3MlpZL09YZHhySU9yeThk
-OFJnNXY5ZVl2Njk1UTM1bjU5aGY5RUkK4IgEKZzxAjv7TaYBP5kKckyExrWaxs4g
-8tMPxxi3pE3VtipTtfwR9EsHwBdshn8YfQT1kHnyYyxdxtQ58dzSAnIvc+3JT7QT
-5HlNaTA0xuw9oIUf1fV+7LvYo6reZIunPu3eYQbPgcN8DshfgJpPsu05MyTzVfDf
-wmn8F9unm4qyDNh0Cue5MgdOTLXjmOc8Cqc8Pimps6S3P5u6eSlkXf0KsDeur2Vb
-cx3LL5HvHogiiZITl+Ef8C7PHzh+uhUBQvh93+tX7oL6j1buxv7YOGr+7lBj3vah
-te8LHckNZhHZ+nAofi+C7NU3LhTQVa9qqNg9j9b1toxl1hzHQCOKSgeMosAZ8VIN
-7wdyBij1ic4LzAf7iMOHh2HClLNbIsy6fDBmkIw/Bj279yQtIIKY1zqzximTbPT0
-hvpVaJJqOVLn1fcRZlZ/TkQxRR8lG9PIvbxzBFudU7/atp0iXfDrV3qiR5rwGDXv
-V8WWP6GBcq9iHBYAboypnYdQ73XcS1b2Qgjcdl1+PRdiBvOIDU5zcXeyHJHN9Gq9
-eAfy0iXqt82n9HMcv3BptgRR0YkQXp6RtYHwB3g+tyRB+nMs7oHOjhzu4yTaHjmk
-ZNlXZ216ljA1svT37qxugrHtlm9pNm3gc8k31QERyMK4IIrzz+4gtsEG0jhV6ozY
-L4lh4JBix33BhIdNyU3QycRLR8yM8hqvZcbd
------END AGE ENCRYPTED FILE-----
+---
+title: Stephens 2014
+---
+
+## https://trevorstephens.com/ramblings/catch-22-visualized 
+## Catch-22: Visualized
+##
