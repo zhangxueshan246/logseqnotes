@@ -1,21 +1,26 @@
----
-title: Downing 2000
----
-
-## Downing, L.H., 2000. HOW TO DO THINGS WITH CONTRADICTION: EXPLORING HUMOUR IN JOSEPH HELLER'S" CATCH-22". Atlantis, pp.107-135.
-##
-##
-##
-## 官方和个人的视角
-##
-## linguistic stylistics 语言文体学：文本分析的目的是通过观察文本中语言的选择和重复，来讨论文本中的意义和解释是如
-## linguistic stylistics 语言文体学：文本分析的目的是通过观察文本中语言的选择和循环，来讨论文本中的意义和解释是如何生成的。
-## 否定与矛盾是《第二十二条军规》的文本特征
-### 结构、情节与叙述者
-#### 结构：两条时间线：
-##### 尤索林叙述的心理时间线：参战飞行员视角
-##### 飞行次数不断增加的物理时间线：高级军官视角
-### 修辞特征：循环否定
-## 语言的否定、矛盾与对立
-### 二分法认识世界
-### 用不同的词来表现对立的概念
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBuTEIwSmJmTkI1TUE5U0Z1
+T3JORXBtUVhMdVlkM2xXcDV4aVNZNHpPdjI4CjF3Vll6M1VlMXFRWVN1MDg2SGtx
+dkIzRWpPVlNhWW9xYnQ2NCsyYitCRFEKLS0tIFpTdTZxMkZZOVdvK2toTUdTZzJ3
+WUZvNmg1NWMzNWpQQlZtVXEybEpvMnMKeY7ZIHzpiTjFu/CmJdS1HH0T8lLvvXql
+9U5RAApmb3JgiXlPJkDhKJ8ByIv2qiPTmrLEHB2vIkUjFhnolAWr5M0+oVffnSD0
+qDWv+PJFjGw22+YSP+OXjyKQCzRbqpiSfwMN2FoHkkpw7owlFxr/B9ABn2lmd5YM
+4iJzG5t8CjcFaB/ZMvztthxZjufeu77qMucWZKt17SqCKHheQLhyaGLVk1dcllQS
+FeFHu9S3fxxHsUsAM8y9n1DA9x9+C+IYFN9+DP621bd3n6053A4hqYBJ2N+zU33K
+V7ks0inam1qlRyd+Qge4tH/D/lcTjC5jMOQo9ju/0F4q5LuEdTu9WVNwDIxS3oJR
+z6+pXvdzpXnuyrGNcHmMysYBhCR9gxdPV+jy66lYc81ye1/vVOfOrd6t2OZCyeIv
+RfUjPKqRGfTzAdLhVu+BM9oVOtiIV9REyPYLvh5Sa1+oj4HuaS0J0p3/Qca6pa/P
+/jldzLfa36FgM1Hg2BQAR1AGQTmGS0lmPgH6UBoOWvelwLF7PsbNa6XEaeDRt+Qb
+FFeywdRYtrfFOtNb13etjDvS45d29NV5YDldOx1bx7aPrVJvCg8agh4IwKoPi7si
+1LvlhnqSVI72avf/FGZtlXBn7r/4nEJkJBztskeMiwElcX0iBf/YwHvBGc3tPDwm
+idRSFTJceZe2e+8BoJilgWXg5wDhptve7rTKlEuRJBindh4Jti7X5pnDVXgVhEhy
+h6J3aI1brpVICUCuq2XznNkc4OP7kXzdinfVlIYMwrfJ7oerSD9aaU+dqyRaQaHC
+OnYWmt892nXqQ5I9iRZTut6mY/ZTqO9Z5FhdAiO2VqM3ePswF+GNa+nz3oN+ibLw
+8Tnjz0//3dhW5Z790yorJY/qE4RrsOoRG4M4483fhpCvrJlwgrA0/PV/oJWEnbbE
+Y76xiGsl0o8CclnzOGO+hdGCM4r3inJlYpujl8UuinkmOcb9wCpvxdofLLOwGFuX
+zGsEatNkU1SOoqwHf7Yh4UH+rD0PPqDx8qZsKO+ItMk3ro0NgjmwuZnzBIQemT+f
+LYeXphuCqPFPmwomtkKwR4c1/XEMulS0LLlRWYH1EOBcDTFmIhNDUcw/SOM3sS4I
+2zhRFFGKw5hw6L6eeYdQfizaMJLJCxQ4RxJJxzOnO2IDRWzlEzRF+CM39p6ubI00
+Gt2Wql/kS0ROUMVrIfHzQdmuy+7X4Tp/7PkJutN3Ig+Rb78ImEuTY4rswHuMBo6d
+jrcd44NMglrNG61rUoVkNqk2UjbxWUDiFKc4IBI=
+-----END AGE ENCRYPTED FILE-----
