@@ -1,66 +1,69 @@
----
-title: Harvard Justice
----
-
-## [HarvardX ER22.1x Justice @edX](https://courses.edx.org/courses/course-v1:HarvardX+ER22.1x+3T2020/course/)
-## L1 后果论 vs 绝对论 康德
-## L2 功利主义 Parker男孩，最高法院判决写得真是漂亮。
-## L3 Jeremy Bentham 人命能不能用金钱来衡量
-## L4 什么是 greater good？
-### John Stuart Mill [[功利主义]]
-## L5 自由主义
-### 个人值得尊重
-### Nozick, Robert 1974. _Anarchy, State and Utopia_
-#### 国家收税是拿走个人的劳动成果，相当于国家拥有个人的劳动，相当于半奴隶制。
-## L6 生活在社会之中的人是不是完全自主？
-### L5和L7之间的过渡。
-## L7 John Locke
-### 生命、自由和财产是不能让渡的权利，不能让与他人，也就是即使自己也不能放弃生命或者把自己卖身为奴。
-## L8
-### 必须有多数人同意的规则，而不是随意立法
-## L9 征兵
-## L10 代孕
-## L11
-### 康德：自由是自律而不是他律
-#### 理性超越动物性？弗洛伊德？
-#### 根据原则而不是后果来选择，那就是要有一个正确的原则。
-## L12
-### 三组对立的观念：什么是道德
-#### 做事的动机：义务而不是爱好
-#### 什么是自由：自律而不是他律
-#### 理性的命令：无条件的命令，而不是有条件的命令
-### 无条件的命令
-#### 普世原则：是否愿意所有人都遵守同一原则，这是检验方法而不是行为动机
-#### 人是理性的动物，人类自身是目的，而不是手段。
-## L13 说谎
-### 普世原则存在的理论基础是所有人都一样，有同样的理性。
-### 误导性的真话和善意的谎言。
-### 康德反对功利主义，因为要追求greater good，需要社会认定一个东西更好。
-## L14 康德的正义观念
-### 罗尔斯[[正义论]]
-### 正义是一个理论上平等的合同，需要自愿和互惠。
-## L15 收入分配
-### 差别原则
-## L16 应得不等于权利
-### life is not fair，这是既成事实，社会如何处理才体现是否公平。
-## L17  照顾少数族裔是不是对多数族裔的不公平？
-## L18  亚里士多德：目的论
-### 亚里士多德 [[政治学]]
-## L19
-### 政治的目的在于尊崇优良品质，那么什么是好什么是坏？
-### [[尼各马可伦理学]]
-### 最高法院判决也会记录反对意见，真好。
-## L20
-### 如果公正基于某一种评价标准，那么至少评价标准不同的人感觉不自由
-## L21 历史责任
-### Alasdair MacIntyre：人或者团体是通过叙事建立的，不能忘记过去的故事
-### 爱国主义
-### [[追寻美德]]
-## L22
-### 集体情感是不是道德责任？责任冲突的时候怎么办？
-### Walzer
-## L23
-### 同性婚姻能否实现首先要看非婚生子女的法律地位。
-## L24
-### 民主就是搁置争议？
-## 从录像看来，哈佛学生中华裔比例还挺高的，就算都是美国人还是感觉不错，毕竟能代表世界人口的一定比例。
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB4b2FVazhWdVRhcGFjWXNP
+OGZveGFlRnJaeS9rcms2R29Edng2NlV2UmtBCnZJVXBqQlNwZktBTFAvOVloRmEx
+bCs5a3V6eEd3U1NLOEVBdGJRamVMejQKLS0tIFBuRmJwRTdGR0JISVdSUnluMDg2
+OGlNNElENnFTV0lRRDRCNHhXU0N1WlkK7kp3nLODwVgvZvlKB3DWQQtIMUmSRyAp
+1KSSpH7Q88MsuMgB2kWZPTt2Ec2wp7NCbATfyBTb2hOmgwrExGkhNlOKp4bdZJl3
+1OvQxymLsK4nFm8OG5bjDAZL5GKJAaep9yTYhyrONEl05Q0Le7yAsNy+6Uku9hbe
+2OB9FoYIkX1Ebo5GrWIGG5GkcgBqaHUoKuixbmiB5cvowXIwkm0bFyhq5Tn0Mg8d
+nX1zJu24byu0n8rwFyApwI/4J53zNKkyvaUbMGOpQRBQ6El7cCBHy2z1mYR7n0G5
+ftma55pralfcelDiHNsoa2vxv5k2dxBbvnOwx1G8NFekSm+TU4qS7ADMgSHspqf0
+uzMcp4ndpLcEWnPSbo+nTH41XB1p3oJV86SKxRtCcIObzmS5aBqwl7FV841rHyGC
+b7dVItI2E90xB02NeNgrjGsRd6GFS5W+cYL6QRjYhWirCtDzp8tptC7emowb8HBA
+BbmXYtkg4eBzws8qQZDAHlsSkaN6HdGkMfUFjiJbJS11r3LoKOLhdNenTcM6CPYh
+AQFprZHIMLtd32848CEJpeoDhfyozMA1ORzm2V9nOL8G9VrfW0IH/Vw6k+PHCvEn
+JrjEVdRzTXZaYrOWTWIn6UfAvyy+1MHgsjyS9GgycLDclSKdlcQsgXBkfur44qGL
+Y1cv7Jab0jZAf+M8HsoRhNiH/2zGR2I4JffdSMF6HTuFZPYL1DjgrYX5ZMw5USz3
+jtDeRROrPLZ2j8x5TRzKit6nB+eadojfCneU86Cz9u0K6H1c930sEAYiuIcjyLSI
+Lusd0G0UOIBf/q0Qs4Hv/741elxl9OqrSV/aw3+XYJpMV/cM4KqOB5bD2stNVZeG
+0L5AP1iqsgKeEHGmlHxDqid5tg1y9xGtH2Jm2q2BBM9EWjBJqdjixxyPaG6ejfq0
+/vpnOgh0DSi8BDcQgYIp3sIuP5WM8Ueo3cEEsCXuW7GOTdF8/BKX4YKgsSzilMJq
+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
+Uo4Csf27giWG/cn99y1b
+-----END AGE ENCRYPTED FILE-----
