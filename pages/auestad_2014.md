@@ -1,11 +1,21 @@
----
-title: Auestad 2014
----
-
-## Auestad, R.A., 2014. Between History and Heritage: Forests and Mountains as a Figurative Space for Revitalizing the Past in the Works of Ōe Kenzaburō. _シリーズ 北欧シンポジウム_ 2012, p.75.
-## 1860, 1945, 1960
-## 哥哥清醒，弟弟感性
-## 日本投降，从民族军国主义转向民主和亲美，创伤使人不相信历史，历史具有话语性。
-## 历史一方面是现实生活的经验，然而还借鉴了记忆和神话、幻想和欲望。
-## 森林具有唤起记忆的心理作用，是记忆的载体，然而记忆的内容是不同的。
-## 森林是日本边际记忆的象征，这种记忆处于日本主流社会的边缘。
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBMbEhwZUNXeDRCSm9DYnky
+OUhLZHVaNXpiOXUveDdPc2ttNGJLeUZjbHgwCmZMMHVVcnQ2M2phbFN1bTRBbjVF
+RzhoaG9zVGt0ZmRLcjR6U3ZvYTcyYTgKLS0tIGpWTnNCYU12RFJ5Ky9SMmhod2U0
+RlRHYUFOVW1DUnE1SGRWUFJ4Q2NySjAKfMVv5e0GkzdVHHTAG1s3hdOf5aGzl325
+Z3Htb5TGOqi0Ui8lBsybF2ebgSWta0McnrZD4npfXwndS3gmtPvI+ZGqD0K6Yfra
+qBXe/tfPRL9xySjpe+xwMNCEzt5A0bIaBkW2Zkf3SJHrd5Ow3eKAgvRj6r9MMQPA
+RoTgRGlgptP8NdJPypN4a+fEfLY+7s3H1JPT6FdT5vwm6ldB5INe0f5gEdjIOuX5
+ootofCHeXT5Nh/qYLyBl2xKdqKoWu+0rb4mjwzIQR/7U9TJzw459oCqAQ3EamFlu
++p1Hbcqm84B1p4wG44N0xrgXLldx9XPFpKHINZ5p7A7cIGImK3KBWZZan0p85MYn
+pnKGMPLXvOEs/QYsgGS9IvXLzdppILlAMojmjaOqTP6rx6Q+y+7A/CByZpMMgb/S
+8kBUusbutq9Oz8Dl44QxZIhKkFjuXem1T7e9OMj/i+BDIgTog+RjRN+M9F2dzo+E
++9zkMcCpxa1ZZ60PtgYTM0YmH1Dy/Jo8bGlYRx278jfBOzMc5yap8+QhOmqgYLPr
+h9v2sx8C+lLQfqHzvfVSAG23HaMyktTYHskfyxJdw+Nf7ftcbYvCyqFJ0h3FCKRB
+f4xzy7IyNH02mtKb/zPjS51PVT5OiJWigQQZmejwCTw4diXnoJDR21FptnFQY+WU
+tEvjjFEVop4n/1KEMlXZWyJQ57SjFHYqSj3e9lSDOMeJrV6DjxsCko+GjWTHxMtN
+xVUeYlNxeVnXDy1W+vy8WWpv5y8CZRRtaSEkc/TnZ7unu0omt7wJF4/lFxp5jkDr
+GfqmMJTSBOekaRDCPwx/J+pdrMGMS7C4YOvoMRzBUW9LS5uTviZXqCar2KeVG0kx
+1tJncbQ+15lUQEUl/IFBFgkTBvs+I+hKxpHYIQ87G6qZirl8+shfQJKlqyKYS1cb
+FsOUKexi0PGDMczzMIVYAxDs/VT56Ohbnp8Xin8Z3PcaE/1u
+-----END AGE ENCRYPTED FILE-----
