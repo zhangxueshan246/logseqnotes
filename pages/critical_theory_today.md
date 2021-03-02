@@ -1,26 +1,35 @@
----
-title: Critical Theory Today
----
-
-## Tyson, Lois. _Critical theory today: A user-friendly guide_. Routledge, 2014. 3rd edition.
-## 1 害怕问丢丑的问题 [[2021-01-22]]
-### 行话会排斥外人
-### 每种理论都像一副眼镜，有自己聚焦的范围，所以需要多试验几副眼镜。
-### 文学批评不是批评，而是理解。
-## 2 心理分析
-### 无意识的起源：幼年创伤或者卡在某个阶段没长大
-### 防御、焦虑和核心问题
-### 梦与梦的符号：解释有无数种。。。
-### 死亡的含义：被抛弃
-### 性欲的含义：本我是欲望，超我是社会规训，自我在中间
-### 拉康
-#### 语言习得与世界从完整到有我和他之分是同步的，这也带来了意识与无意识的分裂。
-#### 无意识和语言有相似的结构：
-##### 隐喻是用无关的一物指代另一物，类似于聚合、合并。
-##### 转喻是用有关的一物指代另一物，类似于替代。
-##### 重点在于，原本要说的那个东西（完满的想象界）缺失了。语言表达的象征界是不完满的。
-##### 实在界是永远也达不到的。
-### 传统心理分析与文学 [[2021-02-03]]
-#### 用心理分析分析虚构人物如何可能？虚拟人物是真人的代表。
-## 3 马克思主义 [[2021-02-23]]
-### 一切都是意识形态，都是构建出来的
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBJK2lBbFlFdEl3OWNNNDhX
+TmcxUjhEUmE5NXUyRGdWaWJZaXgwcXJDVTJrCm5WS2s1Ti9lRE5IcGFXbmJkcVh3
+Ukd2L2daZFBCZGZWamZENXpXdSs3ZzQKLS0tIGJWbnJLU05OR1hGQ2ozeFZkUzJ3
+MWxYa0FSMWM4NGhQdmJ5b0FEbkpLRG8K5vRvQwjDPR+7KkdkCFvtPNqUE0rj4qLL
+R8G5Vu053MgTuoSffA0pTS12m1JFBtz2n+/L+W4vxLRdcJJ/UT40nTvRMeOEmda4
+j6d+vEyvvhbBKrBMd33IYcXslbRPJPC2OCpRuvAq3+vN3HweCzQzQVxgYWWQhVo7
+KPbDfgok7jftr3wwksDiuOyRApisfuHwsIuBIeDEHiAe12C/78BU5DJ0XTo8GKre
+cr0wuk2emiNgEvTLdBZjI4OrjCzYtPHAdDP7O5cdP48x/XLPKJp+OjOF97u3+GaS
+d3t1anDE3Ht3ls1As4sy/RLQtXIkV+JAkSgkvhWMmydKHlNkx5ONWLmeD7sfcPwg
+EWqbonfYCDirlEqErTBRjgY0e15W7oK1QiQ7UsCVLgHC85L8ULseSy4ciAklxrdO
+4i/kW0VznZaZrehYMJeKdbuNWrd7iT59nZkfWiRCvi5gKy50oX+tudgARY2q8ATf
+RMO0b2E/2uvnRnE8BmiQJhrIf7pPE+EIEu3CVxjG/R0PoBiD+UhOcCG9YTe94npX
+T+p8TCCY2LK7TvLjO8gP0qfDBHT04z9mxVl8HVIv6WoOSTcEC1lWDzv3sDQzoHYl
+MbOROq5qiDqepoRuTzv2gc0a2Yp1cwAieuTFNtmUmaej5zMIqrMK5283iHN39gXQ
+9YGrc9CE+gEBx8T/6bjhcwmt5IrCdoD2xKs5rUVEX7l7PxFa6+SdT51HASD95Vuv
+m6beRXWPVe5fhkHz4Ht2z4ngDIKWi70IYjG62zZLebGdA4qT5e2VpmrOjEnueSPj
+dBOlTIQq6z7i5+y61HuO0tO1hJGjvb+HxNUlV1WOjirHowYc0zfPBiGx9dlnWDo6
+AJwA+kxVtEmPeB/AZY6CwcmuwyNrBMa/vY/LhGu62Pw1H8Cj0c2eqTD/FF90aWhr
++rIDSupdvnrNOHexLD0XQEKVybcoChOCMxUAw9ynXjL0Xn/FTf/9uM8/hVMkcva4
+bbxNa7xb4v/73Nz6qC/9nHbg5PQFq3uHYAHw2C2SnyBAZ5piUhZysc96gdXRpfVx
+Ut6HJC1ZGpGGFiyvUZxm/OIPXm0WZSYn01K8FDKU+BqKMc8paPwa/Xxvdnod+kHS
+fcQ6pKi0ZFdhdh9C/NqeL+DYoVuWB5HYsrYFluFBoAP2ny2E6YGLUs9pgaJBUhBY
+QdWnSgYb/OlFtNwT8aJYZwGUtiJL3P7N79lSOA8hfcH+mmZkbYNEdxThh97a4Y5+
+5RpTbHf6DY1DIAE1Xjv574dNIq8YqLl+alU8RGKNhuzAuAoLwq6vLsbG2zXkuDRb
+0WqSz94sH4PjIlYKS7lATxN4vUdfDpquZgh8K6zHm2dZR8UTPRjHjghhmiMlRIM4
+nu9JY0CNIk3d78xvypm5mgiT34kdrNApRiOAmMFoxspzwYr5WniLDOJFMT5+t44D
+6lvEGt0+Ouru3KQ0+4S+99gbfkPnFljWB9LRH0muYbiMqiLcQRQfpc8Zev3xavKl
+YaF3+QkKL13yN0Fy+Sda5hxjP+HVFnm7Ozkpq7q7V+qSE4TRtUMyf7+GSdymG20F
+UfSxi0qNGp397sUaoHgJR2+rT+eu1PXgqZGHq1EbXyhyLklIsvKEcKBuwK93tv6D
+mudt/cB9y5baCdCtO4Iv30XO9Xiov7KVPxHQVq+t7Xpl2sadsokxCtSDMHan7rw6
+A2I0vHGiLS/xw6wSTNLlJOcwfltHs3dGVM/8KRNa894TinAndQzhHn66IZKuFSsZ
+uYOgqACrjzed5jPfm7Vx6iR+RnvroudiJlHvVVMzx1qk0/Qsf4GjkL+ePTYcoiLu
+Hj/wRPwMbSJr5Fe399lqWOF14Q==
+-----END AGE ENCRYPTED FILE-----
