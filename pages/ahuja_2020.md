@@ -1,11 +1,18 @@
----
-title: Ahuja 2020
----
-
-## Title	The Palgrave Handbook of Twentieth and Twenty-First Century Literature and Science
-Editor	Neel Ahuja
-Publisher	Springer Nature
-ISBN	3030482448, 9783030482442
-## Modeling Long Novels: Network Analysis and A Brief History of Seven Killings by Lindsay Thomas pp.653-667.
-## 《七杀简史》各章叙述使用的是第一人称视角，体现的是过去如何影响现在，产生影响的是人，或者说，过去是人留下的印记。
-## Dorcas Palmer这个名字来自Toni Morrison的小说Jazz (1992)
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSAyM0toQVpnTlhpUk1EdVRI
+bVJzbHUvaTZMMzFyMmZ5UlBBM1B2Vm9WcWdNCjRUQStvOW90Yyt1OEhsUHRLRVRN
+RnpxZWgraXhpY1Q0SnJkUURKc291Y1EKLS0tIE5wQUNGNzR0ZFVUa25RRE91MHlB
+NXp5RDB4ZmJyT2hVL0dIT212MHhiN00KbZiWC/3yynLcpF+vTWtcNBJ2Ju2KtRff
+y6FAwRdO93Dkinv058p/rQNXe9suq8iaIOiIo/XX+stGgmdWLf3FpmRjlOM2by+s
+fraG0QDwjs/eyJchygQoAiBiNRryJA8qln5CBZS+esgBeeeP2gCvCRmI7eyuW8Jc
+AM6b9bOye5EyFqxPQpzZNDh/tnZ+8iDzrUjaPta5qXeILSA+Sr0HPZ+U1HcujOV3
+TmUAMlANENjb6FFnvLlC4v51lAZt+5PpfD7VDpqM9fw3xvIWgXFLLLp7TrlRNBkQ
+e0Mva5EnmsUm11clnjGO1GlivpLqcfQ2nrjFbckpbh8g6ptm1Mkb5GluEaT9VSSe
+DwWeHuehjfsewoGm3izvInk2SWqkCuw1EpUKqy7GDGdWhuOTBXrQCq//uWDw7Hj+
+bmYbWo0Y98DDnNpV1ozX2uxxh2dp52F+NpZvqDv9sXKl1yv6Yv1GQp0vIlR2Onpu
+5Fx70QkdeKIVqw5CC7jEc9SGX9jIoJ+obZZoA7mjlSeat+ZoOKwwDhVisL4OvLIh
+xC2+pCfd+9uCnN467JNSrLzSPRQRP5LNvGSJNVa1hQQLKrv0QAFiuX4XY+jvopO8
+VsvHJJQbZgn9hmGbjgs1PUlHjesXdheov9eaFidR4huxNZviIoh+pGCbz3am4VG+
+eTowBwKgfm8C0AzXMV03t0DoTztb/5Yl5XM0wSqsVjHPwcD3TGl+6zsM5p1q8XTW
+KEIe5Yzvi6qvAMgSHPlJ6ZxfEbKNKc0H
+-----END AGE ENCRYPTED FILE-----
