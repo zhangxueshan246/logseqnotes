@@ -1,7 +1,15 @@
----
-title: The Psychology of Learning
----
-
-## De Houwer, Jan, and Sean Hughes. The psychology of learning: An introduction from a functional-cognitive perspective. MIT Press, 2020. [免费电子版pdf](https://www.psychologyoflearning.be/)
-## 0.1.1 学习是个体适应环境的表现
-### 这本书说的学习和我想看的学习好像有差别唉，是不是还是应该先看伯克毕生发展呢？
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB3RWVCTkhGZ1ladTgyTDhq
+b2JLZi9BMlordWJLYi94bzRLeHNibG4xZTFNCjhKbDFCVGhoeHlXNmcxaFpJVHRt
+UFZDNm9XU0RLM0NxL2p5M2o4aWM4MnMKLS0tIHk5YXAzVGxqZG5VK3BUMzYxQll6
+U1VuZEtUZmRqSzc2VEZjRC84bVNmcW8KrN1BcyB3iCeRPm6xpzJiIZuXyA5S5u8k
+S1ChE/p/9jGm7+nKjltWaORoHxpxSA9Axa+ryrMIlvdyV3ls1xpevgopc1WZJub/
+WZdAqneuGwRtQeNy1Sfb11RjQeY/QU9HXWCy8e+t3g7nP2IEhbakoG9dZgl/NTgH
+Uwc0T/QYmlh+3/pnZtexJ2smWW7DFYuZvliBjst9bA4QZB3wzISg0aBndLRGYBPc
+1xmpt/Wt313Gu+W6ZXFuLVuvbqRcrlfoH88ibtjCIDxIEpiRbm53Ftu1Zh4/lHRF
+Vv4CLtg6ZfHrPR9k+AHOYkH+Odbz37QBMZK8esyIo0bcbe9Azr5QkZAr+qf1rDln
+OJov0MSESTv/ziwj5zmJNgeaTynTrTuXgxROs+XNLFjjnsP3GJW6azzmIGgPT77W
+36ztWYlhJZChzqBLoR9Gjeba+vz5EtnMb4sfc7SLfOWI14Qkh1KED8Dz0PTqEV3H
+z+pVi2SW03ZSl7ZABX6BKpziJFmwvLZ6D69FxQlfeCSbqWHCJnWO6DzpIyJw0NsO
+ubxwjm3WCjDFnZqFbE+rUGiJ4osJWnNjYalBm0U=
+-----END AGE ENCRYPTED FILE-----
