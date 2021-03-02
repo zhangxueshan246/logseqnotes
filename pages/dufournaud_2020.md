@@ -1,9 +1,14 @@
----
-title: Dufournaud 2020
----
-
-## Dufournaud, Daniel. "Winner of the 2018 Siegel/McDaniel Award: Upward Mobility and Zuckerman's (Negative) Dialectics in I Married a Communist." _Philip Roth Studies _16.2 (2020): 16-38.
-## 阿多诺
-## 对私人家族的背叛象征与世界或者社会的进一步接触。
-## Ira与林肯相似。
-##
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBwNUhrQ3FRSGpobGlsQzFJ
+d01ZZWkzYlVMTVY1Yk1jTFVMN2lmTmxvdkFzCmhtZUtqSEUvdlBxUUhTRHhoTXNa
+RDE2UDlzOWZWK3kvWThDNS9qMzluQ3cKLS0tIEJTNWdPcTR3UmZyeE5oQnY2VzdY
+SGVhQXpYQTlaMk8vRGhNcTQwZDBWcW8KWgFhqn70QFNV4faRXZadKdRgKw//MBis
+d25hPMDDm2a9Ox7/qXhJsJvAYMG/KHJjRDfHn1cLWXQ7fZFQBGodAi3NfI8sxVms
+e6WcosWh11R2qIHi4YxAAWCKpHIoL+AI0+AQmlZ2i6vWnXey+aDPrne0X51Gd2q4
+Jn//zl7hJuKSGvkwW9bW75oBdzbDSDMj/yRp3R4JuvrTxt/uWURdhqUEVRBJNnLz
+nGce1C7fXoPI5yUc+EfXgN7w3Cq/k/REgXYWv0vge/ZZZJsDmO2SjL6XB5sQ3i7G
+uFFeZadPgA6VciD/DRfLET3Ij0G/2X+6fmXcA7qk6ae4Rv0YZCOJbtCJg13hQFlu
+g0CoOHZ6M1CGg7YuTumnTHrLrsjAYO8vPs0+wRvAl/hF8WCHr/clu99RMdAzyqo5
+18jNaTffXAYZymDFgZ1TpPCJSE8HBWEcUZ3/fLsGDuX7+wsKwp7BmvnZLlWhtH4T
+bZ1XUPHRrllL0g==
+-----END AGE ENCRYPTED FILE-----
