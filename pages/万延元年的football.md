@@ -1,7 +1,9 @@
----
-title: 万延元年的Football
----
-
-## [[Auestad 2014]]
-## [[Claremont 2008]]
-## [[Frentiu 2013]]
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBSQ0Z0NkhxNEwzWGJyUzBK
+MERwQm1pTklVVy9uWGF1U2hzNVdxTTF5aWtzCnMrdElJN0dBMk1MdmxCaVlqZFZ2
+OG8yYmxpSWkxL2pVdHI4aTkvS2ZjN00KLS0tIGtPNEZoRy80RmgzTXdJL0JCYUlq
+YnBrTHo2dkpVR3JSUFpsSXlhSjJzaEEK7yZmpq8xN5Z/jCqk2/LUrjPgS3+KbwOr
+67i8SduoJNQiP/5aNBvpLSm5yNVboxo12s2Trj4SdGbfPOygShdBlsESzONac/JJ
+7LbsUYvJtyh7z27gryql9yP9miPtQ3DhnX3gftOOMn7P8ORmbVIPjFaBDyX6opv/
+4HZrthva2okqMhvnYQ0=
+-----END AGE ENCRYPTED FILE-----
