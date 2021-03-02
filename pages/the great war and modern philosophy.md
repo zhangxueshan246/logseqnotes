@@ -1,8 +1,11 @@
----
-title: The Great War and Modern Philosophy
----
-
-## [edX课程主页](https://learning.edx.org/course/course-v1:KULeuvenX+GRAPHx+1T2017/home) 
-
-## 1. War of Absolutes
-### 1.1 Clausewitz, On War
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB4RndaWmEzMGVqZnk4WDlF
+dnNNZE44MjQxZk9iVUZjdzE3cEZxN0M1V3hBCjZsQ3hzTWdDeEJ5QmI0YnViRkpB
+MWNscTlOUUFpdDJmVHg3NCt5Y1F0OHcKLS0tIENPR1F6MmlxMll1ZEZYSWJZOGZD
+NGpxYjVqVmV1MVo3TVhnNUxIa2tYSUEKcn8ufdWMSilbVqOgXXxB3qxbgpvBSlrb
+kot5CFifbHHI+Q2UC8th1WDqAd866gEbbB1Z/mMIyVW3zqcUyrsoSmRmrVZsM3IG
+w5+7gostSUTlEjl8EBcPgM40lEhHDilA+hGMz3yV58ZUsdsX0yfe0XTS1TheEsoM
+N3dv4B1J6LnqFlZnzK9FI4BDfEU/ErLWf/UtTL2JOVu9csXvJgLxYOQfvAx6ap3+
+Px1lg2+PhWQHsdgZ/oOVzRMVoyqvMyv1uU3ZpszcrvPf7wy7IsfXFL1TRGNGNU/r
+JkykE3N8VDHNq1NGpw==
+-----END AGE ENCRYPTED FILE-----
