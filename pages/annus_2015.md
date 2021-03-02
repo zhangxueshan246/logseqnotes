@@ -1,8 +1,20 @@
----
-title: Annus 2015
----
-
-## Annus, Amar, and Mari Sarv. "The Ball Game Motif in the Gilgamesh Tradition and International Folklore." _Mesopotamia in the Ancient World: Impact, Continuities, Parallels. Proceedings of the Seventh Symposium of the Melammu Project Held in Obergurgl, Austria, November 4-8, 2013_. Vol. 7. ISD LLC, 2015.
-## 球棍和冥界或者说地下世界的联系，不仅出现在 [[波波尔乌]]，出现在 [[吉尔伽美什]]，还出现在爱沙尼亚的歌谣里面。
-## 大流士和亚历山大曾经互赠球和棍，这时候大概是一个王权的象征，和波斯王子常玩的马球可能有关系。
-##
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBEaFk3dS9tUVZPTkkwZjRz
+MjltZGRSODRjSko0djdUNnhKVm9uMTYxejBnCi90dndvV2NoU1R5aEF3dy9KQnFC
+UmdmdXdZSWdTNWRMOWw1MDNRNDUrUnMKLS0tIENIa2o2cytHUVlTSVNMTXF4eVE3
+dUlRNlEzQ2R1eGxjYXRFeDRqVWlJUTQKu6Lopaa170tqnZgmSZhRPg3YJ3YZsK4O
+7LGvtNkWVfOhwJvR3GWyVrwHRmVBqcpsnaPrOQ1Nud1MojmIPYmbAd2b/4sOy+/s
+2k22pt/viBm+xl0xkKhgsuGMpjEFDjcmMrmvce6dXT6+mn9jsHiOdy0ayV6wj2+j
+Amaf960/gsZ1RAAb5SPV1AwpdRJ99aDMeR6+cNa9Ojfkr0w8brRRkuGFExQpu7yi
+FimfJD1F8TyYzKMrr/O93TbjJLHOdOScHW3HrcCLLhpbkbVvux24Y6h8KXBXfv2O
+AD7234OECVpnSUwrgaw7m2llT42vXG5O1ziAd7pYjx+sLEvDFavJa3mZ3719Wx4F
+QyPSaUSwW4qhd/aQgCFPah4+pXrtInq8/cUAT5MK6y20hvsyfyt1yNgAL4YyP22J
+Qq7Oy2T7tMm3SRk7Ob69hMHv5TxGhdh4eg2h+DzKIDMfuJjj1myAAoozcVq0tqTl
+hAGvbUJtBI+2PFIXpjB7IrdCfABri02q0YefQpzt/7/Ndg+rsFhXWGYkClUY80K2
+D7NoG/SG3t8nPdmgDYvpXKO/Le2VdF0543eJ9DGa4DmnOhT6WwrFP6SU4Kb42wdb
+YBvbsYy2oAcPOePUTu0OrZYaOxBFda8HUrOdgRIz0iwZUHpcy+Xq+D1TmeU3VnDs
+kfq3CPn0S2IvOLWj4dgWFtg0WXmit4IGkVyRn5ahGViQvryjxZaPCMBVJSXHvEjE
+hHdQYo2gVaZQytxR28hdFIeMv3mUzAu4stMUaeqTna+M4GeaTYSIEHxkYnWBepwA
+Y3tUyXujTZvGwIHTBnFlmqMVIjX2OX+45IvSD9LVSXwgKj/wvRx2sMLjI4t/64SB
+A1wpLzPuPs2hq2Y3J9pFlEcpVcAnkN972A==
+-----END AGE ENCRYPTED FILE-----
