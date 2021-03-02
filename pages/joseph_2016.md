@@ -1,7 +1,13 @@
----
-title: Joseph 2016
----
-
-## Joseph, C.L., 2016. “Shipwreck of Faith”: The Religious Vision and Ideas of Wole Soyinka. Toronto Journal of Theology, 32(1), pp.51-69.
-## 虔诚的英国国教圣公会家庭，约鲁巴宗教传统
-## 宗教怀疑主义和开放包容的世界观
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBsQmZZSmcvQ3hrVzNvSDFw
+Y0tWUUxKSW9YUWloVTkvMFRveDZLNEsyN2tFCmVUdDY1ZXFBZCtqMHVSRTIwZWhL
+NXFqbS91RXFWeWo4NU1KRHl0d2hqZm8KLS0tIENjcGVGcGo4UnBKUnM5dzhQL0NG
+M1lvT3RvZGNVUDAvemw4VnI0OTQrY2cK8ekNNIefKNG0vHFqX/WfKZyiIJUHR0QZ
+q0uu5ddb55EbJ8p3U9NgIMQ18UoKotrltPh2fP650sL/Wl+UkRl6faXUY1wI7Nof
+GUEvYigLDfD/EiPaA2x2d1/03ia5Vevz/G+KXksw+zNryNiuXQCBioT4cQadsev8
++NKjpGGCwWGuIWtFBc7dK+Fdi6tfHVo52xcy9RSvQoDksLi2v3YI/ly5UfiiKNv9
+Kb4QaROkaR48Yd7yeW0yxbHEGLcQbNUEMAlFqZdgkrW5BNW3jDbVYGiMqL8bkBdu
+odxcQE7ZRCTuEHQjOT3E28PnPpAusiJHSmhghIomO/e7n/dnIHWIa0nvDOOsybdF
+5p2CnqlD9iptj3doPA3cRBhGlFhHyDWBA8PCO1tpsZ0FH4GQTX6yThgun7dxz5jU
+pX8BCQ==
+-----END AGE ENCRYPTED FILE-----
