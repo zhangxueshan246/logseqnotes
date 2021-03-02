@@ -1,8 +1,14 @@
----
-title: Jeyifo 2003
----
-
-## Jeyifo, B., 2003. Wole Soyinka: Politics, Poetics, and Postcolonialism (Vol. 9). Cambridge University Press.
-## 1959 索因卡从英国回到尼日利亚 1960 尼日利亚独立，16个非洲国家，最早独立的非洲国家1957加纳
-## 倾向于在作品中冒极大的艺术和政治风险，维护民主权力，反对独裁
-##
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBFbEcvZFNEUVdzSFpqbzk0
+OVAvNytvYmNrZ293OXI1NXkzem92UVg0WUZzCmlOVUVEbFB3NmF5M3pPc3M3bHNX
+aVpMV1NRclgyK1ZadlpSVGZVdWJjSW8KLS0tIExjZ0R1bWF6S256OEpJRDFYRVJy
+SGNhbk1rZ1RhQmJkMjd2b2dnZ09VMmsKTVnQKPkNfXZV64hATb7YTC9Zu10zt27v
+0mv+1Fgt2VqSzzKpPLPek0rZSWXYQPx250VcTlwzUwg/9Gjtsa2+PtEkZaN1szCv
+YHWHAVsdxketvolO09/n4aPoERcVXvdQ/ZZC1Bt7awoNRUGyt2FNGKFjNB43ywol
+pJyGYs97vsZiTrnuo9I4vV4TqX7yK7e7DYBWq59aBTmMNgvyDe7LtXMoKvRpAByE
+6kk+H5y9eIozgdnmvjMuClyx59TOq7i2RFJP7vWnJLGkB+/6NGrWCZoNyx9HnPxU
+ucHt/YxENTkpDyKfqdcUz4fzNNyvXaGIw+kdyo62AfNtO62hGL3rgqoCwuXGDE4K
+hpgkPG21nz5e2X9nAyoQkrgKz+5z89iSN8UO3pwC9vcDtgb/LIw0QDuSTYo+ZOc/
+CZKv79YvAkkmxQtsME1VWSmYkmAv0DN5YCEViJdwWxPEmI9QuZKlK3LWRhkqUnlw
+hLAUAYEvdCMMPeBvejEW2CezA/oVsDoiLjbZetTLNSFb8CaSshg=
+-----END AGE ENCRYPTED FILE-----
