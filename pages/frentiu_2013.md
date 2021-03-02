@@ -1,46 +1,17 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBObzVCV0ZDZ3hpL2gyRjZi
-YVIveFR5VE5kL0xSQVdsUXdVaUlrVUI0Um5FClB5Z0tSSDM5Y1NCS1VoL3Q2YVBG
-RGlpQjltdmhyc0lDM0ZTd25QVmNERVkKLS0tIGU1eVJLQnRrSlR2RWdjOFFYd2Zy
-L3hnWlExbVlPNW03NHYzM1cyaFlDUGMKBzeAee3NsZLgXEe4aUxNWMnVdW/ej2US
-t+5NhJlBR8Mpu0KZOm8Cn5vhbOiAQOUm4HWv+bR+7EWiKunD0GbliYX1L2Is8VdF
-EY22oE82mIPL+bMPNFGGIiXGarceWYb3prl954PvmuBBdIdQSyCU4LDxmehtfClv
-rwpVosWv+XIMv4d47j8QY7iUFFJkUiDdbDb87vQHg1rGsR5cl3nSwsnDaUboUrh/
-uybMcpcQBbY013uUOCGfizxTSa4u2t2MR+0PvAMESPWeRXGa91KoH/rf0qwLmLs+
-Gy8FoqCb/jpo4Jlc8Q0psW+KvWwK1yUFBf9doNVhudh2T9AaWpVu1C0ed7jWXdIC
-GuWqSvMRRDXp4NpDL5E/nT39/2xscSYnaztF7RrYNbY0n2MeaRAjXCapPhJmLGzI
-K+8PZZFHp9Lsi4jHoZqGN2ChI2aKvREifPuvpgEi21usrY8Ev0fFZsTHtMph8df0
-OT0gBhRF1x13hR8hXX947+rWVfu0k6StyJi5qEpFWHs9hja/36AhWMLMx0M4lh2N
-uulkoP96ZYbYfBsAInIZdJe+EADPL76Z314bShfSFgy8XC3bvcpPqjYtUceC0jmv
-LTYgj3ru4+Lr/bmcRIbuhksVl8+53/rxqX7BuA/LIK6AErvCNnczDGwWQpoYNnZy
-vXqkoo3f3NOxrgUj1/Csowuo/DcgFANcl7wvmA20m8e8xDHYoT2NoGckml7l4pNd
-BesqytQ4sa4GCGduBlEHpGzVaPBjjC3IQsHMo40nCHAhqbMdY/Fa19IT725ZhWyX
-NsfGgJ8/4nOGAx+6k6gAGzEGWSxu6lK88v32Lihmeh4X89x2PVID7yjdbekBcjkl
-5MoMDR7Z/Bg6g0Kn+8t6W4halUwjR2D9kmLVEMdZEQCLH/UtmFx99PT8YhmqHBQ8
-2ao7XmZxpw4yVzUx/ogh1OLO3f2xY9KVl4h4ahUw4fViubdF/TUDapmIZGWalNim
-TIuntwoJ297mDch+6IDU+vPV8vUHadpNiYXM6cS3YkVmqgSfng8QnL+aGKkoO66q
-uaYFth/RwJBf11rcb22GPUPgUaVPllegHk5ufM5mWhUWaDeCHY25XxW8Z4miK/Hy
-qQU1qm31MW5Nue07H/yXSSJk8v3vjN6v0vWQrZhRxvGTxxNS+cHgGfYiKOvHJytW
-Y1tWst7NJnmRhCMqoHxbRgptmVksBxCHZHlDpS7p218b7WIlFS26v5uw1PuECwUh
-h0xbxrc8kTg/R5S6+Inh5vm7S3eWXdnJWrxXnbNwjsumIoFeFYY6xvEbc2FH9YLS
-AzQ7SaCUNNilyp3c+utGyFbOEICSe3Nrl2iU2XmoS7owiSUyFdN2x8ug0S3uPJ62
-3g5V7nDrPBNmrHcvBYwdKpwQYNtbsI5bZNUj9MZb4bX5hyKYV4YaCd2eRttBTfkr
-Ec5h/K1DSdZkKyuWY2jEoWB8Ydwd/DOPObTYqmIjWhcsZoJs2q1Q/phpVOuKK8CH
-ddpRtfh6gvrOLNBmwakfQKuejKj7sY5pXwlvlyY3k8/T6NZL7JXSWJeuI0tArKvX
-ePK0VPPBPz5lVAE3Rx5tEraIEtsPOo6z92nNVZeTU71iH9EoADFADuh5nkcrH6gj
-7haVLNM2IasSEmhJDcfJ5ogK7fkVTvIisEhtXT2qJSEX1/+Qzhvm7HU4DDcTZRdI
-5bJRexxLmVqx3d4v+hvhl7d12BQ2fi4vzExehj23oTgFNp8iugweHOsWlP9hGfb4
-nEIVQmIqNLMwXjahPtIXOuxgconPd2AlcJnaTacqfjXp6OYj42S/GANMDw4SSEP7
-6TwiUYqh+kWolc03g3RVNXFGgzkaV+xZ+f306YSo8fBkIfxsnKjhxQojIM8xXKJ+
-ajJxOdqKthzSmzrCKO6ul1qFXJSVl7mieGshbwiwKaPjHAWeICJWfLSGdmQDoWMz
-tv+1OhWg8vuTv5ezfXBo2RUzU2wr+6X9oqCh6/xnmRdGBrPCQ+p6osd1+x9tN2Db
-75zD2kRa0xexsiiQ5NutjdNg8Khrb4N5XJJlqHqb5NGLXlIlPjIsaowFsx8l66u0
-84BDd6OpCHVl9VJeb5z7oKRKW2B6Vb4KkJewQEhZ6o61QYIdufbZ58OzprWkXp2P
-2eRMx92kn1qgGbAzRuDiqCziOIpxhTY25RoXhIc/tWeafFbhToSrQZRIzaFkkZKs
-bf13zX1flisF4bbtmyKdGVqylpynXkNotjk1BHM0hfLlKiZTgpZ+9NztYEgkEKWC
-1GgZHP1auWmhSZimIVd6Cfs+hS2V434oFeT0NOv7rGq20xT+tdLRmocBkw2fCChb
-Gid7P+V/5VmHpqBRIj1MHzBnn5sWtmZiGwwSVDTq2r3D/A8d/w/zkrHwXwrvwyIp
-D9I+OkIA7u5Qomo69qk54R3Sv9PHLzqm8hzwMR9f8eH1d4V5ocIbx8PJtigGQ7gq
-hv00k1LeVi8bkFBDNkOYk4ddWZmobGy+LHrrz6LOOxDm2V8jnSaF3V50XCRFKs5I
-dgKYKDCHOyh0LxWNHSyNmHxi2/HGEI1P6JdG0e4VU00501i1KoWHJozGanIq
------END AGE ENCRYPTED FILE-----
+---
+title: Frentiu 2013
+---
+
+## Frentiu, R., 2013. Kenzaburō Ōe, The Silent Cry (Man’en Gannen No Futtobōru): The Game of Sacred Violence Between Myth, Logos and History in the Japanese Cultural Matrix. _Journal for the Study of Religions and Ideologies_, 12(36), pp.22-50.
+## 宗教暴力的神话
+## 明治维新 1868年起 日本社会剧烈变革 1860 万延元年
+## 1960年日美安全条约续签，从村庄到城市的大量移民，家庭概念的变革：从回家到成家（建房子）
+## 童年受到帝国主义意识形态的影响，沉迷于神话般的中心化叙述。
+## 山村生活环境保留了边缘主义的对抗性立场。日本的文化与主要的东京文化大不相同。
+## 对团结的追求不可避免地导致暴力。
+## 私小说是二十世纪日本文学的特有体裁，取材作者自身经验，自我暴露的叙述法。
+## 山洞 化粪池 死亡与再生
+## 冥想 内观 出现于20世纪的日本
+## 两只眼睛是太阳和月亮，失明的人是受伤的不完美的宇宙。
+## 恢复曾祖父的故事，就是恢复一个古老的神话，而永恒存在就意味着无休止的循环。
+##
