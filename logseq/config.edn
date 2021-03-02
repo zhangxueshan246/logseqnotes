@@ -87,4 +87,5 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
  :feature/enable-block-time? true
- :feature/enable-timetracking? true}
+ :feature/enable-timetracking? true
+ :feature/enable-encryption? true}
