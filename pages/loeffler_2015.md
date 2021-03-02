@@ -1,45 +1,16 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBoU291RDFyN2FnblJGdUNu
-Mkw5VitiKzBVSU9VSzh5ei91VjRzd1hRekQ4ClQ0SjBmU3lEaTZSQU5ZRVp1NlhO
-TVB5cFF5UjJzNGVpNURHamxMMURDdVkKLS0tIEpCZ0VZdmlSa0wwb29qejVxaSs1
-MzBkMkQzYWRua3RYMTR6SXVVaVBTOFEKCDS07uT6+t8lPEAqcI5wk9nGTsVMTJWn
-F7pHt+SYJP/xbf23LLa2ZdylasdudETZB+KuwWtXic/v/nF/zjpdEZMFZz0McqwE
-OAHQPulNzaLs1Af5h1gKBT2AbiC3pI/NjUmKghqsuVMOaTVXUJ9Xd0uNwZlOPxng
-vVmx2sdJpOjpWWpjBb7Ybeby4yWFTfew8wG/0QbNM6ygGIitxxeWBJx89bNuXOXb
-cIn21CSJB3O7DQ/Chdjhc+kPNPAnPXMBDKhKQ3CYI3bys3k+MXuKtWvx80b43PHX
-naWBfOyPDDitb5bxrikZjL9pcjwVA0PrLAUuNKqRikKKzTUGGxe9+SuOVwOoKSNz
-vcFcmatkNqPwq69mSVB+Mcw53EUreTawft3f0ctfyxlRD0kPMjU0ppM7BlYTgQV9
-T7viS/UygkEm1uF9tRQ2t1z7J0T0QBRjDi1YAKc541laoJAhBHFQH/Pb15Eu7jJz
-RkKmuNOL08/gNWy0lEWWQmX+qquo1ak6LN1DR3t15mZddO2kV1WQ/xRxfYSMRKhU
-paF7oQXBXP8oB1ud0wtFHubTt5h/ymtOUU6pm1SqQohqa58vwoV8FQTv+H59z0yf
-FdvrUD2/jSNHkv61Sfn4p39LouW7f6GKw43sdS8+AUB+XER+ybo6h8wIvUbdrpYM
-3axP4/2euN4J9VKYQ1fZo4MC9EYXlBwiG0hflK+iiM1d3E0xuLEf14jfDweWdUCn
-DuQKuF5K6fF8tO1Z0+yraR73W0Iq1y91J/F0t4qaNGc26ZI8WsqkGTRqzCJxA9zH
-PTHFJD5Zx7dhawyrrRnP4dzHPiZYThGfBipE0BS8SbOrj95VQIzUIweQWmJwrl88
-j65aqFzXjxuKKQmc5XFRPSIC7ybnUEdFbBnSs3ifHh4MV2PLmUwdOxbFlWnwXpQl
-PB0Il1GmaKaeyUXwIxPL7zL8N2m1fmALIqWzKU0iPrZBVBIQHSH2xZNSJBbhSrtc
-Fw044YDR6WBuNJjfYHiRlP1fWRm2qr6NYsKn9uEakr2DfA0W0v/RtHuLb4ahad0Q
-9dl78R/mMq+X8slBXBhvlDd4OnSa+6TVzl8HP6IneVXpRPyahpEgY6VSCI9gDPLA
-r3SI4+48shzvoSVz0tnsvXAvtpDAj4yGeBexL3m/qQ2WV6wj/jZkoFMbUrWw9Khw
-g2pH92I64C7Osf655Tkkp94LHiVmaM6d8at3R5rDY+mzX2zhcO7CQ8OE0ShYOKa0
-K6eBPxm8bANmHx0Gmci6GWytFNhHG7m0HY9jkQAwgODvnuoLFtlyRHmRXQT8dIB5
-izKN/eYS1Z00upvq4OshAgLbIddk/QrN171BNh4YWfAqDos1eYDvUsyh3xa43xxn
-5rHPHeB66FUCIXwBbq1wMc3u1CIr6FEVy34j7EAFrl3UnmetcePaxUplVFuoaplv
-sjoImuEF5AzHI6f/GQJHfYiIO9padMIwtQYLKPWHSJq3+AeyQGUlJ7wdPrJgDPog
-lC35HKVc9T6SwDw0OdeuINaYSz9HOqT8SvJpx1gJ4+kTsZ91b+RGpn/u8wFjeBJo
-aeM1r1EiNsx4dRy1bDFFimwWHyfM1VEAwj94M+XkGvRxmcg3y+zfCfdY8UGrm09D
-IUVgnDtZ7OYDw/iyVP67ouys+C9RPLAeYbLlD6r2aCdzx6kLglzTGaGpbzqrbbK3
-Wg4vTs4tulRXWFVWqD/DGMoloO79dJN9+zug1LrU23NUeXM/C9PksBNR/r9wnT/D
-0CKSAeLGohHapy7MNDwLf6DXBKwY0YIRwkr0HdBwGxMx/paq6pWpqLkexV8iYkUr
-MhMf4V0EJeIurF2tJDp1noQ4lOGLxx6KZox1iHaohyfZrxKjjiuk7pX3l7vrtegh
-eQM8XSKgWUcxryNMwtaMmH2jGsPrLvLcqDW2I1v+JNBxDBGznR0Gpt0/X4jrR1w7
-4fiVuo3Qk+sn5a+ofBjlj0YrU6lLWGEF8Kxgxdu2HXX2U1SERvl2f2g5Xbzxxx5B
-nZc1us01gCus4hEKoNULKl3tTNGW7iM5QflInHAct37SOeWccB8aWXQbCkP5o7rb
-V9OFLBLyNLAdwt9/lIas9WIG+sgamH4rDnm+6UQkSin+ExtQ0NELHuYGiAX/BjbI
-XmBYLwiKmUxGNiPQYg1UvffY3WFKqL4btWDMuaIMzhKa/GW1FVtyT5z7jyNh9cpQ
-UXaaeaWgo2o+t8g3b4cFCf3zmZKqLiRIot4uLqVGDbU3WPuXZA+ifTNXTad1FMuj
-RFpIV9Lj9CvEofbMqJrUqwA/OucYLupNekmQmRDvQ3hClxgcZxwhJfbz5TNHrvvr
-swznFv7rveUdZrnxd2IEOIAQiliXKSLhLMgADOpiCwqPSR4bmxJWDGpB6QAkusMa
-RqSKt3rSBgs3NaGIsGvr1z9gCZbUJPCYEFj0ziGRhQvwjyZ9KqQWFQDOxEA6BlI2
-5qCA6Ivvxok6D5xHULH+uBJO6Z72OHpr
------END AGE ENCRYPTED FILE-----
+---
+title: Loeffler 2015
+---
+
+## Loeffler, Philipp. "From Cold War Politics to Post–Cold War Fiction: Philip Roth's I Married a Communist and the Problem of Cultural Pluralism." _College Literature_ 42.4 (2015): 597-618.
+## 历史写作是摆脱民族、种族主义的一种手段。
+## 美国三部曲重点是文化多元主义
+## 评论家往往重点讨论《美国牧歌》和《人性的污秽》，说《背叛》的比较少。
+## 《美国牧歌》1997，讨论？？
+《背叛》1998，讨论战后四五十年代反共。这是三部曲的开始与中心。
+《人性的污秽》2000，？？
+## 冷战初期的认识：历史有客观真理，观点是对此的偏离。
+## 《背叛》写作时候的认识：没有历史真相这种东西。
+## 坚持个人自我价值成了一种新的真理，1960年代进步教育计划。
+## 艾拉是历史的不幸，但这种不幸是合理的。两位叙述者祖克曼和穆雷持这种观点，即历史仍是可以解释的，这种解释的目的不是获取真理，而是反省自己，用讲故事来消除矛盾，修复历史创伤。
+##
