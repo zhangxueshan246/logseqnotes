@@ -1,7 +1,14 @@
----
-title: How to make smart notes
----
-
-## Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking–for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.
-## 不是用主题做框架在里面填充卡片，而是把卡片的信息提炼成某个想法，寻找卡片之间的联系（类似于tag？）。
-##
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBESnFaenREV2tYaXYwU0xi
+ZStocU5ISzJjeWVCYUdocFROS2ljUEhuMGswCkVyLzVsUEhwZncvNDJvbGV4U2w3
+YndrMW0zQloyNFpMY2RESFRxUUd6RjgKLS0tIENSU3dRWjBnYmpRb1NUWGFLSExy
+MDV1ZzZreWh2MWxFaXhFR2FxeWE1b0UKC61gEe76QKNSC5S4vbHE+lz/3EhJTZ/c
+WW5mSdEwj8rrV7uzvx3H8hK7oCbAvasf/tPpOxSdXjmeof1rTBjxQj0p5rWfpWin
+4fp3zkMBEiqQWGNn/BJpJRvnCSiq0KVecOuIukLTpHLmukbOLG9boZo7onRPYWj6
+ruCCnY+gOFr+Nehoqbm4uV2JjN3zmkruz/1mxb163IBNjnS9kEoi7kLfF8Mq8W4C
+LOW2kVDk7ARWcqApZfDfwiD8M+rpvdo7iqkI966wUkHuk+7fRdjPkYp/nGzS4cm+
+JvTHEPT5siCT2cKA3IWr61u7cI7qS9ZPISRFtxcnyysPuaS8v1DOA0gjlGXfL/Pt
+ZQA8hE2hCNmnCR3qNzaaW+J490gqPR00lkHjvYZ+n0l9iM73eh81old220QRAgTI
+r+A3tOip0xLf2FFuvgmkN5RfLxWsPJAJDYtynCvOHK5onoEa1bD9U4fSxe7J48py
+u4AZbMlQbH/tFWhu+uPcuwGa/o4J33wJJyOnL13cGBrFIcFlphcrCxt1O+/KzZk=
+-----END AGE ENCRYPTED FILE-----
