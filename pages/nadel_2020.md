@@ -1,46 +1,11 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBtZzhod1MreHlXRVZCUlVn
-YXZqSjNqK003NVhBTXAwWUZzTEQwR09INmw4Ck4yOVl6WkJqZEJycCszSXd0SVgw
-RCtiQnRHUzZRTzBEQ1E4V3RaVlNqWUEKLS0tIEZhRndJc1JqajdQZ1J4WXV2VWhQ
-bkpKN0QzRDlzbldEVnY1d0wzazNIbUUKtuxuBvAkj6fpgMCTMG/sWwVw4nWkvPJT
-tKYq1HF4UowhCuoN6w5bshDfbVr9nGFpRxtUoXSDfcDDxLNQNBrlSiQ1W3D10LC3
-WwqL+LfL346gr2kjkp5KPFzF0mbyR8YXi/JclMioyo/0Cm9uj5jXuzPaj+4yHBwu
-z+euKL8VPCReX8tusy7phjfAE3F2/p74nALtw+q7OEgQXWGchmPjw/EXWFP1kdk7
-/L7d83wf7oS+M9wUl/CoQ59nGwVujAXBZ6CHDGZ1g9xXEdClJiqj7HWHEDPHFADk
-/aj+rjFNvPx5n0MISrpHtB8B+ntMYksAbAhOh6AFRoJnJVbODhdun8iUeQTwVvXj
-7cdjClxtDjMCbz79HyDCTX/PnnMWBsG8OlbyUYKQvMb2y+lGVsgIVDPzviuHyvaZ
-2YmWZAgv+deCWMqzTJoc/5eq6NwLHZMfdwqNfcUuczkoCe2/iEqNaLgT+eNk+Wug
-H8DcQhRYexEnCUm4wAEkTepg7iZwT255B4zdO32wvRt7dMvNMa+mavUR+pVWstc+
-B4oFKKcfentWLRMnvT3EkhndwJmpcf8x2/r0Rlc6KOc1z2jCBRVAh6aSIzTb1SLD
-onShuFcdBEOvrVuq9GNsC2VBbkH2SjOv7kJv/xyVSukuvHTPAfgfgpgKj8YFfgCs
-77V/RbjaGsi9zDEGyt6lgyz0cE8fwve7dLfQqbDzAk5N7W8Kb+2Ps3W84xCVZ9zL
-z6UCPv/7Z31LZQeJbEu5WiOfPoPWE4xj6AirUzUhLEzGjnpdG4RXgDap21NHRSYR
-aWL+217iEid9gwLxlSeSpy5ksr8GFV2oDepMXAPKF5fDQ6Sk9OA3j6QhLTJneO7c
-7FHzJjVLfVPNNhpezPXRcMRyzFPArWf0nHiwpEwaGWe4q5fIxyKGCNkJ0bwBbt1V
-LgdLGQvFmY0ykG9x96KJTZ3Ha8cORK+2LwgFX1tYGz+UMkOnRqckXMmzEYJuvgeX
-/EZEj5PFoEme1LEeUtTy19oFzHeqSU1sUeymG364K61CEF4mBL4M2oEwjebwFFeW
-GDyOQRTiXY9Qei/BoeBdl/JbzVRTeufSBx8LCV0F56uEU8n5WEtYgoGxl/7+aTmf
-jFBDhnZICiQVmHQv6yJxDNUq3xpcGc494QeuyIdHraQbek8mzxmAkDIeUCqhFDM6
-LkHodFTYrcLAdcwkJgG2BLd/sNfoofX1uASmPz3JraD19VmJ72sCu0+OG18Ev7Xc
-tv0Ie7QGM/soGFaTdfT6ImHnztdMUNsG3Y85IcC2jPLibPu277ujlqwXxKxF+H87
-KKuBNbwAthOMc4ylNZytueFsBwwTHDg1+27m7FGPeZXmeOaUBHcKzPIYDMNAp258
-O+MXYBMhkmti7bQFCofFoeNLnNKfKLPCF/O6jn0gv1oBJJEp+6fnpVuFgq7y2rgm
-CRTfTZGunuXhFj8pybxv16DkpPn5huYn72bt3avuCpypEGvBPD44IWpN66LEYx50
-6UCYlPSEjIGufMUzv2zKNlCY43C5vPKeh/+BKLuurZRf2tJm3T+x5K6+oEfKejFl
-/jGOPD7mSwVUZCj4uKMr610VAD/TQjw3TfsOFtgLFtboNNmvav7hcYA7+f5fjB/f
-BsGFk4n0d5d7C8cM505siRXQ/dEGcQBmF6mL9kkvlc8VxUrQjYY9DleH5SDSsNSU
-Ku5LcFS3BjS0hVDmjYBkRkgM3AKJcRzMEq6ml57hX0IBqfqp6L3IEQlsP/fdLw63
-f8pbHHyu63iQRvUJkNEA8mRQs7YikWnvAAeBK5Na3scd4x9zQ/yKs8T/AWf4LMb0
-4d0fbuTSOZ/RJK2cxtsUeMATjt8PyyQrAeYm8QGDeycEwbEGH27k4L7RzP+Rr29b
-a+DVgSUbsbCPuXO3NqwdudhFsrOR/eV9OGe5I1YIO8Aku3C4OC8Y9oo2aZjnvQQB
-XP/wJ9rhMAiVQjOKFc3Q7zIJCaHPZsNazHlRaMSEvai11awjnlB9DupXNB5rBi+u
-oqpKUdf4LzhTxmcp79IAFsy3iHJXG/lf4JzXEQ/ya5UFqdZL2l41q62Bgn5XHWif
-aBgs1EnLcogmzZTeyqsL2FmYjSwM4SiHpULyV+oZKP4G3vjg/PRSqNgv7STZVbNs
-Kj24PeiQYYvIsA/4Lp8L0U2ZQ6l0glP7linarsF1oniKRCAlmMbP8nSUVoNnD1Af
-wQZ4q0P3gvQZED7VwH1eGR8s8nM1xWtrt9QWNCrqYPXl8qy3bu1b62ThOUOn4qb9
-gy2oHbL2sg6snApq4500AIIfcrmJWCG7EFGUXaPlTFSXB/NGY7zO1RptU/6LpsLh
-TOUxb5MU8QQkmyHKzvZJoOWdoV4tNRyjBD3tnBKQ/+tZ+wC0AHdKnrUImV/DQXJ0
-O7sCDYb1/VPo7UjGihclusvVCtYkfu15Cv13OaNEyOE9wLZKfHoVzc1P1cVFesC2
-UM2ukZTD2Gzor0mt+mY5igysdb3xzKxGfdgYD2GgoEuJxFYzOndWbSZQx4chPysK
-92wlQxzWIXti6NkYNCI7PQPN9oaEXZ7jFuN+BJMQTuhb6gEq9g==
------END AGE ENCRYPTED FILE-----
+---
+title: Nadel 2020
+---
+
+## Nadel, Ira. "I Married a Communist: The Book! The Movie! The Commie Threat!." _Philip Roth Studies_ 16.2 (2020): 3-15.
+## 50年代末菲利普罗斯给新共和周刊写电影评论来挣钱。
+## 1949年，美国共产党的十一位领导人因主张推翻美国政府而被定罪，10月底此案法官登上时代杂志封面：[Judge Harold Medina | Oct. 24, 1949](http://content.time.com/time/covers/0,16641,19491024,00.html)
+## 1950年有一部电影 [The Woman on Pier 13](https://en.wikipedia.org/wiki/The_Woman_on_Pier_13) 1949年10月点映的时候原名 I Married a Communist，电影公司RKO的老板是大亨Howard Hughes，他是在前任经理反对政府黑名单（[众议院非美活动调查委员会](https://en.wikipedia.org/wiki/House_Un-American_Activities_Committee)）控制好莱坞而卖出公司之后接手的，这部电影是好莱坞第一部反共电影。票房冷淡。
+## 1951年电影 [I Was a Communist for the FBI](https://en.wikipedia.org/wiki/I_Was_a_Communist_for_the_FBI) 票房火爆，奥斯卡提名。
+## 1949-1954有50部反共电影。
+## 电影与书的平行关系。
