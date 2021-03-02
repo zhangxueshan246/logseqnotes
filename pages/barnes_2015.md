@@ -1,30 +1,10 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBQVVBma3M0alMySmppd1pL
-cmNwWHhoWUd6SHI5NXdyczdoUTdxeHN0TEN3Ck1XM2FjMmxYRmNOSi9jV2g2dGla
-aWVTUFlJa0NsWTNjdkNuWVZjc2FLOGsKLS0tIDM1OXRzck52L1IvbnQzRFNLanpu
-QkExb0ZlQTl6S3NXYWVGa1FBU0YwVWMKO7V2557t8T/McOW/Wymvs1cWTnkFCOt9
-6KG8d158xXQcQR3kHgN7RKfo8xVqN/OjDVeDTlBwt1NINxNHv5JvzikgsmOZ1gP3
-cR9CJMKYr2jrGsrM8zUHmQQCB6u5wU7bB+bPeH8o3TeH9PPywyaHN+WznfERNHIS
-GvJnTRHIlyK8cDV6pRbyDT+Xxk3/Q0tTChORLwSsgCpjkK9qSYlOK+fBNAlO006W
-T0MfTW9JMZdlLos0IdLCxEsJytanpE2wIs8/rkaMfeRI6HKV50BcoqL0zlGxNh6D
-PmZNgtddKw9XqblFddviMFvI43eNEUJyYdvX+jZ0drlxmL1qmFhPpgeK4dYn3Rm4
-gqvCDxluq/Kv+Uaxiy2qxryzlcQeJo1ZH+G5rWhdaruMSM7DyJbSU36tcjAoZOnj
-D5uMeCFaFoABMeKcDu+VIEfgWPxR3T4VwdV/I/KOpXLcu02aIkbTrT38wGy4vkAy
-0NjtinUV7wE4SqsCZh/TXZoB6wvSnJXzUMNJkdUl93pOazkC50CUs5t8nX0WBpaJ
-N/6XWEGnmjiSTCC0RIpQc5O3t4KQ5b0uBixZTYsP6y2+8I39HOfk6UBRorVMavrg
-WGMcmUW9O+Ztub+0LdkgcsFO9U6eyg5/+Sajgd2NY/GlOJtnZOrlQhgWHXftLRqZ
-vDLty3ebj68eiSWKFDUbC9dh90NCWM0vimQItu7tBdviFRSArCTRUqQxYgmbWxl+
-jZvTCTfggJpkBWFoVKPY8xJGv9eTjAAbiyZ+vU4T84N/NrSKMhkO/gL4vTvnKXSd
-J4plSjbbDuTErjy0aKxrF816orq87aBvShSJ9R9dCKj3MEZkOQD+YGGuU1H9SDm8
-ioENbzB+YKRVaMjdy3j6WL4e7ofIZ7tQV4LkD8z+Tp3FAtWgxlvUqAoUAjJopzb5
-MTqbcpcjtv33Bqrqm4XSHtFctPct3BgW1tRKSfN7laPwNUVlPMGrP0/eG9yYRe3Y
-YmyGVnI4RqBpmq62xhFHznwDDDMEJoFMKzbj8udDr/mGy9fBeoyOcqP4eTYJ5xvQ
-fMgFtcO+3ie93dzcFXzjQXIbiLos0DGGeSVcUldZuvGht0bls4Z7mzXkTXL81YGb
-hAOz4ihXKw/6XoZ/vUjhcbL+x4oUenl5Cj8MUw9XZubqg82fImpo4AxWPkbs0oAy
-xIL+VD4CSdE+ohEUZnIF9n5nTuCGtR7t3+O/dGzTNXkky/8E9KhALgfpaLgfN65I
-KCYlDzGlA6tg4TJLcdDk4d+OJz29r/6R/yqK3T1QPjKDXg9d6OuojuqZixczHAXM
-NJ6slBbEoa2oTuG+bEP+p6oVEK2I6gyUHMl8HQR6nIN/iCJE13CmHZxB0Vh9GddG
-7dqDOBQBbDfa06nKNc6mOPgHgkDo5GSIa8aF7gc4gijfmhbb//gdbullcs8O0jJT
-pgg2fQ1qpgHMjGIDQGE4iUbZkidwrLZvMPs6AHG3eZRKzXYztzWshMCUeAsnV3Uv
-1NHChvcvQBU4JbEo
------END AGE ENCRYPTED FILE-----
+---
+title: Barnes 2015
+---
+
+## Barnes, S., 2015. “So Why Write Novels?” The Golden Notebook, Mikhail Bakhtin, and the Politics of Authorship. In Doris Lessing’s The Golden Notebook After Fifty (pp. 135-152). Palgrave Macmillan, New York.
+## critical fiction 批判性的小说，文本的目的在于重塑文学形式。
+## 巴赫金的叙事理论 The Dialogic Imagination《对话的想象？》《长篇小说的话语》
+## 弗吉尼亚·伍尔夫（Virginia Woolf）的达洛维夫人（Mrs. Dalloway）
+## 思想和信念也是对话性的和可变的
+##
