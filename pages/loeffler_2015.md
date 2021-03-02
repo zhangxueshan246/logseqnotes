@@ -1,16 +1,30 @@
----
-title: Loeffler 2015
----
-
-## Loeffler, Philipp. "From Cold War Politics to Post–Cold War Fiction: Philip Roth's I Married a Communist and the Problem of Cultural Pluralism." _College Literature_ 42.4 (2015): 597-618.
-## 历史写作是摆脱民族、种族主义的一种手段。
-## 美国三部曲重点是文化多元主义
-## 评论家往往重点讨论《美国牧歌》和《人性的污秽》，说《背叛》的比较少。
-## 《美国牧歌》1997，讨论？？
-《背叛》1998，讨论战后四五十年代反共。这是三部曲的开始与中心。
-《人性的污秽》2000，？？
-## 冷战初期的认识：历史有客观真理，观点是对此的偏离。
-## 《背叛》写作时候的认识：没有历史真相这种东西。
-## 坚持个人自我价值成了一种新的真理，1960年代进步教育计划。
-## 艾拉是历史的不幸，但这种不幸是合理的。两位叙述者祖克曼和穆雷持这种观点，即历史仍是可以解释的，这种解释的目的不是获取真理，而是反省自己，用讲故事来消除矛盾，修复历史创伤。
-##
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSA0YXl6b2U0c3AzdXR2MUNG
+YzlUUDQ2ZlM1QXd5Q0oyM3J2bE5qYWN5Qm1FCjAraWVpRXNKRUQ3YlRFL0tWalFQ
+ZE1CQUREY0VNRWJtNDk1RGhNbmltc3MKLS0tIGtQdkJxaU9MbkQ3elkzSm5IcCts
+VzBJR1E2MG0yUXZSTFlzMWttK2tpSGsK9fyY7/HGz23v6FT9FL9LSAwCz5yDbQLb
+DNsptu1Z3h/XqQe3rQsxif8dnZYGX19b0Z4gzChFyg/yeC1NANhgeP9gRgDH8jkC
+kN0FSk/bv7RJYUDXtO4Rof8CQHAxfx1lqVHx0ooHT97uMCjFIO57pBMkIVwTTUKd
+JiF32qEwGU0O0umJ2wzN8Ag7ya6JbjVNAkuR/tDoGbtAqGjR+1WaE9Kk82Hrj2jI
+RLPjcM6KGZ8MOFSB+Yya0ZQ4fFzjgQckEGTEkqoSgHKKDt0Wc5MqD34sythr/YlM
+yuijmZeu+RZsMf+iC5D7jU2ahAJjMQo3YIfklTLdQdecATcx4UMy7w3StYI2T4Fx
+IZ5NLGoKA7Lf3LfhgRw7mK7YLMjTWFFXgywAjQGQLY38E93DO11Q1dq32rC0Ac/v
+E1v1YIWJlAiyyWOn9/87+on/taJrSzpp9oxASdR7Aj21UhRAowmnWtDH5AR5ubM/
+qIG49wC+8EeWi4KM5O566UNgdqpynMtXIDQqrPHwrb5yHGMJ9SKklwYefLfqDomy
+avus3jPF5oRlOjOaXg6AlGiIVZ8CbFgmhVkcmxFO/qbay8emOuRlzDlOXzcYqNZc
+pNNXndl9x0jfrReK+UMEQvRz79rn2zy6YiYvnBHuvH/3ct4jcZIqrTvPRbefby+2
+WxUPwe8pkDjNIKOK8vlStajWOfD4UVvBkNP6q1CcVM+pfe5Q4Ntaew96wwbi14GO
+dMEsxO+oW2stwDGskSYAWbhBoMGRoYsbDWWys6ANnR0slBaGPThSN+mooV2BcL1M
+c/UwZcDx/Oa0641swLCYdZMEUlDxmZYKv6AAvjGljuMwjHzwevICMzwb4RjCPMHf
+X5CR12Y4kyPGyfTbZdm9uIjb1NsrYIkcrPKPjVVmij2K9p61AKCkp8Bvmc2nJHuL
+NxdWlgEd1tVkH6emYxGrFzmZa/7PbFSM+D8EV+OAVdIqNPg1OVuG33NTsoiGiRh9
+f8P21McqmIPHI9NC7BImpwK4CKK0E5kt/kw9k2eqXHqJFZxKvbT+cIp1U+ptp6qm
+1lChD7ojP9yjRaRBZI3UQVZM7Fb7vgZIEBaRaOgyz1uGRjqtuGO54Xv5afUEkx2F
+XdFljUoGDQTjXn0buhZ2UjSZCysc5VKjRvq4gOwDvfqZNPKLVOcB3/Zq6NGnlR9P
+KOzg92jcWj/EzF3ZMniAPmftvHZ0YvXNFYbuTMfu9jQu4hqxXsx89cAc9HYjqIx7
+I57/+JnEz8VxWgYO3GmDUUHusgvUgSMN5kRgvKE9bjOcJR7iV5RI1mXP3GH1ShNT
+sXQKRh0Ov/I4bd3ohKtjavn5AavZM2Cm/TImXVYJIeiFv91gqj60VCED/BPA1Awy
+AGUgsEc+uil0fz8O+/0FhJVJtxE+dxirnoJaUu46MC53xf3A6nH+9Vl3XW0y9UXs
+3m9cHESCyuZgFiwGfkZdUbvg9MssjhkiOFjRCuV/5ND87KjmvEsxMpPuK2Xpp5Jp
++u+lCA+gUmZvk4g=
+-----END AGE ENCRYPTED FILE-----
