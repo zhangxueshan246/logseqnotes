@@ -1,12 +1,24 @@
----
-title: Tomczak 2019
----
-
-## Tomczak, Anna Maria. "Bridging the Narrative Gap: The Ghost Narrator in Marlon James's A Brief History of Seven Killings (2014)." _HJEAS: Hungarian Journal of English and American Studies_ 25, no. 1 (2019): 107-239.
-## Sir Arthur Jennings 一个鬼魂的叙事声音
-## 处于口头文化与书面文化、过去与现在、加勒比与欧洲传统、殖民前与后之间
-## 牙买加的宗教与海地的区别，海地强迫奴隶信基督教，牙买加的英国殖民者不让奴隶信基督教
-## 鬼魂duppy是非洲宗教的内容，然而这个鬼生前是个英国人，而且是帝国时期的爵士。他的语言，典雅的英语，明显与其他人不同，各种方言。
-## 书中有很多鬼魂出现，但能说话的只有亚瑟爵士。
-## 蜘蛛阿南西是骗子。
-##
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBYQkpqVU1VUmVldlRraXUy
+d1RweGZCZUs5dytQL3lrdWZHdDZ5YmJOQjIwClBqZlhmTk1QNzdDSmNDdDFkTk11
+MnM0RFZaVVVhVzBZYzRnUzh2bjNyWjQKLS0tIGdpMEVKcHZwUGhKQjc0SHBaeGRS
+YTZMMUdwNTFzODRGd2tBdWpJNFZ2NkUKnHzFMpa7JU1Xo3T6awZFGl4ibUMuMYF+
+aZFqHX+r2bu7P+BWgf7FFrBieWhkLVPHaqUYrspq0wY34p3fm1/pCA1PLHpsstby
+lwTjeCBPA6/DilZXXMAJRGLMmcdhz/IUCv+JH3+9IbIClQ+bVfcBV1XkyMIsQK/0
+lzUWIFQxsE7VuDXRW91mUqRyTp8tPc1C+t0cSDmw5QoDV5/hFEsSnR4ZMLDPzXaT
+PjaktQsOvdFN4BFSkfzfEXHrFuAG1jlemWKIw45fM3Ice42KbxSOBJ0IP8Z1j5hU
+6LMKsaxjnxJ7xmV4nPKITCSsMAbkHXPpnwM21K/Avh7zBtMTYJxBDRTycoyJHfMI
+6xsCyZXqroTvF+iP4Ul07158YbOw9TRg4MHApWduGMDadBj2RkGd/PPeN3pu2yVR
+HZ1V6JOq0+EDuKSro2pbegnb7cn+wIa5PYHXGbhfdqU3qoaUaNxgfE5JuAyHT9Jq
+a9XojvSFvWWycBef7QK3USLT2FDXTWk9EuPFdQFjY7yvby0x5KVcXChOaNR/SNwN
+cU9JnywktKcdBTHEI2cK6eq+tKQgUE9YVDtMducurIO3CX3ZBttiTRRzQmPpXllP
+0+bb9Liijqzb/Tpm7WubjN4hIrq9k/A2rYbK4lrnIEM2/YZ6d4b8bTki8jM/d96K
+umP/hObNdWvPA+fTUQRldQRANNV5IXgZuUX6QWam+ZmV3WF+N5MK82EwxgnRuvph
+jyTaf5+JtzeEFcSNmT3GJX/6RlZ4gQKJglnU4nEcwrciUuSQuPakl5/V6BS/dv++
+SKfoa/4OM3f523xfAjmah812wFf2IqGExpWT44RUpap4eyFLN9iE6J13b9DnXWrs
+o6U9x4GJXxL2etqHZsm/Hluf1kElCOYFgDl2rCwWGNG9TXrbXDVnpqJpIDoWnP9K
+TJkQu6VtTq04dALg0DcRPsLcLwutkE2KEVAYBGjW6dAHOwV22fxND86qZ6Mi2nAM
+OezCnZfDkKQ+duxxhg8Y5SBkCQnFF/IoTl9UDtlL57nfTExd66Cuhi9RAjRAHXDl
+f1ui/8RlbDsi9lKAlMTIkxmElZDgM0B+dtu8Ovur8kb4sKfrORCTjUuL6/vDzcyi
+oUw/9hsHnce5NHnbTJBkSZ0=
+-----END AGE ENCRYPTED FILE-----
