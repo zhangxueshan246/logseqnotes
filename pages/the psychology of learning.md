@@ -1,25 +1,7 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSA5U3NvcVp6TjQxeE5EYzFl
-QnNDazVINHpBMTNxWUxCV2pNaHl2VlFJK3p3CjE1M3VFeTFLeHBiTWQrZHc1Nmx5
-enNOSHVDV0JYYTRETE1FZFFnRG1XcU0KLS0tIElsMG5oT285U3R5d01QVTBOVHZw
-S2s3OUZxaGZKejBicHZaZXJHQlJLcUUK/YJpMX8zZ79CVtO7VTKLw0Uma28Z7WnG
-14vTP47Fw3yVFWM+3z/hUeZAOxvrtToXTa7hik/NwdW/83psZOuMzK+n+L5xyXf0
-WVtWV3MQzrYbJJzzwU26rdjGpt0PM+qaCo//UWWDXmJvXxVdaTv7yA+xbzVe0mSe
-HZ7rdXe/GQ86BACRkPDiUP5q2oo5YKmATF6l1HbuL8e3YhubQV8+BnB6PLtZnnIj
-trKf0X8o3UYNCAQvKazn3YFo/JEZjFXAma7flLIMqBqVbQvchFDXlNo/klP6NaA+
-whDsmMFELUICK5BgvtS6b3JGGIiW9vTpIeT+8VSfGS/B0ql9j8ilko4LdLHWozOa
-PlCip5+nhliLQqx3hZvzNs9MoNVUT+z4Ek8q6tRsiMfM2DJF5H2JmSo+8WQdcRlv
-5VdqnIKry77Xpo8+j787ASRbZGxwLw5cXjpXi6e7bSGCEtnxT0Yqtm+12hbEScUx
-hiOvlx/n3XIY/taGywyP1G0HtVfiQP5+Z/q0tJMDTIl5D12LivEIZ1q0IYlzXcew
-x3c9ddAagz1kbcjqWJuBOkrmjYRpaipYhSPmk6d6FwfE6Bn+xuj/d7uU1ZpqOBEj
-jSPno5aagBiijJizy+vYqCRVNLCLbU/PWAsos5WS79PODbd65Tzx7Iuhj2KlL6DD
-mnrDt8Tnl7HzqF20Yec+i7zOod5Vc0uvs88vFhwO7kn7GY8JEuqxg7trULrvivJ1
-9oz1Y6ZIvuJyVHODngoEBx4c1pBWw89E0PPGGChY4zkCXLfo2OcNOiRWLPK7EIb9
-hv477OsaSE1KP9pvzAf1WZ7k0JhQElqjXR57fhFr9buv6/f0EkLtLeH5aOdT/6b9
-aQiCcSe1BWM5Dgoy0OTBFtgKZw2Ej0Ex9DH277qfnVwDRGOaDyZnWL5IdZEsAd83
-ewOeshel45HRQvzzoamtRj2OT9RyMu+B7iw464x1vrMiwWiNySO8d1CRdZDEqUao
-yMUHLz0naVwOiZaNZ/Kxw/ecwG24+/L32MFJD+0K1xHQRhpZreNjR1LY2TbIiunv
-wewVo9XaIGXN+SD6RanMUpCN2KzFLGI1KKqBRpkoDgsFq9W8qyCLPL1W96VwTtCX
-3ofN56Wnpd+c8SnuiqXf8Wg4ikrfLttBx7VJ5p33Sqvikj/BF7W/Z0qb5bAh7J8x
-YFjkFsBGL+gud94KDVSj/U8Df5iMTZldK0WgVoiWIhAA
------END AGE ENCRYPTED FILE-----
+---
+title: The Psychology of Learning
+---
+
+## De Houwer, Jan, and Sean Hughes. The psychology of learning: An introduction from a functional-cognitive perspective. MIT Press, 2020. [免费电子版pdf](https://www.psychologyoflearning.be/)
+## 0.1.1 学习是个体适应环境的表现
+### 这本书说的学习和我想看的学习好像有差别唉，是不是还是应该先看伯克毕生发展呢？
