@@ -1,40 +1,21 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBQb1oxUGFVcEM5cFN0azhk
-alRoekxSSmJyNkkvMGUxbHN2MjgxRVI5NUMwCmNKY05wKzVNZ0JMU0NFZ2hydHNl
-dlNYNDZyWk9JdFVpRnZ2bytlOHhtcmcKLS0tIG0rMmlERkZ0TGd4T2dnSHN2M3Rq
-UWRQL012WUkxcU9yTmR3MDQyUVptV2MKsfaohBi1MPENAT/kkAW7BHYmS8URDomi
-0Tn6aBQfDG1C+PKD0jaEZUNVV7+K304W3bAVIuHAC86fe9mW32UIuEDmAUhCSEfn
-8FdnjpPx/cysa0F88fy9WCYJcNZ+G9DcYzUUhiSbGkeqbGC69CS7STX+k3Ri4ZVc
-qKaROwzlvJHK585z7zt2YFws9ZEj86XJ/VIERx9Bpou0Cz4knTF12DfJgNPIQdt9
-tEnag6PvIwWO0QAP780JuC2H1+LXmXDmY8id7FkZ9suP1PEtSeZS19dLSX+4GAXI
-ht62UBQgnpxGSniKIzDKEz70fUifJWMQSR4ELl8HTmGrr8sEA4yuzYlnWRe5xi6V
-1IJiCUzkDuW1w+vrgxqwyeSz3qrZWgmWFd5nHmEWNSry2Ml7kSreHHr9/R2ThV4y
-umIWht3bjWFRMM4yxetv45VetHS3RUZXQb7iCFBG2qJG8gFUma8MP3TInVaPzq4J
-Pak5cIIsrRLkAHUew0PxFvgNG7nlgklFn2dlRfh4+6Psb8j2cFdnkdgagqlADaUl
-EdDI0OrunsaLIPpShOiyI3cUbIqSM5IdEpMs9tEy3uxtzodK6pduN+bNm14kmdja
-EiOp7jfyoOQK7L/xTuteEATHN8EPZrAmdRMCYrUwY5NOx40MZVpcBqugsqHgYtOT
-G04qv31iXzeosQq50Y6A0Pj1ttw/v/lXH3lkusXtw+fTCQ3UruC8tBox0XSyyfkj
-H5qkCOaFjjVxakeqRSCdK5eCVwnLtfg6zKxgaB/ab5CZyfKwY4EhDQ83DY0UKJol
-seOGUFHqJM3B/0kPqKvkMB9bBo1VmJ+5f+udD58EwJG+rpr9kmwCut7Mimg2s7IV
-Ib5v+7Ny7uR6ZQpkYvkFMXW0f45FiM9aMjZfgeZI7rxSoeYPMPjWg/3IFTXVfRjI
-z6fjVPIuTx6IsRWClbvBpArygvloUMmu/9Da0KLwIN1N0baZxZsqI/RO8l5Tzfiy
-EY/5hV5LrcVDXj/sA4Cum6jaFt+jzOnWYR9K+PtxQNu6LmO3za9p5hT9CgrKGVTF
-jgOGkTVZeq85dvRJZuaRAOFCIyVHwy1zJ8Pwg1C593Ql8w8NsVyhZkYTyUkEkrRz
-jqdsqrl+GQNj78e2XEQ/+W8/Lrx9aUNtAIuLeJiEKYW7/ofMK0DA219I4emvtVJX
-YVKd7cWZaXxTKbSc7hP8HOhVnSzZcIdUwl8Wg0UsdOTezNdWcuXDs/NqCW9I4bMK
-GPocdGz6glGU/4HppiaqCt+WECTPzRf3sAjmpaef5B0aFc+fRQSeFDmqeBSVkQnI
-kCgmx+5WPW1Z1xowv/MV4KQT92hk7FpXr4lzQdxX85VCBUPRfvwwNyvioKsjDhBt
-oV0NNWPx/rHyfMxCGlTBFd3uVKppYvZaX9B6TLTKyhUPI2oA8VR14XDwCm3ZspcO
-9voS31qfKDOtC8jEkEZIDFEbIXF+pZQ1ujB97+Ie5EMYiw73xBvZAFCr7UXanoK0
-V4nn7gwyO3yLODhGw2CkTCh+k/7VI/lCtJepzvQbBQF6oh8/ONYNVaKs2S/p6G3D
-Uw5gF2M4H0tHgU5F1uZheBsh56yZM/M/Tyl8yC8xiHvAyvLZVI//uOcylddg+3VV
-dkLjMgn2+DAv45fSCEXEvfWkFUmR9hrqwiWKdHGhTAkOH1Ya5Vtgq6BQ+n57QFGB
-SW6XNZnqRtPNvO7mD3vFyDyQWz6l5nhhBIlZ3z1I6Xn65el3mRXAgEm/GB5Mlhhg
-CnkkY5Vhga7gZi6X5hjfGU53ZLxMEy4gN8OV+NawiVwwG0GsT6BuNCeXDmG4GfCG
-gbL3E2a45QCS9RvLM8fWibmAisUmsD2by6SzYN7R9LUQzuOrWU0ws/cJMcfi27nD
-Kru6ZtrierQ8SlqZv+97kWXel+UuKJWuRmrICB3UP1Fla6u+yIPLjhI5oNK8mQUW
-nVJz5uH4GQ9wdVIAJ9QDBdyX6b+sL55SgUHrJTYTlHfYaAZDpKVGuIKlSQa/8PJy
-5yAUQIPBbzsBOgs25X7ldXg0N6PazkVHPxWznnp2z4U0v0hMiA50A8CKZ5GBw7OE
-v8SurkrqoHCaAQKw3qmBtybxDfuDfexHyvLL4+BX9/Amy8LL4jA+k74Uo4qCiBK2
-9j/UkS81B3Jg68Pwye+a0xXZToY/i6rTz6wLMg==
------END AGE ENCRYPTED FILE-----
+---
+title: Downing 2000
+---
+
+## Downing, L.H., 2000. HOW TO DO THINGS WITH CONTRADICTION: EXPLORING HUMOUR IN JOSEPH HELLER'S" CATCH-22". Atlantis, pp.107-135.
+##
+##
+##
+## 官方和个人的视角
+##
+## linguistic stylistics 语言文体学：文本分析的目的是通过观察文本中语言的选择和重复，来讨论文本中的意义和解释是如
+## linguistic stylistics 语言文体学：文本分析的目的是通过观察文本中语言的选择和循环，来讨论文本中的意义和解释是如何生成的。
+## 否定与矛盾是《第二十二条军规》的文本特征
+### 结构、情节与叙述者
+#### 结构：两条时间线：
+##### 尤索林叙述的心理时间线：参战飞行员视角
+##### 飞行次数不断增加的物理时间线：高级军官视角
+### 修辞特征：循环否定
+## 语言的否定、矛盾与对立
+### 二分法认识世界
+### 用不同的词来表现对立的概念
