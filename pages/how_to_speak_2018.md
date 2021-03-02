@@ -1,19 +1,27 @@
----
-title: How to Speak 2018
----
-
-## https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/
-## 开头：说计划、承诺，听众可以得到什么。
-## 方法：
-### 重复：总有人会走神
-### 划定范围：以免与其他人的观点混淆。
-### 停顿：让走神的人有机会回来。
-### 提问：提问之后等待7秒
-### 黑板和道具，可以画图，有缓冲时间。
-### 幻灯片，不需要有标题花纹圆点等分散注意力的东西，要有空白。
-### 不要面向幻灯片，要保持与观众的视线接触。不要用激光笔，可以直接在幻灯片上画箭头。
-### 要有热情
-### 教人如何思考：讲故事，分析故事中存在的问题
-### 5分钟内说明白你的目标问题和方法，以及已经做了什么：步骤（做过没做过都行）。
-### 符号，口号，惊喜，突出的观点，故事。
-### 结语：自己的贡献。最后可以讲个笑话。不要说谢谢，可以致敬观众。
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSA3TS9wZkV2dklidXNDcVc1
+YXV5VUpTZFFrbHFNUWpuckErUGxMNFNrNGhvCm95ajVkWlpsU3I4c2VtMFJ4NzBE
+cnUxUmtycGNIYWhqRFVwVTNycjZLcjQKLS0tIEpiZHRUZEtQWFpkZFlWMEpDb1lw
+WDY2REJUYkhuU0owT3QzTS9GN2toR00KzivdwUmwNMAy7e1XjQaQoUm5fJihUDO6
+im7f10h9Ct3UezfYPXYlxx+LE0Q5Z9qcaPq7cnLHndPtfiGDmtqF2rUjiebHGmCJ
+aUfR8bSU6xHzN9Q64KGddNYv+jfFO8VAgcpeFFWmSulJuu7XCT72YJvWbo6l3j+u
+tE9OKbeiFM3iFeZvxZy17fUUbDI1lqWdQpDNDQEFPNQJ9qJfLfLMGj3hy/r4+8q9
+u5FHgwPUCd9AscLd094ETFdPeVVmbFYoHmroYzWjAYvKDdUA03dTjIf9pqy2h6Tp
+HwHQ/D2GtXixXr2acl2NFNlv+TulRdhAOn1kS/SZNZ1T+qJ3keHkrDi+/jpsRC+E
+ELOgal0PVnIxkFIQ4qfToKlj2GPknCe5wYFABATELIVvwzB5rGi5SucIxJ0uRK8u
+yjM2LCLy0g+6dY4N924TkeLjQrEJICqegqa8JzJFFz6RMgr2rqrHmBPLqXqf3IFv
+45LYiiZdpbNpv/gAcGZ0TwSweVznaSMinPzenqn7Ag7Zh489+qaZ6kOBLMqKm4St
+ptSM04/VU7B3xX59Qy/oFdu2CDlQKy5F1vm0E1cbTF/04ij5vYljc9+shqXPMP0w
+/VeM4inGW6q/eo8L3vLfqBdQTpdDNdfRUZvizLfuX1zj2ZVRM9xWQNr8TgxAD6kQ
+QemfgyZWsr+FXagzzfNZthbdaNRsG0OirZX5KwfHIrxMaiEC4KNwP2EK7W4VV++p
+h8TG1jfrtvKfv+pqOSDSnxNgVFuKL0wtVHdHJm+5tExc2HWctauUegEaJ8WlL7Sj
+zYDr5ytZL4bA4+bPSrYwczVF5IIe42nRLaLEExqZmJwPjTRaPzlgh1bSyX80P1EP
+1mW3AJiDlv7LzfTmffmTZ3p4FcYADEu4tmvLsDyOfyjmueT0H2GqRY1xdzNrdr2P
+UZW3N7aeZ1s3z2islAQDU5bd9prrvFdoGthsahJ9pD8TNWd7WhL+ucAleJDCA1D0
+TFXdkrF2KpGphRY6rQ4634vSLMftmsb7bAOeqXM6SFDUVDu0OcFry+tOWSpulmtE
+cTTehM6MPBJhCAJmoEYnuM8SSGqTWFSyE34vAPeMblgYYoHxZxfwzV6ci5SZMuZ8
+psBNA8j2I9f8RFFJn+4C63vuoP+sz1YWKTQLb5WikI28vWyP2nk4TUy0KMnFxZz1
+TJKflzfgYW1v4MuHU0kgYqWr9MhAV+grFRuYiD2wf6x/2AYESakljuBZGQ4tbVNp
+FSrBoGKRufJS7hH9VvssNwfHosQwkzws2DR/SXIvHBTBK0M0uat2HM4pUctKBBO/
+n8Ocu2+RQTAqXKaoBOZzS8N5zzbQwyxqpN35kEQAN8UbgvkHuS07Op9HrvVczGRA
+-----END AGE ENCRYPTED FILE-----
