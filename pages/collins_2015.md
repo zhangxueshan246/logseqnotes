@@ -1,28 +1,9 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBEMzlZMDVoRGp5TkU4REMw
-Mm9DdCswd3p2SiswYXJzYzR0Z1NDR2JTVFI0ClVTTmhxTTQyZE5RdGpLai9aVHM1
-NzBVSkMwNkxweWhScDNwWGlIYVJ2NkkKLS0tIFkyWTA5aXV2b256ZzUxbTFzWjBG
-N1oyZE5NMUEvTjk2ZzhxY0RIQlcraVkKG/9cC8w6rUD6e0FjUS+HIhWgrGEWyEjT
-2Ki87rCRaplTc/AKObxOp/8ENQpV0zQxD4Mc8SoTprQuhLY5C1hbtUYm2Ae5+CuQ
-rEQRXg05iGbV5qdj3ArEHGlkBjnMm6otoBXYe9MqcwmLaXu06WoFBH0mb8wxaEH5
-fW6UXWjZzpgNcLLYbTU/vJcHb8o0/dCSPdrQcK/eqamMYRcfFVO/xQdCe3r9IE4j
-k8wmzeKOCcSQxTRQw+VNdUtCWuWdHSeK1vl+zMjThVK5X+T3sMg1XEhnS+IRpgrr
-GokOhP/aeo5bjghDqpRltBegMc+gLPo6KK6c8Peun8JVCtUkA4HwqWj1weh8dkPI
-yAkD4eJKRanevQa9sdjIVW6kZ3Q6X05uBMQihegCj5jzjVWqWhHudNgUM3eT0/Dv
-x7t4ajUDFwmj8vkzVAItIjGbkYuO1okNrcDouCFhfUy92SBxOJpM9ALa6nXFDliK
-P/69HzZt6QubYp4cKxQxMcgf4AOWMgeUF4lsJ7m4MCNiLrtaqXI/NV2epCQdKIaJ
-2EQCxmiLR56cILlXkS3rYDFcBbp2+wU7iuK/klgEWA8x8Fsycqj1+QxTNxLZ6Rsi
-pTFfhQi4lgDHCcY6mYLs9Xgdp1Jo5uhxBjY9nRfKUWDqVU6zPKoO55BxFlCSpXut
-AUHEx4EAMCFuzdSzTZa9SeymSPHzrdSN+w9ye8+D4gFpVBSdzP1yR0H/popCeFPH
-i2gRhZzbbzKWvtPxfMajLVT+IoSuF3B7pbLAzgUqV9nc5BZ9WuGL3luB5IFfsjhN
-AArnk55B51dXkWM8b2ELy0WixpKrkS8cBsmbJXDSnc62nROueWybUl9B2ZFYeHKo
-GaAMMXbSd14SOXqlTD4z4AnqXKwVtZT0OvnWXNyPnPTR6uLtnUB91xTKajQt9DMI
-5wL2HGtsd0mgEvcKih8A2tHrD7oUo371eQm/RATVKpFOdEii3D9nRar8pNUXyQZM
-HGs5V84RShBt22HKqYsVDHWGssyUT3U4QwXohYFqY309u18GCDbWR5jsEa/y3rI+
-adV5Nqm68NkJ7JpxeQhc+hW8qiTLll/37HXGbetACrMQroYY0csaft2cU0S4TegN
-3axwCR6IajJ65OCVPVDfaCPTmnG6WkjsleRlwPo3rP+0bAVTg6iE5fJJkZyhqX5P
-3+17UJme5BuAue3ePz0ur2S63IL62gjr49wz+Y7L0MbOVBB8mCQ1zORC1kx66MVH
-zNXyX7sSgl/ZFHFJw8uqOOfeR1c4ZWhwNfjWwPiEuhl4uDae2FzSVDnCY6EL3wHr
-1eSM0kVG5HThof4cstA7Bl6F0FLzQoxOdBNNOjL17LG6hYdIvVLgDxSMFBuzw3Wg
-3leWwN9loHdPyqZvsk5G0h3FnkiS+SZ8eRhE7XUHu+cKqtrBhQ6sN0v7aQ==
------END AGE ENCRYPTED FILE-----
+---
+title: Collins 2015
+---
+
+## Collins, C., 2015. “Through That Gap the Future Might Pour”: Dreaming the Post-Cold War World in The Golden Notebook. In Doris Lessing’s The Golden Notebook After Fifty (pp. 55-72). Palgrave Macmillan, New York.
+## 梦境与精神分析：苏克大娘，红色共产主义之梦
+## 分析视角与意识形态依恋之间的分歧
+## 英国共产党：其政治内容是叛逆的，但形式上是纪律性的
+## 混乱是世界上唯一可见的压迫性社会形式的替代品
