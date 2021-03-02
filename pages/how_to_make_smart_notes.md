@@ -1,24 +1,7 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBOajdqUTNZK3JsZlhHUG5G
-WjMxeWFxRVVLZnhSaW5Td3JYZkVoaEFrbmlzCkVpQk8zUUpxYTREQ3Q1d1kyem1w
-anBZY1BaUktWMVpnU1lFckFXVk1PazQKLS0tIGxvdzhISHJ3N0NMVFB1UEgwZ3p0
-UVlnS3RrNlZPdklTWERKaWJuU1RYc0EKUy2OBtMBrvUIuBfQR1EanvoTAU9W40tQ
-hyqNmx35ilUP13f2l6dCaL6RqBFG2w8u6DGZ7SPOXe09XLbDDOhPLVZtFVVCWpT3
-ZwMYkW5sAEU0Qag8B+IG1mlYItmFt5Gc5ildxi0ydaHlyGrcYKWw5Iyv0QdKx4RL
-adYlCki1uFy5GcYMAdKd7Xp7N+gEE672byiAXJdJnqD1SXZO/DB8C2xVhhSr/e+I
-zOq1jyKvcNx9OuTbqWsvhOp9gfHFCqphRDsBoAReKymS7r4IxxSTqISA7Ew16lro
-7vLGHkB5gylMISXDhSblGXQdV+kDomEyZYDld9IL2skNrE8I+yNJGvXT45BiqLvi
-oDTHOxmgwR0sRSkb8PBWLuq0ke1xO9j5u99wH1kRLQTNkfc8oKV4eLDxqe0NEef2
-LsZoCDkMhyN1GTQnSCaCKZSHdlZVoXKPrwe41iKHhqTlvApCCpgD1hgEWHB1MVJw
-ztolpMSRgMHq4lufqq8/3aMkjOEyhEW8WFsE1iTN7mfFKc5EsHl2cb6dg9B8muE2
-hqbQmbvfQrwuocL7qMx6argLJbpGbk1Hq5b9E9OAwjXlbXkK6s2A4UEJTl0vmKRu
-zEC/7Y/3LvwLAnvN5qmujrXgWJEqLQYs+OEjAycw2kMCXb3iVAx2TsvIinlfgm/y
-jS66x6i3pJ3QByUtr10KCPjgRkhgrjb6uzKcVUMsB8V1JqgwxFlUyjuRZ9OIpvli
-isHCTRJjAEDyP1oJfUb5Md/X4XeGzwDp5GHZ+GuJHsUFE4rsu6l3zfXzd0avCZ+M
-NHX/pijVVUyKm5ZteiE/JeeEMxe1pqexpU9G/i7Nvu3UhZxlAlCZyMEc+GwV5NEj
-TsRjHoXR17HlMcS4OQqYk4fbfKpuu9JoH6WORIMznyR9e6xk5Xz1zQ7bjsksXEnR
-8T7KC0YiIXQpTuQ0WMTSVZFNwa6HuquF7hBVF32CCuh9pVJ88aXOXfHiIaa4vZqL
-yBO9NQ6mMgi3AO6BMv83dlceBkI27ZCYjd8+LPl3Ab8bnK5BMjZquWkznhFcv/Tb
-vYTNwoJsmoOYVMk77m/2/dQRd/6qowlVNTlFLAVV4ELHk2VaIDh5qXKAsf0p4YWG
-rijdNNhoPjzeoagRQLqCYoSxEuGkOJLHVUXa6SCEWQeu/yHFBApT6Q==
------END AGE ENCRYPTED FILE-----
+---
+title: How to make smart notes
+---
+
+## Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking–for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.
+## 不是用主题做框架在里面填充卡片，而是把卡片的信息提炼成某个想法，寻找卡片之间的联系（类似于tag？）。
+##
