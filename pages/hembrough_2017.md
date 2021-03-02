@@ -1,31 +1,13 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBiSHB2SXprSTJZcUw5NDU4
-MlYreG15VUZTZFY4NWxrMVVoYVA0MGFGZG1zCnU0VTNnRzJSQ3BqZm8wK3lVMHJY
-NTJmYjM4K0xvWVBnS0VCNXhkRXo0YVEKLS0tIDhMZTQ5UEFlMDBwTVI4TVRzYXdW
-aUJFeUtlY21mL1hSczk5RFd6N2kxa3MK5+Pn7CZHgyfTwA+L6FrPeZsEbSy4uwfZ
-sDoNHrWiWMWLzGHKos7ghcpdW/5cRFcjHSN8zF2C07Rz2x6WJvwuo27YXVrLMpYt
-j5EwycDEw6MrFA6LCiSUv2FEr6Tu0pNyU1PLQsP7rxXadZkVIgHjGlFdUDSI0Sp3
-Y0CY969+xFU5j/8TLemzD/06ka6uL0MVD7ojmw7xx3N8wkfDABiNi0UDvtDoMZ1t
-deIiiEpnzNqQ/mgsfcPSI2hMpA/iiZEu8LdOMovQBt9QPzB+K/5D++WBYhVT+bAW
-9iz+ZrwZ/HNl/n5i/dgmaTJechez28alFP1QoTbdC74twKu9x2O8qK1Y+/RXzG0g
-ujhqSN2gCYrS0XftZIHFHLzAGkuMxsABT2zjAQTbloGnrZGJSdaQnvhUJBN8PsIf
-XWZpKbbh95ByPULrB8W41pe0VO1t4IshJ+kKWJsusQlaS0VNFknFRepir59rGU2F
-NvEaoSlMsyMCdVahcgEuhoVTPQrLtRBqe9+p21eQBice377oprrMXWvc/vRq0JAo
-rsWZ/d4MSAym+JIyWhpHuCrNuYCA6O7oOJeCN7afrL9rp78gIbgj+UCzLOsINThZ
-ByLIqQPKphIFDatWC71liW4vnXUVZ1kG6WJawuQfJkFd3lPef2uod1lCCMYzerqw
-iIjkF+0ngrGG5JK2oMLprVpLS+VuP5pgSkPMgmrbpLIQd+1JUhAIKgK+GeCQVRcM
-1dl3Mv/1lLYuZ/en5EkqdzO1961gajlUImUc+znvD0WzwaMESCiJLG1+YVcryjNN
-ICZG5uCHKDXBNqkU3hfwpTMsTncTsWvXJ14KddNVmJMOm1/ix2cJyUrHJ8TTH5kB
-/5meL0YHwK1V1RXY1RCqVUTX7FkoZnT+uY2qluySz7gvcow3k+SiLeTGuH09T1xT
-a5pYEY2DlWQUc/aZ8jeQl84RdCOvSVB9CcPxccM5SKCXbQE5NMBJzP8xghFCNmRO
-u2KUWgpdv6hhoOguUdgvDHoPZHiFpxvr3zdu2q2fm3j3YdZPS3yHLXcNoAaCgBzi
-hdmw3/ncbfedcMnGkNz8aULqT1SOoG9vDqG6aEopkxdZnq1qieWw3jUx9UsPcHZw
-VTNs9UaUEnqcFZBiDE7i9pz20HjpPaQh5GKim62qhYH7h6aVywco2NWo55zYjQUd
-AbcoQ3heADbBNpj9TNoEzYKY1YhsrPbwI7rRnHQU85hbtlHiBAiFXQUOtv72iCeY
-ZUEwuO50N7dEHdT8vedH7YXMtsjH63yftL+OuOiqJ6k+rM4lmG3paRwppU28+hgY
-RoQku78LYyQNoM0Uiq4NWPsNBOvejFPgy2S0CWG0yDntb7Vr1pul8Ldd3/pKkQru
-TmOgYe5V13KOMUXenn+S6VzVY4u45wRZ2gkV9w74XR3v+WdgjhFm61PF9Ma139v5
-aUoGZM+BpFLVRZP2g/ruFP2QraNu1c4kNqTteJveX9dInlHsMrFSzj0a9iSc9RK9
-wjt1v/LuZmpXjZ6gjALcDeKEjnktaX8KYIiq9nYsk78nKuRS0zj9xjyc96FgcH4Q
-A85nyR38UMq9
------END AGE ENCRYPTED FILE-----
+---
+title: Hembrough 2017
+---
+
+## Hembrough, Tara. "From an Obscured Gaze to a Seeing Eye? Iris as Victim, Villain, and Avenger in the Role of Writer-as-Assassin in Margaret Atwood’s The Blind Assassin." SAGE Open 7.1 (2017): 2158244016688933.
+## [[盲刺客]]
+## Iris 第一人称不可靠的女性叙述者
+## 回忆录、剪报、中篇小说、科幻小说。都是虚构
+## 不可靠
+### 边缘：与现实脱节，老人，小孩，无知
+### 年老：身体健康有问题，那么记忆怎么样？
+## 没有风景的房间
+### avilion 成长时所在的庄园。特里斯坦和伊索尔德
