@@ -1,26 +1,15 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSA1dkVZTXBpT3VVbnFDKzFh
-c0M1ZjZRdWF2Z1NhMDhNV1dndWttY1dwc0VVCkRadFFPeFM1Zy9QUG5xL2ozS012
-MWFpSWFSUGpWS1lpZC96MGpBN2thcjAKLS0tIDdWaWJEd3gyZTUya0RJU0o0OWVk
-L2VUK3lrVWtZcmhDelYzR1lQVzkyL2sKZPnVavBGOjn+FhNNwuRzbPUH2wjeTcOU
-uvZBAFsg+eIaCcRfgnsze2FcHW6sKhDJ/TasNmD33KTWMx+Khyjyj40abzwoD8hj
-XUzt1aW6Hc93NtUtcd2xzHoB6l2vAlh/pKkFt94rBKHuctoh2Pc8pzzNMC5PO4Fs
-4yDnz9IkRTdlEWvupMgUiH+sGVrUANmuvsMcv/07Su1MzKYOHGOPtOZY8xcTj/o7
-tPGvx6lnkgQwVvcnGchQQHyvPUuLhFGhtb4UcFIUT1BxDTI3q8xqhKZF578pMLr9
-bVKhospf0WNzD7InG1rpXGdPkKovLHLdCFtKidlttaDK7Hwh8oyBfC1hV6w3iHXv
-65Pno/b31mkmdfvkfXoYEkX3JoC9tiEzgtLthwFspE+FM9aRAg3sB+BkxGW2P9bO
-iXyRAQKB+ByzPeG9bZMaqv/LRfOsVniSZhNfe3eaNZA8lhFNyU5zn5Tx2XWJmy1b
-fZalbi5U3fgPM9Li9OBCN2xeCAkF+g3AHs+S+D/djzgJ5OVXFss20HNMsR7hmI4E
-Kcj1uOd3EVzD4K+jWh7WwLqAyRajhY+YUHD7q2fpNvYWH8gf+jvm/Odqo1gCtiJH
-7jDsbkwMvaU5rgSyYwM7zh6bV66OBuLd4Bx+zVXB7tSG7srUyZPvzsaR468lVJK3
-/eesiBWA3cKXpFY3iTMqfyQRTlAezsZEX/fLQfuc9utJq8piswy3UbT7v01g/0nb
-/h2LDg8zKLPyD6wDnNg7GckLtCD3HlO2lqL0UbV8J0pKwH4onAZSK8dDhuJrxkPL
-PUtR4PAzFiHd0kFTMenB0eT8VAyTjVgwYI+G9TRJUE8FfyR6H6cPdkQ2Hz+XuSfy
-Ywh0uDQC60vv2roAVVFIctyafVENYl11EQw9H8970WCaNLgkmy3W+R1gCdT8c2jE
-KXr82z08vA15mBcK3GEX3dYw4GGQeAYwH2cgxftcfh5YHmkxuRctmFekN9ZS6P+Z
-lIjTeOESyDxU+2q9BJeCcxl8LZgUw1BC8dgsOw8BnuARXCcFPzgYVHir+mjCKos2
-Z6vUTAUjuc8r7JUVP0Wbdb83CNV+Hmfkf6eKk9mDj9B9RfQBsHeJoHZIlUkw6Jcn
-kSyh7YjwZSioiqW1hiq+z6FykwDT5dW8Sq7d8m0zW5SA1jlh1idFWBPJvRGl1gW5
-NN7Yt19DdNVG5L2VGQ4PinhTush85SCEpY8gcNnRju5AikIdTSR5p04a4ybsc7s3
-4LVSgHVDIh+R/0mizE0zojB5/sldoQSMy8Bu9Sei09AYFe6WPoU=
------END AGE ENCRYPTED FILE-----
+---
+title: Colmer 1978
+---
+
+## Colmer, J. and Reich, S., 1978. Coleridge to'Catch-22': Images of Society. Springer.
+## 
+##
+##
+## 在朝鲜战争期间写的
+##
+## 社会抗议小说：Milo-资本主义
+## 海勒说：在朝鲜战争期间写的，但针对的是冷战
+## 社会抗议小说：Milo-资本主义
+##
+## 小说的时间是尤瑟林的心理时间而不是物理时间，尤瑟林三次进入医院，可将全书分为三部分。
