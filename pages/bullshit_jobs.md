@@ -1,12 +1,22 @@
----
-title: Bullshit Jobs
----
-
-## Graeber, D. and Cerutti, A., 2018. _Bullshit jobs_. New York: Simon & Schuster.
-## 五种Bullshit Jobs：花瓶、安保、补丁、填表、中层管理干部。
-## 狗屁工作就是在权力压迫下从事的不生产实际产品的假工作。
-## 管理主义已经成为建立新的秘密形式的封建制度的借口，在这种形式中，财富和地位的分配不是基于经济而是基于政治。金融资本集中就像封建集权一样，其中的权力带来等级制，也就是中间层级的各种狗屁工作。工作的社会价值常常与经济价值相反，越有用钱越少。
-## 消费主义？
-## 管理封建主义
-## 使无用的工作永存是抵抗暴民的方法。
-##
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBKZ3lid0Z1RGdwR0hHMDc5
+VnpOWVlVUXlKYUQ2aUtmVGtlZU0ycXNtT1Z3ClNpbElIOU9TQ0tqNGUrRjl2MXBM
+ZWUrSEJhdlFWWDdoZk5iNWhBNldYYVEKLS0tIDJpN0dORngrUC9NVEhIaG4rbC9N
+N09BWm56TTNvNHhxMDlSaTQ1YlFBR3MK58gLSyJ9Vvt29iS8nqgXcmmkjyGB04Hv
+gYymZS08EX88ttorMso8pAhJMcQ4MHJw8ieR7rML0j0W39YRTyFSdVeF2WDt1ZyL
+vwyIx63LbYzyuOT1+wufTs68Sr+U9rU9YOaal4Oe8lmj/g4b/IWZ3GRweLLteUQm
+DlQUxD37TXtXKvokZfS7hL/P8AWJCeznyHcbjxw5y8keRTEpft3ENDfbCVnnvokR
+yfNIYk7ycajjuRHrANdDJixK+0vumtYjyzOI30b1BPfOciw7h1SxyqwWB9CEk79L
+FuKHZhaqvQeQMQ03vMtNd2fO5jvcMZZiwv1/IokSoW8cEizV6FGjZ3ktKZXagvQo
+sAq++njHulnN9QeRG3hdI3PHZrM3U6IJoHjRpC149S/tNJcKmjtfgjwB0np0bbNX
++rnqNxFxAXOTpkcFSeHGKEC9OLEB13APt6DouIfquOBkCcff3N/Y827M+emc0V1j
+9+1UIZ6C8dfxbshNDjIV9/asV5YMK9WfQVCHreUl1o7+SL6+PCw8XFnztBZa6ogO
+4gFYRIE0KxM2MSuIYHIHMubrlUCIROuOOFisflJ97bZKAoG+dxTgh4pwnVORdV5d
+5wzYCPwvqSq5+VstPCvuBS0lerjMglvHaiWKs9ECgCzESK5E5osTWQ0Nm1UKyQtA
+N0JY1eCE8eX5z6i9vpsRMg2EfKOrn63mJUdwZvnvzzaqBdfNtLctNktRgUPxGJRg
+EB3InB2tu+gujZI29szj42oyqsKtHNDG99bMD/En1KQJ2A31KGlhG/wJ6RPS3/Pt
+/tDa/p/m6I1bUvmuTHDG6JBdkRZm8x+kBxxtjRdhmnNqBeWFFQjHOkJqOH3g4sEt
+oiom3ZvKN/9hHs6OxddVNKwW0jbeAisQxQc11MV6uEwV9LmNoOV5mT1jOl3QAtYh
+8JF58J7vZiO9aI6Kmlt6fYJZeOWDDsZkbPVnYTD5m8rUlml4Nhwg60Kj6HLwHDo4
+2iJK+hPmo1vhwHVGXHgIEcm/IOEivrrvCq4=
+-----END AGE ENCRYPTED FILE-----
