@@ -1,7 +1,9 @@
----
-title: Stephens 2014
----
-
-## https://trevorstephens.com/ramblings/catch-22-visualized 
-## Catch-22: Visualized
-##
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBJMHJpRzYvSkp6TnJWckxB
+TDQzTXc3bUVoK1dROVg5YWZLMFJxalhrNUZnCjVlb2J5Z2NSUGlEaUh3cStaZ3Jj
+MjZEWTdjR1dKVWdNdzRnU1g5RFZ2UUEKLS0tIFltb2xLZWFHd2xsVUl0dWJyYUdK
+d2xveEVpNURsSnhIV2ZPS2VHbUEyQVkKeLDtE47eOc2anIyJPAhNQ8wG4pPNXSMF
+CZ4XGO13HCDRHONXsPmdgCTONftRA4IIhu9nrcBQ1Qy9tg+EVK9YRxHXHkaEXFxX
+elz7cj0tHXMLOH/SaPmR7AM8Veqc4IfUMABJJvjFtdDd25fdy5sDj/Lnk4L1TauM
+w6D5hbXRySHleutwWwEG/tkGYXYuXoi4FrYmbCbY
+-----END AGE ENCRYPTED FILE-----
