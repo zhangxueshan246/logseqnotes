@@ -1,26 +1,15 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBLVHJGSmhiM3FiTnFaeHpu
-VlpiNVZINlFPcW9KbzdUaFhtTFA1MzhXN3lJCjExeksza3EycVdIb3hOVndlT0ZN
-eWwyNnJiUUo4d3Y5eU1oRHVPbWoyTEUKLT4gPy1ncmVhc2UgQjw4TWpjJ0MgdSA0
-aGpKVFBHCk9maHc4TkFDNnYwQVZEL0gwYU1DenVoNmQ1SHBHR0lpbkd2RHQ2QjFx
-NXA0NHhNNE5MTXFrNy9vQ0w0d2FmdnQKdGxEckN3T0Nmd3lQMFdraTh3M3o1SHVG
-OThmK0dzUldmTXY1NEwxUFVrZ00yS1YwUEtPUHVHVURodwotLS0gblpXUHFNTlM3
-dVhGWmJIZDNaWDZUVXd3TGxmT1IrQ216Q05WMklRSFUyRQpJkVBz9GVNcwOCK/pU
-J+pEaGgFDCtC+8HyyU+4ppmEPNLSSArrSGUfbdk16iA+BAo/cZhAZU3TNnoPJZeP
-hIJ9mlnm9X6VdhySIOTdk7erOHqlwS2SJjgadvJ+hQepSgp/J3zUFfM+phryZc6C
-3vgwQ4MzIL9dy8aj4hIdAbsuIpU7WguqyjcL+t1/i/DEmg6G45dRhx7WXGIC8GT0
-J+67FINaov/hm9ILMRlGvx/3hlPbeyBZSVrFV8sD6RA7eRC3NJitte5nPC+vopxA
-w7rihldOolq9Nryh8vyK1pevCM5AK3V+6SjuKDSP96VyFCV+Jwnm4kdN1dvwSZHG
-6VPm0H4ju8LEUFJIQ6jFwbAgVvxtH6CeeA+9QccqRNMEPcX9ZJzAPSYhX0SYIqBW
-wlFT8IST5cF1xjqiokfYo+yrNxeDr/fP+kZcrM052/ZSj8bAZbL0uEa3lYFDsbqL
-yeNXuG3bLbogDZplXYuMcD3e+wn5FTwNOa//bPcYagIPP3lPDNrSG46QvgEc4Om1
-z79wukcuJQQvBW2lxO5knuijZ7Z8/J96KOCleBlkC6hDNa4EOoVO+moIg0NOtZqb
-KJS7Ct6Gu5ZtSKkDLXwoKt8JndAyVeVehQrRMOL1lZk3NssKaNwsBo692Bp/8TSk
-wJevOPGRWA3mHgxPilKHqvbqTzZbQya+K4vsacJoC2807MnhmAHL+mA0g5nDwdar
-KoP1xfU0oZuxsk1g7kjXw8fwwxpkw3stwZH2g9DuiJOtEkiRUNvL/K3RPyec7LJA
-USOTVdtQMwiSuQtjnwy0BUg/KFe1V1FQDsaf1DmE0FXjPHVvkqXhqQytl6YbM9QS
-BsLOWPFgVEZYjZxoBTZlxfR/rPRdAoV2RnvsPLThL1LTAnIczHCkrhRSdkBeLcC/
-TFQ3tN6YLwlEEPKAtXmRgXq0rtOc2j7gjfB4jPzIEesDOeQVyC1uO2lnOhrcY+m4
-jrFP/IGPdVZAZZ0CQFelZTdJnDPji7/gVqrZ0IeCBox+kOQVwHnDgiCh0bpz2slY
-6X2gQlpeLZ9g
------END AGE ENCRYPTED FILE-----
+---
+title: The Complete Works of Primo Levi
+---
+
+## Levi, Primo. The Complete Works of Primo Levi. WW Norton & Company, 2015. Epub@微信读书
+
+## 生平年表
+### 意大利犹太人此前和其他人没啥区别，没有受到歧视。在奥斯维辛他们却最受歧视。
+### 1982 翻译卡夫卡[[审判]]，生为犹太人即有罪的感觉。
+### 1983-4 翻译列维-施特劳斯
+### 阿多诺：奥斯维辛之后写诗是残忍的，莱维：奥斯维辛之后诗只能写奥斯维辛。
+### 1986 在伦敦见了菲利普罗斯，罗斯又到都灵回访。
+## If This Is a Man
+#### Preface: "It seems to me unnecessary to add that none of the facts are invented." 这句看着好忧伤。
+#### The Journey: 笛卡尔式的幻觉是什么意思？
