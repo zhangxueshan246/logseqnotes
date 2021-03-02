@@ -1,33 +1,75 @@
----
-title: Brazil 2016
----
-
-## Brazil, K. ed., 2016. _Doris Lessing and the forming of history_. Edinburgh University Press.
-## 引言
-### 文学形式与历史的关系
-### 对历史的两种理解
-#### 历史有目的和意义，马克思主义
-#### 微不足道的个人也有作用，自由主义
-### 独特与一般，个人与集体，有意为之与意料之外
-## Chap.1. 早期
-### Wai Chee Dimock 分形几何与文学批评
-### 作家的作品不能回避政治承诺，而且这种承诺具有全球视野。
-## Chap.2. 青年文化1956-1962
-### 1950年代英国经济繁荣改变固有的政治文化框架，兴起青年亚文化，新左派
-### 《发条橙》1962，青年文化中的暴力和犯罪
-### 莱辛是新左派杂志《大学》和《新左派评论》的编辑委员会成员
-### 消费主义，政治冷漠和潜在的激进主义
-### 汤姆：对父母的文化有批判性的思考，也不盲目追随青年文化，摩莉政治行动主义；他的朋友Tony，
-### 索尔：爵士文化，爵士乐与月经？
-### Myra：爵士乐与左翼文化联系在一起：具有抵抗资本主义主流力量的渐进前景，因为它们在1950年代表现出了阶级，性别，种族和性取向的划分。Ewan McCall and A. L. Lloyd, both members of the Communist Party of Great Britain.
-### 只有在同时代人绝对有能力作为某些特定经验的整体群体参与的情况下，我们才能正确地讲一代人。仅当同时性也涉及到在相同的历史和社会环境中参与时，当代才具有社会意义。
-### 左翼危机及其无法吸引新一代英国青年有关，后者对主流意识形态不满意，但对政治抵抗没有信心。
-### 《黑色笔记本》，描述了二十年代初期的亚文化人物群，这些人物是由于加入共产党而聚集在一起的。对于其中几个这样的角色来说，加入这个团体也与他们的父母文化背道而驰。《金色笔记本》中一样，左派越来越细分成不同的派系：‘血腥的社会民主主义者，杰基说。 “你和左书俱乐部的人群一样糟糕”
-### 金色笔记前言1971
-### 对于莱辛的这一代人来说，正如她在《金色笔记本》中扮演的辩论所证明的那样，文化革命和政治革命是不可避免地联系在一起的。 对于1960年代末出现的这一代人来说，一个可以没有另一个实现。
-## Chap.4. 形式的政治
-### 国家暴力，性等级制度和政治危机之间的联系
-### 伍尔夫《岁月》，日记体小说。存档，记录，见证，拣选，拼贴，摄影和拍摄，并且可以追溯到选举权运动中的剪贴簿实践，左翼政治，旅行叙事，战争书信，史诗，证词和报告文学。我们可以将参考文献，语录和报纸摘录追溯到其原始出处，并且我们还成为见证人，档案保管员和历史学家。在这方面，文本是互动的：马库斯指出，它们通过引用和文档“创造权威”，同时“教我们拆除它”
-### 文本的价值比文学更重要的是政治和历史意义
-### 它通过将政治危机的“事实”材料，叙事和作者身份问题以及女性与性别等级制相遇进行混合和并置的过程而得到解构。
-### 上世纪中期的监视文化背景
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBJOHFhNWtEZUZJeHhSbEpl
+eCtNSjFHRHlHS3lFbDNJcFc4ekZhcXpVdEdzCndpQjBVRC9rcUZIZEZBWElpV01a
+bEx5a3lyRnBXYmFMVm9kT3JLclR4bFUKLS0tIFl5UUhLS2xmbldwUWpNUFRFSWJh
+RktHM0NoN0NOUlhIaCt4Z1JKNHdCY0EK4/LN+mKCzVn69BYVuMPA+r719OzqhJPY
+JPMa+51ctWgXo1vbJGVrBuZVi8mBq3ssEUFyplfpO0eKzS1WZD5MjYQ3taBs6hsm
+KJxZQg+J5kuTRuxjN1FCM6+ihlTZQNWVI2uuZXMiiabNDKvhnkmJT9+UTq/37GUP
+IGwiiXFVrf788na+1OmcIuckv/KBRqYAa2KAH54rp8/p7q/PHV/dsY5a9e7Rl+DV
+Dl7IbMQed5eJihUd+pDpABrqk7pSWGSfoP0jMXxoWki3FN8gQhFQ1mMMFJbT8ddX
+XG0hzlLJqCPO5WROyeiFccFqR+mCeiGWW68dfJUdlX5qLdSckAggRZlGPEJYHjSH
+akf85zlXz4QUvp5Vc5JAyf2oUHWqMuzoE/CTm6AsVekKhreWaOewvEyhNW8VJENW
+mGNMiw3kgqVK8jWcWOYImVVZjBEjfxHd898wBvJulqj4YDAJWQpbeGAPEUkEq07E
+MFKuu/T10l8rULhhoA5EtFuHQSzXDEGQT6mBLN6xpfjfxC3W22lpKp+tNPc8RzwQ
+710hA6FMO73L/LKGxUnyfwF4mcqLiVMlFaXyuG0WfdXmF9m9Man80SnAQapbrPWE
+iMMcl4D89jpqA5QgnGSFRcBncp1WutFSBc030SmIsn+5XEC4ddpGNkVyMAYMTv3c
+IldF7kFdzf7TM7l/3PRRHoTRkIpqdBV/Scdnp5MFlxMRZm0hHMwURgIW5Gbp2D/9
+sqPqfn50e8dA5zAqLRrC859T5pFg8es9grbqSYh/su/9nZiiq8XD+YkGqq3JjT+h
+F+C8mDBdur1MXEjGmxKJL3/E4ZydKOwZ7zk0lVMCMK0/5H7qxTqyGwmP6qnO8ofV
+TBh+55NMQrzAKwKznbJZ6W7DoWPI2FSYzdMatcJcQ7C9xX2wHATMIOgEupZzyb25
+hePFtjm+jtCRmMgBiQxFCup7yvE6hdzGNiq8JLsf0c7gMQeP8MJzh7NpJrjTb9KX
+tNEQ4rnnVjRmA5TV5nbr9VOVEVzpupojD1qNCqpBXmCpxvFlqkHTeyrQPhVXt6e6
+nSisGnUCpHjeR352+nPSg7Qy0zMoa6P4uspHSa7OytQbW+sybmidYVMPWQdTxUhN
+FBlO6ZEYxBz+MesWGFXS0LnHJ7RDYag8xJGHgzUx+1GaDjN0U5Z4Hq+/GQxMOm8L
+jUx+37/XHRgzA7lsiAjXgxNDFc1I+gtnao4YgXq0MrCYYD7E5+SBsg+KwT56ETl3
+PwPpaW9b4HgeqFVMAWJPAAKAGebe6Za+xUYnaUL+uL7E3hbwGD3O0smHGg7BvlGa
+wF6DkEerkg61cvuFypHG01X1YxihF4KqK0jK0orUw++88Z3cB9+kvpJKSTvgBTY3
++hBoJmNCAzSn5pKuGmnEcK687k1x8c1DP4e5o40CgHXnR3frz+7ooeiZwldnBpLn
+7RXhPS7qJJmRUEw5r/CFfXOHp+oI+38zJwV0QfYpAopA1HUEcFtLikZq1Wirs3PO
+O79aDJnsKOCCDJsBBra40ikiPpKlpmH1TNOZBhU+JXGlc2Wahf8djMe6Rx0bj2cD
+skM4xKp+EjzRCSER8xRa8q+zO8z4i94HYOf9V0u3ex8Oyef630tqG+v20JdhyQ5O
+kKfx6lHfH6TIl6K9ieAfIXYY/kyhO5IJonZa7C5aQO78DBsUBWz4xfE4Z9uqpf24
+AGN8GXV4g/xfdmW8/19/R2DneZRVrGpM8ueyc2a82flmk6pIAEPN1jJPnWjXBpfe
+6Ki0cjE5XpHdZUKgmF7z1hqASuxTGQVleRXRXopWHPEJU4Dct9RBgOSLZCJOGQtz
+hj/Yue5lcvvAmBUQGxHuPXgeAHXy4XhU47Hy47P8CLQpkJAoOAAqranz6JFqxO6B
+tulNHql0XGkQeGN/Z0FjFTlQf/xzqqf1VUQf9wJKNV3l9qInEbUiVA3vguhdkP8S
+j8S6ny+QqCLfmxHjqsTlza4qmIee3+75gkWTU2XxVDN8EX3D8lab4rg/PTVS9wUG
+lf4TE589KRkVxGAG470OVuJAHPbLOzi5ufKWQMyxDPmLzQtUpcC0SKg1GHXaYI+z
+Y/HnLFeJ1ssonu2yVoCKznZZyQL/xppK0up5lI078Lsmw3DIGu7/kartpTOw03fw
+bj8KOXwTqcoWSXTAXxllFGHPPl+nJJ8zgPMsAJjV99HSy9EzN8qE+5NdYT8LoytI
+1As80iUqIvOXxlfo+ra1q/S4BHq9dUSy/CjeFwwhq8wxA2NlkqFC3K/8tM82abb8
+pDhMNgSF0PnhTCFz55NVd4ZSA9JTUt3ipuyS/x2/3wMQp0Fwc4iNq5pUDJb3pT4V
+oaIM8WYr4p3ba7TXQiQzTM9V3AdogBDR/BaViLxz+NGBUTLoh6tX0KsYBJj/fiwG
+xAcOFkkTkz784lKXQ5B/gYNa3sCEXlIC6XmiG6E0O3fzNsbu/DduUd5a+U/sQs2t
+p62BD5WwajCNZ/I1Wl1G96My2hpbQD8x0PdT+N16ANY7ZdquYPGMGq9Y42ITTMZh
+W7+W5IxYRw9QjCSYgnTwg6lVOamJqmh0jnrh3iWN0IxBDC3a98PPvXnA6g3nkNPJ
+oy9j1Vc7xS2+ltP19ajNCJwlmtc94z5zK26fGLrusYQqlQjGMQ465AA39pGpeuzJ
+cEeUBgKYYoi0bp7eeWIEMnkC+RbrfrRT4Cps6hMFOymJ/cZRR5c4Ll2c3GBTPIg1
+gUrJDKfkvsgBUFYceoOML8jFOQeKIxk3FWrRuyHQ37hfQ2xFDkLvmLZFtT1h8nii
+FGr2JrMJ97g2/MQwlfSycCS2PnuDVOSoyGOQ7N4rq8ijQdwhA/2N7b/XniqekGkl
+i/OGLRlJwLLFVd3eAioFsBH9Jz7t/A3oetL0hjSPBEjy8ncK1iBcHXQJqQWUjMQ8
+mLtg7/lMhlrn4+p6FHQ3zzagzOeWhuHsSoa+a2eK2gkKOk3AUunBRj72lvMjHazi
+64k6AYIxCiR3VvvDk+Okoo66r9wreB0itk10BfTTqQHBGws2B07t8A8Sb+Bsj0bl
+jycq4h/WnHSXI82odJRcE6+RMWkdPQH0jA2I0bZtF0RqTXJiQvXMLiBwD1NoxkqP
+ToFqvYIYmS3UYtIbqEbc6lCmviIKFcWXjGYnF+apnpRZ/j00xrhZgdFd6XXj4u4q
+K0khSXUsYaM4SkRVJJO9EOB7MVIAaCXYcyVzJwE2eD8c31TrTlGe29eLx4Vr6O8J
+xAzMB3kb30iTtGcrZ9rpxNKKZCjxKMPLwJHsui4zYvu4lwn68GNBgWYdzgvZ856x
+1bD/qZUGhe9Bf7DZFBL6g5OCk/5Dz/t6bDeZvAejliM6rZbM6gMhqMJ6Uzn27sMF
+0YoayAES9q0HOLEmDyXunYlUqMkwCWPEK3ac4arG5AJNsSfU9+NnPnWbxaC1zHe0
+pxdAn9F75wjn8sOFTS+oWG+15d1vOIrOV/+Kny1Jz1uu3OVQYcBrEiQB42xzzJi2
+JkJuap2Kf+Ek9vzIP7IN4HcmWar0UclViF7V2Dhb9V6sVcmIbUbB4OIJqYAnu0t0
+jHyi32zIqtQyUKHaPh7SF1D2TaYW/4QgRNgVoj+v4NKWqQT893W2va+RzJBUAqfw
+Uje1UgJHnPvLG5U0ppVageRNKfasxe1/Oxwufxc4vq4mCgx4ji0FSZqgF4bJCnAh
+WfeM6jrdauTxOVqsJnUxNI1jR3kaU6B2H+o05avqvYkp5O7mc895yBvycMT4s9Qp
+nhS/9ADTVXKeoDYDP+dZFo16RaBdBtmA3JU1nJrFONVbV4Nrma4l8wAoCC8oyYv4
+7vQIpdTN40/C5c69pxhVI6INKNuawk/2nb0u3sYaL63nQm+oQTjQMyGDbx+fn+Bx
+FlOjm+Rl59XtjKetok3CHk4oWBLCJJGTa8ITLJtFSGIEEIdtiOL12nAG9vSSDl27
+T6BRR8Kp8n17gW3md2M7IsCjHNG0rgaPQRNsFy2Tw2vQl4jb/n3HgEB/hStEn/0s
+thsl3kF+S37u2R3WkoRXQ2ipLXBgaJFqKYqtugSa9V55RWdElxUOixGUmIHycV/s
+SKHLvxRRTglrjgIq1PzJKgkOh2i1yYLRioZI852gx4bMsxCy3wV1L1lq3QZBSCks
+qG2EUP92yk3u6IjmjQicfPu5DyiKZamZqa/EzBFioI95HAZ08LSyKs6KXtdtWnKc
+zkUMb7WhwH7lYYDV1KjFWTnXoTsStl58IVTaa/s6Ab/eYJ9evlwEv7nuFoLUtXnv
+l/TCUbdm1UnsSaH9ycMSVrTiIESUQnZSNPHIYYupi91Oi2vbjV9aUZOfmmjqwYtF
+A+Sq0yDYpFWjL7sgG4gYhp+UYHR3rbTKXfBfTH/lkURlgd4Qy3Z1HIaf+TRj4lv9
+Ws9bXELlaL84QNYS49uI6dRPMbKh5wvLVTexyEvaB2QAW/EI
+-----END AGE ENCRYPTED FILE-----
