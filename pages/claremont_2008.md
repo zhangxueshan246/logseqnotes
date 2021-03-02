@@ -1,7 +1,10 @@
----
-title: Claremont 2008
----
-
-## Claremont, Y., 2008. _The Novels of Oe Kenzaburo_. Routledge.
-## 1. 引言
-### 小时候走失，藏在树干里。
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBTUHVYWktpS3B1Z2dEeW1X
+bktobEJrRlZZUHAvTG1PdDJFNVdpL0dtbkJZCk55eFRCeDhNK1BvYXNudnowQVZi
+aU9yQm5XbkE5Z3NVN3R6dW5YSDJSSVEKLS0tIE5UWklOMUthNW1mVmJYMWRzOVM4
+SlR2MnNhbCs3ZG1Kamk5V21MM3BOTmMKy2yOwjSHoXi6vBhiDKyqhpHzL+mHun2Z
+awPWGGIITuuEqTT8d0tgJSmLtWo6oYRxNd3XiLTqcqPLm4n3jD2i3PU4ttLqIx30
++bnWKBvlF7+sqjsbmTLW081ImmC8Hd7zxDycqssVo7iyS1UMJuKqq98/FUopDiJL
+D++5wF8beW/mGX+ubxSu6BtyiJoDzSsMzI23cMIODzNRrmjbkpi0Z13SztY3xMpt
+K1Muon71yeIuc5yAJlI=
+-----END AGE ENCRYPTED FILE-----
