@@ -1,8 +1,15 @@
----
-title: Holgate 2019
----
-
-## Holgate, Ben. "Intersecting Imperialisms: The Rise and Fall of Empires in Richard Flanagan’s The Narrow Road to the Deep North." _Journal of World Literature_ 4, no. 3 (2019): 437-457.
-## [[深入北方的小路]]
-## 二战中日本俘虏澳大利亚士兵21000余名，死亡三分之一，而泰缅铁路死亡超过40%。欧洲战俘死亡率3%。
-## 吉卜林《衰退》1897
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB5Y05ReUh2ZU5qdmw2MFh3
+d2MxbGZUVE0rK1JVRGVZKzBCMHoxSXAzVWhRCnhmTk1sandRYTE5dXhYSGhzMUpF
+bXRmd3NPTTRXcmlaWVZYbUIwWTVoWkEKLS0tIDRrem1BRFU0MGdKNGtRODc1anV4
+MHhUKzgrczAzdVBEckNBdzlWQUduMTAKZSe9CQp5d0sb8cTLxi2ZX224C5W61tFv
+1xsXUbofg3KKr3uXPqeUH3diPZyYOQu6rhyrPAApPZGH8m20GvlQj3vmIa3cYRp0
+yhuKSAt7T/AkjDY3+O44wjNkrG62S6M6Ui5py8EDx6mMFNs8YGAWAVtXuPNr89af
+RL+lTNVkP6Hb9+WY4mVICbEiyHGKaF+e28BP76bRfFmU6CWgtDXbUcQOOBYS6Jfk
+kF+4F82AAD5PTg5mT1EeRdvH0Kx07BgBz8TfqmkwepghxKHTUm+aQNan5LJncXk+
+vHMyfScpA54ynp4E2NOX5FNeqZ7KuxON/Vyo86mNHndK63CI1TrfPgCNB3LBU7zo
+9P7E67qc5mz0OAQyC2ps08fAxVy8DyJEg3cd/GkZfPlpiSjCMob+o5c7p7wrjzJF
+YuABw1qP9qSrP+SJMm2yoCVcJD5wgM8Yx99BQm6BLiIXgE2rSVadmBPwwPs1hsE3
+jCkJKNfTsXnw9tUtyUQ4xHXAzPQwqxTp0pUgh8GxO2S0sEgJ+5WTjQ5xcCZwsli/
+rb6I8jJwEyOlMqmfe/R3W60loY6o4LaXcCQHIleTP3kYbNsZYqg=
+-----END AGE ENCRYPTED FILE-----
