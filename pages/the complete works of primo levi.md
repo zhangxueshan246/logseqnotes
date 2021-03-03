@@ -16,4 +16,4 @@ title: The Complete Works of Primo Levi
 #### On the Bottom: 喝到水龙头是温水就吐了，大概正常都是喝凉水。引用[[神曲]]。
 #### Initiation: 语言混杂。让Levi在集中营里好好生活的Steinlauf后来怎样了？是不是像 [[Maus 鼠族]] 里面的一样呢？
 #### Ka-Be：杰克伦敦笔下的雪橇犬。医院是林菩，上工是地狱。
-#### Our Nights:
+#### Our Nights: 语言不通多次写到。
