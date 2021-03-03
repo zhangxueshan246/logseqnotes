@@ -14,4 +14,4 @@ title: The Complete Works of Primo Levi
 #### Preface: "It seems to me unnecessary to add that none of the facts are invented." 这句看着好忧伤。
 #### The Journey: 笛卡尔式的幻觉是什么意思？
 #### On the Bottom: 喝到水龙头是温水就吐了，大概正常都是喝凉水。引用[[神曲]]。
-#### Initiation:
+#### Initiation: 让Levi在集中营里好好生活的Steinlauf后来怎样了？是不是像 [[Maus 鼠族]] 里面的
