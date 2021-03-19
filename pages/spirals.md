@@ -23,4 +23,4 @@ title: Spirals
 ### 歌德的[植物螺旋论文](https://anthrowiki.at/Bibliothek:Goethe/Naturwissenschaft/%C3%9Cber_die_Spiraltendenz_der_Vegetation)，搜来看了一眼特别浪漫……
 ### 黑格尔：绝对精神？历史发展的螺旋
 #### 尼采：恶性循环-螺旋，是对黑格尔及马列主义的挑战
-####
+#### 本雅明，回应以上三家
