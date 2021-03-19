@@ -13,4 +13,4 @@ title: Spirals
 ### 阿基米德螺旋：数学计算
 ### 神曲：地狱和炼狱
 ### 笛卡尔：等角螺线公式
-### Peter Sloterdijk 三卷本
+### Peter Sloterdijk 三卷本著作Spheres 全球化
