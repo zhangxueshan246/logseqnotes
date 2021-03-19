@@ -21,4 +21,5 @@ title: Spirals
 ### p.29. 巴别塔图片
 ### 维科《新科学》
 ### 歌德的[植物螺旋论文](https://anthrowiki.at/Bibliothek:Goethe/Naturwissenschaft/%C3%9Cber_die_Spiraltendenz_der_Vegetation)，搜来看了一眼特别浪漫……
-### 黑格尔：绝对精神？历史发展的螺旋
+### 黑格尔：绝对精神？历史发展的螺旋，马克思列宁主义
+#### 尼采
