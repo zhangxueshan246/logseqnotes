@@ -7,4 +7,4 @@ title: Spirals
 ### 作为图像的螺旋
 #### 叶芝、庞德、艾略特、乔伊斯
 #### 塔特林塔
-#### 阿兰·巴迪欧（Alain Badiou）
+#### 阿兰·巴迪欧（Alain Badiou）《世纪》
