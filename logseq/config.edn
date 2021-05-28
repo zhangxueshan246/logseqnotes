@@ -88,4 +88,5 @@
  :macros {}
  :feature/enable-block-time? true
  :feature/enable-timetracking? true
- :feature/enable-encryption? false}
+ :feature/enable-encryption? false
+ :markdown/version 2}

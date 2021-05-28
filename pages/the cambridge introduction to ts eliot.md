@@ -1,0 +1,36 @@
+---
+title: The Cambridge Introduction to TS Eliot
+---
+
+- Cooper, John Xiros. The Cambridge Introduction to TS Eliot. Cambridge University Press, 2006. pdf.
+- 生平
+    - 早期1888-1914
+        - 哈佛硕博
+        - 1914罗素在哈佛任客座教授
+        - 1914夏到牛津大学学哲学
+        - 入学之前朋友介绍他去见庞德
+    - 放荡不羁1915-1922
+        - 闪婚 Vivien Haigh-Wood精神疾病，出轨罗素
+        - 入不敷出：教学、书评
+        - 1917 由于妻子家庭关系进入银行工作
+        - The Love Song of J. Alfred Prufrock
+        - 1919个人生活一片混乱 1920开始写荒原
+        - 1922艾略特评论乔伊斯的《尤利西斯》神话方法
+        - 1922疗养，庞德修改，出版荒原
+    - 文人 1923-1945
+        - 结束银行工作，《标准》杂志编辑
+        - 1925 Faber出版社
+        - 1930 改宗英国国教，入英籍
+        - 1933分居，转向戏剧
+        - 战争使戏剧停止，四个四重奏是战争中的工作
+    - 圣人 1945-1965
+        - 1947妻子去世，拒绝通信对象，1957娶Faber公司助理
+        - 1948诺奖
+        - 与过去的大师对话：托马斯·卡莱尔（Thomas Carlyle），约翰·鲁斯金（John Ruskin），乔治·艾略特（George Eliot），查尔斯·狄更斯（Charles Dickens）和马修·阿诺德（Matthew Arnold）
+        - 提携后进：菲利普·拉金（Philip Larkin），泰德·休斯（Ted Hughes）和汤姆·冈恩（Thom Gunn）
+        - 1965 葬礼在西敏寺，墓地在东科尔克村
+- 前因后果
+    - 美国密西西比河岸
+    - 英国，庞德是个善于交际的人
+    - 研究哲学与诗作的关系
+    -

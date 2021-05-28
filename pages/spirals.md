@@ -2,58 +2,58 @@
 title: Spirals
 ---
 
-## Israel, Nico. Spirals: the whirled image in twentieth-century literature and art. Columbia University Press, 2015. pdf.
-## 前言 螺旋
-### 作为图像的螺旋
-#### 叶芝、庞德、艾略特、乔伊斯
-#### 塔特林塔
-### 阿兰·巴迪欧（Alain Badiou）《世纪》
-#### 这是个西方马克思主义角度的书？我能看懂人的立场了？
-## 定义：螺旋简史
-### 阿基米德等速螺线
-### 神曲：地狱和炼狱
-### 笛卡尔：等角螺线
-### Peter Sloterdijk 三卷本著作Spheres
-#### 全球化的三次浪潮
-##### 古希腊几何学、宇宙学和形而上学
-##### 15世纪航海全球化
-##### 20世纪的经济和文化全球化
-### p.29. 巴别塔图片
-### 维科《新科学》
-### 歌德的[植物螺旋论文](https://anthrowiki.at/Bibliothek:Goethe/Naturwissenschaft/%C3%9Cber_die_Spiraltendenz_der_Vegetation)，搜来看了一眼特别浪漫……
-### 黑格尔：绝对精神？历史发展的螺旋
-#### 尼采：恶性循环-螺旋，是对黑格尔及马列主义的挑战
-#### 本雅明：回应以上三家
-## 进入漩涡：’pataphysics、未来主义、旋涡主义
-### ’pataphysics 荒诞玄学/释惑学/后形而上学玄学？这个东西好像很好玩。
-#### 后来和这个人有关：鲍德里亚 Jean Baudrillard
-#### 创始人 Alfred Jarry
-### 漩涡=先锋
-### Ubu和意料之外的野兽
-#### Alfred Jarry 1896 戏剧 Ubu Roi
-##### 原型是麦克白
-#### 1911 Opinions of Doctor Faustroll, Pataphysician
-##### 戏仿浮士德，奥德修斯与佩内洛普
-##### Clinamen：有意的误解，参见：布鲁姆论诗的六种误读 in 童庆炳编文学理论学习参考资料新编（下）
-##### 螺旋与性和权力相关，性就是权力，身体是机器/工具？
-### 意外的游客：意大利未来主义与加速螺旋
-#### Marinetti 未来主义宣言，要找来看
-##### 过去是抑制与束缚，需要暴力打破
-#### Umberto Boccioni 1914 Pittura e scultura Futuriste：Dinamismo plastico，英文 Plastic Dynamism
-##### 动态连续与继承
-##### 旋转与革命，好战联系起来
-##### 人为乐观主义，来源是尼采
-##### 延伸、持续时间等术语来自伯格森 Henri Bergson 1907 Matter and Memory and Creative Evolution
-##### 未来主义与民族复兴和帝国主义扩张融合，变成了墨索里尼主义
-### 像炸弹一样大笑：英国旋涡主义和爆炸螺旋
-#### Wyndham Lewis 旋涡主义宣言，诗作我们的漩涡Our Vortex
-#### 爆炸 Blast 是个杂志？
-##### 螺旋与爆炸的联系
-#### 庞德的诗
-### 男性的克制与战争的漩涡
-#### 庞德和艾略特
-#### 本雅明说的历史主义 “Theses on the Concept of History”
-#### 庞德 THE TURBINE
-#### 过去和种族观念有内在联系，同样导向了法西斯主义
-#### Gaudier-Brzeska 螺旋与死亡、再生
-#### Theodore Andrea Cook 螺旋与生命
+- Israel, Nico. Spirals: the whirled image in twentieth-century literature and art. Columbia University Press, 2015. pdf.
+- 前言 螺旋
+    - 作为图像的螺旋
+        - 叶芝、庞德、艾略特、乔伊斯
+        - 塔特林塔
+    - 阿兰·巴迪欧（Alain Badiou）《世纪》
+        - 这是个西方马克思主义角度的书？我能看懂人的立场了？
+- 定义：螺旋简史
+    - 阿基米德等速螺线
+    - 神曲：地狱和炼狱
+    - 笛卡尔：等角螺线
+    - Peter Sloterdijk 三卷本著作Spheres
+        - 全球化的三次浪潮
+            - 古希腊几何学、宇宙学和形而上学
+            - 15世纪航海全球化
+            - 20世纪的经济和文化全球化
+    - p.29. 巴别塔图片
+    - 维科《新科学》
+    - 歌德的[植物螺旋论文](https://anthrowiki.at/Bibliothek:Goethe/Naturwissenschaft/%C3%9Cber_die_Spiraltendenz_der_Vegetation)，搜来看了一眼特别浪漫……
+    - 黑格尔：绝对精神？历史发展的螺旋
+        - 尼采：恶性循环-螺旋，是对黑格尔及马列主义的挑战
+        - 本雅明：回应以上三家
+- 进入漩涡：’pataphysics、未来主义、旋涡主义
+    - ’pataphysics 荒诞玄学/释惑学/后形而上学玄学？这个东西好像很好玩。
+        - 后来和这个人有关：鲍德里亚 Jean Baudrillard
+        - 创始人 Alfred Jarry
+    - 漩涡=先锋
+    - Ubu和意料之外的野兽
+        - Alfred Jarry 1896 戏剧 Ubu Roi
+            - 原型是麦克白
+        - 1911 Opinions of Doctor Faustroll, Pataphysician
+            - 戏仿浮士德，奥德修斯与佩内洛普
+            - Clinamen：有意的误解，参见：布鲁姆论诗的六种误读 in 童庆炳编文学理论学习参考资料新编（下）
+            - 螺旋与性和权力相关，性就是权力，身体是机器/工具？
+    - 意外的游客：意大利未来主义与加速螺旋
+        - Marinetti 未来主义宣言，要找来看
+            - 过去是抑制与束缚，需要暴力打破
+        - Umberto Boccioni 1914 Pittura e scultura Futuriste：Dinamismo plastico，英文 Plastic Dynamism
+            - 动态连续与继承
+            - 旋转与革命，好战联系起来
+            - 人为乐观主义，来源是尼采
+            - 延伸、持续时间等术语来自伯格森 Henri Bergson 1907 Matter and Memory and Creative Evolution
+            - 未来主义与民族复兴和帝国主义扩张融合，变成了墨索里尼主义
+    - 像炸弹一样大笑：英国旋涡主义和爆炸螺旋
+        - Wyndham Lewis 旋涡主义宣言，诗作我们的漩涡Our Vortex
+        - 爆炸 Blast 是个杂志？
+            - 螺旋与爆炸的联系
+        - 庞德的诗
+    - 男性的克制与战争的漩涡
+        - 庞德和艾略特
+        - 本雅明说的历史主义 “Theses on the Concept of History”
+        - 庞德 THE TURBINE
+        - 过去和种族观念有内在联系，同样导向了法西斯主义
+        - Gaudier-Brzeska 螺旋与死亡、再生
+        - Theodore Andrea Cook 螺旋与生命
