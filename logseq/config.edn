@@ -89,4 +89,5 @@
  :feature/enable-block-time? true
  :feature/enable-timetracking? true
  :feature/enable-encryption? false
- :markdown/version 2}
+ :markdown/version 2
+ :editor/logical-outdenting? true}
