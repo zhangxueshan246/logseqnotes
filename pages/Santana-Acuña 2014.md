@@ -1,4 +1,4 @@
 - Santana-Acuña, Alvaro. "How a literary work becomes a classic: The case of One Hundred Years of Solitude." _American Journal of Cultural Sociology_ 2.1 (2014): 97-149.
 - 《百年孤独》出版的时候，拉丁美洲文学还没有成为一个集体概念。哥伦比亚处在文明的边缘。
 - 1961的墨西哥城是拉美文化的中心。
-- 六七十年代的西班牙图书出版爆炸
+- 六七十年代的西班牙图书出版现代化
