@@ -1,0 +1,1 @@
+- Santana-Acuña, Alvaro. "How a literary work becomes a classic: The case of One Hundred Years of Solitude." American Journal of Cultural Sociology 2.1 (2014): 97-149.
