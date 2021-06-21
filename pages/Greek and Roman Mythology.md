@@ -1,3 +1,3 @@
 - https://www.coursera.org/learn/mythology/home/welcome
 - Week 2
-	- 马林诺夫斯基 功能学派
+	- 马林诺夫斯基 功能学派 结构功能主义
