@@ -4,3 +4,4 @@
 	- Derek Walcott 《奥麦罗斯》Omeros，没有看过荷马史诗。
 - 10 地府之旅
 	- 丁尼生《尤利西斯》in 《丁尼生诗选》
+	- Primo Levi 《这是不是个人？》
