@@ -1,4 +1,4 @@
 - Graziosi, Barbara. _Homer: A Very Short Introduction_. Oxford University Press, 2019. epub.
 - 前言
-	- 但丁彼特拉克没有看过
+	- 但丁、彼特拉克，没有看过荷马史诗
 	- Derek Walcott 《奥麦罗斯》Omeros，没有看过荷马史诗。
