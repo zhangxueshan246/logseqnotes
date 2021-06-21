@@ -1,3 +1,3 @@
 - https://www.coursera.org/learn/mythology/home/welcome
 - Week 2
-	-
+	- 马雅可夫斯基 功能学派
