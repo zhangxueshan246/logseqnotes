@@ -1,2 +1,2 @@
-- Graziosi, Barbara. Homer: A Very Short Introduction. Oxford University Press, 2019.
+- Graziosi, Barbara. _Homer: A Very Short Introduction_. Oxford University Press, 2019. epub.
 -
