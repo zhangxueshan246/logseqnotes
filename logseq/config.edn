@@ -90,4 +90,6 @@
  :feature/enable-timetracking? true
  :feature/enable-encryption? false
  :markdown/version 2
- :editor/logical-outdenting? true}
+ :editor/logical-outdenting? true
+ :graph/settings {:journal? false, :builtin-pages? false, :orphan-pages? true}
+ :feature/enable-block-timestamps? true}
